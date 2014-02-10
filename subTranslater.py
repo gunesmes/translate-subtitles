@@ -2,6 +2,9 @@
 import goslate
 import time
 
+# Author Name: Mesut Güneş
+# Author Email: gunesmes@gmail.com
+# Author Github username: gunesmes
 
 class SubsTranslater():
     def read_file(self, fileName):
