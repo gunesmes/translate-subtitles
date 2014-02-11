@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
-import goslate
-import time
-
 # Author Name: Mesut Güneş
 # Author Email: gunesmes@gmail.com
 # Author Github username: gunesmes
+
+import goslate
+import time
+
 
 class SubsTranslater():
     def read_file(self, fileName):
@@ -166,9 +167,7 @@ class SubsTranslater():
         line        = str()
         
         i = 0
-        for i in range(len(lines)):
-            #print lines[i]
-            
+        for i in range(len(lines)):            
             # print non-translatable lines 
             if lines[i].rstrip().isdigit() and "-->" in lines[i+1] or "-->" in lines[i]:
                 fw.write(lines[i])

@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author Name: Mesut Güneþ
+# Author Email: gunesmes@gmail.com
+# Author Github username: gunesmes
+
 from subTranslater import SubsTranslater
 import os
 
