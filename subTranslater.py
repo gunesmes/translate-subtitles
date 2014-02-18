@@ -4,7 +4,7 @@
 # Author Github username: gunesmes
 
 import goslate
-import time
+import time, requests
 
 
 class SubsTranslater():
@@ -75,8 +75,10 @@ class SubsTranslater():
         return (line_, prefix, suffix)
     
     
-    def send_google_translator(self, prepared_sub, target_language, source_language):
-        # more info about language abbreviation
+    def send_google_translator(self, prepared_sub, source_language, target_language):
+        # Using Google API is not free so we can send sentences via browser for this Goslate module 
+        # is written by ZHUO Qiang. For more information http://pythonhosted.org/goslate/#module-goslate
+        # More info about language abbreviation
         # https://developers.google.com/translate/v2/using_rest#language-params
         try:
             gs = goslate.Goslate()
@@ -86,6 +88,25 @@ class SubsTranslater():
             gs = goslate.Goslate()
         
         return gs.translate(prepared_sub, target_language, source_language)
+    
+    def send_yandex_translator(self, prepared_sub, source_language, target_language):
+        # Using Yandex translator api is free!
+        url             = "https://translate.yandex.net/api/v1.5/tr.json/translate"
+        
+        # Get Yandex API key from http://api.yandex.com/key/form.xml?service=trnsl
+        yandex_api_key  = "get_your_api_key"
+
+        data = {
+            'text': prepared_sub,
+            'format': "json",
+            'lang': source_language + "-" + target_language,
+            'key': yandex_api_key
+        }
+        
+        response = requests.post(url, data)
+        response = response.json()
+        
+        return response['text'][0]
     
             
     def prepare_translated_sub(self, translated_sub, prefix, suffix, _max_length):
@@ -141,7 +162,7 @@ class SubsTranslater():
 
         return translated_lines
 
-    def translate_substitle(self, fileName, target_language, source_language, translator, _max_length):
+    def translate_substitle(self, fileName, source_language, target_language, translator, _max_length):
         """
         this function translate a subtitle file from original language to desired  language
         
@@ -187,8 +208,12 @@ class SubsTranslater():
                 suffix          = serilized_sub[2]
                 
                 if translator.lower() == "google":
-                    # send prepared subtitle to google translate
-                    translated_sub = self.send_google_translator(prepared_sub, target_language, source_language)
+                    # send prepared subtitle to Google translator
+                    translated_sub = self.send_google_translator(prepared_sub, source_language, target_language)
+                 
+                elif translator.lower() == "yandex":
+                    # send prepared subtitle to Yandex translator
+                    translated_sub = self.send_yandex_translator(prepared_sub, source_language, target_language)
                  
                 # prepare sub before writing new subtitle file
                 prepared_lines = self.prepare_translated_sub(translated_sub, prefix, suffix, _max_length)
@@ -199,7 +224,11 @@ class SubsTranslater():
                 fw.write("\n")
                 print ""
                 line = ""
-                       
+        
+        # Print information about the subtitle
+        info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" %translator.upper()
+        fw.write(info)               
+        print(info)               
         print "New file name: ", self.format_file_name(fileName, target_language, source_language)
 
 

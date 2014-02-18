@@ -14,11 +14,11 @@ file_dir = "D:/film/sub/"
 max_length = 40 
 
 # Google can only be choosen as translator. Later, Windows and Yandex can be added.
-translator = "Google"
+translator = "yandex"
 
 # set languages you want to translate
-target_language = "tr"
 source_language = "en"
+target_language = "tr"
 
 
 #set directory
@@ -48,4 +48,4 @@ for i in range(len(files)):
     """
     
     # s.translate_substitle(fileName, target_language, source_language, translator, max_length)    
-    s.translate_substitle(subFile, target_language, source_language, translator, max_length)
+    s.translate_substitle(subFile, source_language, target_language, translator, max_length)
