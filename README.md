@@ -13,7 +13,7 @@ python --version
 Clone the project:
 ```shell
 git clone https://github.com/gunesmes/subtitle_translator.git
-``
+```
 
 # To run the translater
 * you must have a valid subtitle in .srt format

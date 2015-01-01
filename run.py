@@ -3,9 +3,10 @@
 # Author Email: gunesmes@gmail.com
 # Author Github username: gunesmes
 
-from subTranslater import SubsTranslater
 import os, sys, getopt
+sys.path.append("src")
 
+from subTranslater import SubsTranslater
 
 def translater(argv):
     try:
