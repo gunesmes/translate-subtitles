@@ -95,7 +95,7 @@ class SubsTranslater():
         url             = "https://translate.yandex.net/api/v1.5/tr.json/translate"
         
         # Get Yandex API key from http://api.yandex.com/key/form.xml?service=trnsl
-        yandex_api_key  = "set_yandex_api_key"
+        yandex_api_key  = "trnsl.1.1.20140106T084030Z.3541517d44db9cf8.6f93d6aaa1cffc4538aa8f0dc4d36271c09cb3fb"
 
         data = {
             'text': prepared_sub,
