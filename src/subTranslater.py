@@ -6,6 +6,8 @@
 import goslate
 import time, requests, codecs, sys
 
+# get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
+YANDEX_API_KEY = ""
 
 
 class SubsTranslater():
@@ -95,7 +97,7 @@ class SubsTranslater():
         url             = "https://translate.yandex.net/api/v1.5/tr.json/translate"
         
         # Get Yandex API key from http://api.yandex.com/key/form.xml?service=trnsl
-        yandex_api_key  = "set_yandex_api_key"
+        yandex_api_key  = YANDEX_API_KEY
 
         data = {
             'text': prepared_sub,
