@@ -101,7 +101,7 @@ class SubsTranslater():
 
         data = {
             'text': prepared_sub,
-            'format': "json",
+            'format': "plain",
             'lang': source_language + "-" + target_language,
             'key': yandex_api_key
         }
