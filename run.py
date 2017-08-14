@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author Name: Mesut Güneþ
+# Author Name: Mesut GÃ¼neÅŸ
 # Author Email: gunesmes@gmail.com
 # Author Github username: gunesmes
 

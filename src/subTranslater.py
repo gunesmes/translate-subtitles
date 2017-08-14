@@ -110,7 +110,7 @@ class SubsTranslater():
         response = response.json()
         
         if response["code"] > 400:
-            print "\n   Get Yandex API key from 'http://api.yandex.com/key/form.xml?service=trnsl' \n   then set the 'yandex_api_key' at line 98 in 'src/subTranslater.py'\n" 
+            print "\n   Get Yandex API key from 'http://api.yandex.com/key/form.xml?service=trnsl' \n   then set the 'yandex_api_key' at line 100 in 'src/subTranslater.py'\n" 
             sys.exit()
 
         return response['text'][0]
