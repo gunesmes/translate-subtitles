@@ -20,8 +20,9 @@ git clone https://github.com/gunesmes/subtitle_translator.git
 * You can use Google translator or yandex
 * For yandex you must have Yandex Translater API key. You can get it from here: http://api.yandex.com/key/keyslist.xml
 
-* run python file
+* Go to project folder and run python file
 ```shell
+cd /path/to/project
 python run.py <path/to/files> <max-length-of-lines> <translator:google or yandex> <source language> <target language>
 python run.py "/Users/mesutgunes/Projects/subtitle_translator" 40 yandex pl tr
 ````
