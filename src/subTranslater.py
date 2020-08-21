@@ -4,15 +4,15 @@
 # Author Github username: gunesmes
 
 import goslate
-import time, requests, codecs, sys
+import time, requests, codecs, sys, urllib, random
 
 # get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
-YANDEX_API_KEY = ""
+YANDEX_API_KEY = "trnsl.1.1.20160603T091015Z.87ae2d901d0e30b5.c07fcad534693b23c6b5151e4284d79702efd762"
 
 
 class SubsTranslater():
     def read_file(self, fileName):
-        fr = codecs.open(fileName, "r", encoding='utf-8')
+        fr = codecs.open(fileName, "r", encoding='utf-8-sig')
         lines = fr.readlines()
         fr.close()
         
@@ -86,7 +86,7 @@ class SubsTranslater():
         try:
             gs = goslate.Goslate()
         except:
-            print "Wait and send again"
+            print("Wait and send again")
             time.sleep(5)
             gs = goslate.Goslate()
         
@@ -110,7 +110,7 @@ class SubsTranslater():
         response = response.json()
         
         if response["code"] > 400:
-            print "\n   Get Yandex API key from 'http://api.yandex.com/key/form.xml?service=trnsl' \n   then set the 'yandex_api_key' at line 100 in 'src/subTranslater.py'\n" 
+            print("\n   Get Yandex API key from 'http://api.yandex.com/key/form.xml?service=trnsl' \n   then set the 'yandex_api_key' at line 100 in 'src/subTranslater.py'\n" )
             sys.exit()
 
         return response['text'][0]
@@ -199,7 +199,7 @@ class SubsTranslater():
             # print non-translatable lines 
             if lines[i].rstrip().isdigit() and "-->" in lines[i+1] or "-->" in lines[i]:
                 fw.write(lines[i])
-                print lines[i].strip()
+                print(lines[i].strip())
                 continue
             
             # concatenate lines until empty line:
@@ -214,6 +214,7 @@ class SubsTranslater():
                 prefix          = serilized_sub[1]
                 suffix          = serilized_sub[2]
                 
+                time.sleep(random.random()) # sleep some random 0 to 1 second
                 if translator.lower() == "google":
                     # send prepared subtitle to Google translator
                     translated_sub = self.send_google_translator(prepared_sub, source_language, target_language)
@@ -221,21 +222,21 @@ class SubsTranslater():
                 elif translator.lower() == "yandex":
                     # send prepared subtitle to Yandex translator
                     translated_sub = self.send_yandex_translator(prepared_sub, source_language, target_language)
-                 
+                
                 # prepare sub before writing new subtitle file
                 prepared_lines = self.prepare_translated_sub(translated_sub, prefix, suffix, _max_length)
                 for i in range(len(prepared_lines)):
-                    print prepared_lines[i]
+                    print(prepared_lines[i])
                     fw.write(str("%s\n" %prepared_lines[i].encode("utf8")))
                     
                 fw.write("\n")
-                print ""
+                print("")
                 line = ""
         
         # Print information about the subtitle
         info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" %translator.upper()
         fw.write(info)               
         print(info)               
-        print "New file name: ", self.format_file_name(fileName, target_language, source_language)
+        print("New file name: ", self.format_file_name(fileName, target_language, source_language))
 
 

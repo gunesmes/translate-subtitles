@@ -14,6 +14,7 @@ import functools
 import time
 import socket
 import xml.etree.ElementTree
+import requests
 
 try:
     from urllib.request import build_opener, Request, HTTPHandler, HTTPSHandler
@@ -180,6 +181,7 @@ class Goslate(object):
 
     def _basic_translate(self, text, target_language, source_language=''):
         # assert _is_bytes(text)
+        print(text)
         
         if not target_language:
             raise Error('invalid target language')
@@ -190,24 +192,20 @@ class Goslate(object):
         # Browser request for 'hello world' is:
         # http://translate.google.com/translate_a/t?client=t&hl=en&sl=en&tl=zh-CN&ie=UTF-8&oe=UTF-8&multires=1&prev=conf&psl=en&ptl=en&otf=1&it=sel.2016&ssel=0&tsel=0&prev=enter&oc=3&ssel=0&tsel=0&sc=1&text=hello%20world
 
-        GOOGLE_TRASLATE_URL = 'http://translate.google.com/translate_a/t'
-        GOOGLE_TRASLATE_PARAMETERS = {
-            # 't' client will receiver non-standard json format
-            # change client to something other than 't' to get standard json response
-            'client': 'z',
-            'sl': source_language,
-            'tl': target_language,
-            'ie': 'UTF-8',
-            'oe': 'UTF-8',
-            'text': text
-            }
+        GOOGLE_TRASLATE_URL = 'https://translate.googleapis.com/translate_a/single'
+        GOOGLE_TRASLATE_PARAMETERS = [
+            ('client', 'gtx'),
+            ('sl', source_language),
+            ('tl', target_language),
+            ('dt', 't'),
+            ('q', text)
+            ]
 
-        url = '?'.join((GOOGLE_TRASLATE_URL, urlencode(GOOGLE_TRASLATE_PARAMETERS)))
-        response_content = self._open_url(url)
-        data = json.loads(response_content)
-        translation = u''.join(i['trans'] for i in data['sentences'])
-        detected_source_language = data['src']
-        return translation, detected_source_language
+        url = '?'.join((GOOGLE_TRASLATE_URL, urlencode(GOOGLE_TRASLATE_PARAMETERS, True)))
+        response_content = requests.get(url)
+        data = response_content.json()
+        translation = data[0][0][0]
+        return translation
 
 
     def get_languages(self):
@@ -278,7 +276,7 @@ class Goslate(object):
             yield unquote_plus(text[start:])
 
         def make_task(text):
-            return lambda: self._basic_translate(text, target_language, source_lauguage)[0]
+            return lambda: self._basic_translate(text, target_language, source_lauguage)
 
         return ''.join(self._execute(make_task(i) for i in split_text(text)))
 

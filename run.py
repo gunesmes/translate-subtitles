@@ -3,7 +3,7 @@
 # Author Email: gunesmes@gmail.com
 # Author Github username: gunesmes
 
-import os, sys, getopt
+import os, sys, getopt, time
 sys.path.append("src")
 
 from subTranslater import SubsTranslater
@@ -11,8 +11,9 @@ from subTranslater import SubsTranslater
 def translater(argv):
     try:
         optlist, args = getopt.getopt(sys.argv[1:], "options")
+        print(args)
     except getopt.GetoptError, err:
-      print err
+      print(err)
       sys.exit(2)
 
     try:
@@ -31,8 +32,8 @@ def translater(argv):
         source_language = args[3]
         target_language = args[4]
     except IndexError:
-        print "Arguments Error! Please run the file with the following format:" 
-        print "\n   python run.py 'path/to/files' 'max-length-of-lines' 'translator:google or yandex' 'source language' 'target language'\n   python run.py /Users/mesutgunes/Projects/subtitle_translator 40 google pl tr\n"
+        print("Arguments Error! Please run the file with the following format:" )
+        print("\n   python run.py 'path/to/files' 'max-length-of-lines' 'translator:google or yandex' 'source language' 'target language'\n   python run.py /Users/mesutgunes/Projects/subtitle_translator 40 google pl tr\n")
         sys.exit(2)
 
     #set directory
