@@ -3,6 +3,7 @@ subtitle_translator
 
 Translate a subtitle file from original language to desired  language. This gives you a machine translated subtitle.
 
+![Subtitle Demo Gif](img/tty.gif)
 
 Make sure you have Python 2.7 or above installed
 Check Python:
@@ -26,7 +27,6 @@ cd /path/to/project
 python run.py <path/to/files> <max-length-of-lines> <translator:google or yandex> <source language> <target language>
 python run.py "/Users/mesutgunes/Projects/subtitle_translator" 40 yandex pl tr
 ````
-![Subtitle Demo Gif](img/tty.gif)
 
 - Don't wory about source language, translater can understand it.
 - Check language abbreviation: https://developers.google.com/translate/v2/using_rest#language-params
