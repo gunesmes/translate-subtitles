@@ -1,0 +1,2479 @@
+1
+00:00:47,140 --> 00:00:49,270
+b'<i>En iyi dileklerimle anne!</i>'
+
+2
+00:00:49,280 --> 00:00:53,100
+b'- Benim i\xc3\xa7in? '
+
+3
+00:00:53,160 --> 00:00:54,270
+b'Abartmadan...'
+
+4
+00:00:54,270 --> 00:00:55,260
+b'Ama te\xc5\x9fekk\xc3\xbcr ederim.'
+
+5
+00:00:55,280 --> 00:00:57,610
+b'- A\xc3\xa7abilir miyim? '
+
+6
+00:00:57,690 --> 00:00:59,150
+b'Tanr\xc4\xb1m...'
+
+7
+00:01:02,730 --> 00:01:04,500
+b'- M\xc3\xbcthi\xc5\x9f! '
+
+8
+00:01:04,560 --> 00:01:06,700
+b'- Sevimli!'
+
+9
+00:01:06,730 --> 00:01:08,900
+b'- De\xc4\x9fi\xc5\x9ftirebilirsin ...'
+b'- Hayatta!'
+
+10
+00:01:08,920 --> 00:01:10,640
+b'- Ger\xc3\xa7ekten sevdim. '
+
+11
+00:01:10,870 --> 00:01:12,230
+b'- Ge\xc3\xa7 kald\xc4\xb1\xc4\x9f\xc4\xb1m i\xc3\xa7in \xc3\xb6z\xc3\xbcr dilerim.'
+
+12
+00:01:12,250 --> 00:01:14,000
+b'- Lisa nerede?'
+
+13
+00:01:15,010 --> 00:01:16,200
+b'Ayr\xc4\xb1ld\xc4\xb1k.'
+
+14
+00:01:16,530 --> 00:01:19,940
+b'Ve yine bekar durumunuzla \xc3\xb6v\xc3\xbcnebilirsiniz.'
+
+15
+00:01:22,040 --> 00:01:24,330
+b'Hediyemi unuttum. '
+
+16
+00:01:24,400 --> 00:01:26,510
+b'\xc3\x96nemli de\xc4\x9fil, umar\xc4\xb1m pahal\xc4\xb1 olmam\xc4\xb1\xc5\x9ft\xc4\xb1r.'
+
+17
+00:01:26,510 --> 00:01:28,000
+b'O de\xc4\x9fildi.'
+
+18
+00:01:29,050 --> 00:01:30,090
+b'Nerelerdeydin?'
+
+19
+00:01:30,160 --> 00:01:35,200
+b'Acil serviste bir adam\xc4\xb1 6 yerinden b\xc4\xb1\xc3\xa7aklad\xc4\xb1k...'
+
+20
+00:01:35,220 --> 00:01:38,190
+b'- Kes \xc5\x9funu Tom, yemek yerken de\xc4\x9fil. '
+
+21
+00:01:38,200 --> 00:01:39,320
+b'Ama yak\xc4\xb1nda orada olaca\xc4\x9f\xc4\xb1m.'
+
+22
+00:01:41,600 --> 00:01:44,760
+b"- Lydia'yla konu\xc5\x9ftun mu? "
+
+23
+00:01:44,800 --> 00:01:47,590
+b'Gelmek istedi ama \xc3\xb6nemli bir duru\xc5\x9fmas\xc4\xb1 var.'
+
+24
+00:01:47,610 --> 00:01:52,270
+b'- Ne i\xc3\xa7in? '
+
+25
+00:01:52,300 --> 00:01:55,600
+b'- Belki de bu onun b\xc3\xbcy\xc3\xbck \xc5\x9fans\xc4\xb1d\xc4\xb1r. '
+
+26
+00:01:55,630 --> 00:01:57,050
+b'\xc5\x9e\xc3\xbcpheliyim.'
+
+27
+00:01:58,680 --> 00:01:59,880
+b'Durmak!'
+
+28
+00:01:59,910 --> 00:02:01,990
+b'Bu tutum nereden geliyor?'
+
+29
+00:02:02,020 --> 00:02:04,550
+b'Muhtemelen bebeklerinizi k\xc3\xbc\xc3\xa7\xc3\xbckken k\xc4\xb1rd\xc4\xb1n\xc4\xb1z.'
+
+30
+00:02:04,580 --> 00:02:07,080
+b'Aksine, k\xc4\xb1z karde\xc5\x9fimle iyi bir ili\xc5\x9fkim vard\xc4\xb1.'
+
+31
+00:02:07,110 --> 00:02:09,990
+b"Anna ve Lidia'y\xc4\xb1 kastetmi\xc5\x9ftim."
+
+32
+00:02:10,060 --> 00:02:12,370
+b'Tanr\xc4\xb1m, ba\xc5\x9f\xc4\xb1ma ne geldi bilmiyorum.'
+
+33
+00:02:12,630 --> 00:02:14,610
+b'Bug\xc3\xbcn senin do\xc4\x9fum g\xc3\xbcn\xc3\xbcn anne.'
+
+34
+00:02:14,630 --> 00:02:16,160
+b'\xc3\x96yleyse bir tost yapal\xc4\xb1m. '
+
+35
+00:02:16,200 --> 00:02:18,610
+b'Baba! '
+
+36
+00:02:21,470 --> 00:02:25,450
+b'En g\xc3\xbczel ve en bilge kad\xc4\xb1n i\xc3\xa7in,'
+
+37
+00:02:25,470 --> 00:02:27,910
+b'hayat\xc4\xb1mda g\xc3\xb6rd\xc3\xbcm.'
+
+38
+00:02:30,180 --> 00:02:31,910
+b'- Her\xc5\x9fey g\xc3\xb6nl\xc3\xbcnce olsun!'
+
+39
+00:02:32,080 --> 00:02:33,450
+b'- Seni seviyoruz! '
+
+40
+00:02:33,880 --> 00:02:35,590
+b'- Sa\xc4\x9fl\xc4\xb1k!'
+
+41
+00:02:44,680 --> 00:02:46,320
+b'<i>Benim ad\xc4\xb1m Frederick Johnson.</i>'
+
+42
+00:02:46,320 --> 00:02:49,500
+b"<i>California \xc3\x9cniversitesi'nde dilbilim profes\xc3\xb6r\xc3\xbcy\xc3\xbcm.</i>"
+
+43
+00:02:49,510 --> 00:02:53,020
+b"ve New York'tan misafirimize ho\xc5\x9f geldiniz demek istiyorum.</i>"
+
+44
+00:02:53,150 --> 00:02:55,060
+b'Doktora tezinde'
+
+45
+00:02:55,100 --> 00:02:58,300
+b'Bug\xc3\xbcnk\xc3\xbc misafirden al\xc4\xb1nt\xc4\xb1 yapt\xc4\xb1\xc4\x9f\xc4\xb1m b\xc3\xb6l\xc3\xbcm\xc3\xbc yazd\xc4\xb1m.'
+
+46
+00:02:58,350 --> 00:03:00,350
+b've onun yan\xc4\xb1ld\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 kan\xc4\xb1tlamaya \xc3\xa7al\xc4\xb1\xc5\x9ft\xc4\xb1.'
+
+47
+00:03:02,510 --> 00:03:06,260
+b'Ama her tart\xc4\xb1\xc5\x9ft\xc4\xb1\xc4\x9f\xc4\xb1m\xc4\xb1zda hakl\xc4\xb1yd\xc4\xb1.'
+
+48
+00:03:07,010 --> 00:03:10,720
+b'Alice Howland \xc3\xb6nde gelen bir dilbilim profes\xc3\xb6r\xc3\xbcd\xc3\xbcr.'
+
+49
+00:03:10,780 --> 00:03:13,550
+b'Columbia \xc3\x9cniversitesi ve \xc3\xbcnl\xc3\xbc kitab\xc4\xb1n yazar\xc4\xb1:'
+
+50
+00:03:13,560 --> 00:03:15,520
+b'"Molek\xc3\xbcllerden Zihne".'
+
+51
+00:03:15,550 --> 00:03:19,470
+b'\xc3\x9c\xc3\xa7 \xc3\xa7ocuk yeti\xc5\x9ftirirken yazd\xc4\xb1. '
+
+52
+00:03:19,500 --> 00:03:25,640
+b'Yine de, ara\xc5\x9ft\xc4\xb1rmas\xc4\xb1 dilbilimde bir d\xc3\xbcnya at\xc4\xb1l\xc4\xb1m\xc4\xb1 oldu.'
+
+53
+00:03:26,350 --> 00:03:29,620
+b"Dr. Alice Howland'\xc4\xb1 kar\xc5\x9f\xc4\xb1layal\xc4\xb1m!"
+
+54
+00:03:34,440 --> 00:03:36,830
+b'Te\xc5\x9fekk\xc3\xbcr ederim.'
+
+55
+00:03:38,020 --> 00:03:40,340
+b'\xc3\x87o\xc4\x9fu \xc3\xa7ocuk anlayabilir'
+
+56
+00:03:40,340 --> 00:03:42,800
+b've ana dilini kullan'
+
+57
+00:03:42,800 --> 00:03:47,790
+b'4 ya\xc5\x9f\xc4\xb1ndan \xc3\xb6nce, herhangi bir ders veya \xc3\xb6dev olmadan.'
+
+58
+00:03:47,810 --> 00:03:50,250
+b'Nas\xc4\xb1l m\xc3\xbcmk\xc3\xbcn olabilir?'
+
+59
+00:03:50,250 --> 00:03:54,200
+b"Bu soru Darwin'den beri bilim adamlar\xc4\xb1n\xc4\xb1 rahats\xc4\xb1z ediyor"
+
+60
+00:03:54,200 --> 00:03:58,020
+b'ayl\xc4\xb1k o\xc4\x9flunun dilini detayland\xc4\xb1ran bir g\xc3\xbcnl\xc3\xbck '
+b'tutmaya ba\xc5\x9flad\xc4\xb1.'
+
+61
+00:03:58,020 --> 00:04:01,630
+b'Konu\xc5\x9fman\xc4\xb1n i\xc3\xa7g\xc3\xbcd\xc3\xbcsel bir \xc5\x9fey oldu\xc4\x9funu fark etti,'
+
+62
+00:04:01,670 --> 00:04:04,660
+b'\xc3\xa7ocuklar\xc4\xb1n gevezeli\xc4\x9fi bu y\xc3\xbczden.'
+
+63
+00:04:04,790 --> 00:04:07,060
+b'Art\xc4\xb1k onun hakk\xc4\xb1nda \xc3\xa7ok daha fazla \xc5\x9fey biliyoruz,'
+
+64
+00:04:07,080 --> 00:04:09,310
+b'Ama bug\xc3\xbcn odaklanmak istiyorum'
+
+65
+00:04:09,330 --> 00:04:14,310
+b'ge\xc3\xa7mi\xc5\x9f zaman bilimi \xc3\xbczerine kendi ara\xc5\x9ft\xc4\xb1rmam'
+
+66
+00:04:14,340 --> 00:04:18,040
+b'18 ay ile 2,5 ya\xc5\x9f aras\xc4\xb1ndaki \xc3\xa7ocuklarda.'
+
+67
+00:04:18,110 --> 00:04:20,050
+b'D\xc3\xbc\xc5\x9f\xc3\xbcnebilirsin'
+
+68
+00:04:20,050 --> 00:04:22,000
+b'neredeyse bir gelenek'
+
+69
+00:04:22,000 --> 00:04:24,180
+b'daha \xc3\xa7ok ve daha az bildi\xc4\x9fimiz yerde'
+
+70
+00:04:24,180 --> 00:04:26,300
+b'hi\xc3\xa7bir \xc5\x9fey hakk\xc4\xb1nda hi\xc3\xa7bir \xc5\x9fey \xc3\xb6\xc4\x9frenene kadar.'
+
+71
+00:04:27,390 --> 00:04:31,200
+b'Ancak, umar\xc4\xb1m \xc3\xa7ocuklar\xc4\xb1n ustal\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 izleyerek ...'
+
+72
+00:04:37,050 --> 00:04:38,130
+b'usta ...'
+
+73
+00:04:40,240 --> 00:04:43,210
+b'Bana gereksiz yere \xc5\x9fampanya ikram ettiler.'
+
+74
+00:04:46,010 --> 00:04:50,790
+b'belirli bir dilin kelime taban\xc4\xb1na hakim olmak,'
+
+75
+00:04:51,090 --> 00:04:55,240
+b'bellek aras\xc4\xb1ndaki ili\xc5\x9fkiyi ara\xc5\x9ft\xc4\xb1rabilece\xc4\x9fiz.'
+
+76
+00:04:55,260 --> 00:04:59,900
+b've ileti\xc5\x9fimin temeli olan i\xc5\x9fleme.'
+
+77
+00:05:07,270 --> 00:05:08,630
+b's\xc3\xb6zl\xc3\xbck.'
+
+78
+00:06:00,150 --> 00:06:01,300
+b'- Selam!'
+
+79
+00:06:01,320 --> 00:06:04,570
+b'Beni biraz \xc5\x9fa\xc5\x9f\xc4\xb1rtt\xc4\xb1n.'
+
+80
+00:06:04,900 --> 00:06:08,280
+b'\xc4\xb0\xc3\xa7eri gel! '
+
+81
+00:06:08,300 --> 00:06:11,980
+b'- ...Temizlik yap\xc4\xb1yordum. '
+
+82
+00:06:12,230 --> 00:06:14,180
+b'Adamlar \xc3\xa7ok u\xc4\x9fra\xc5\x9f\xc4\xb1yorlar.'
+
+83
+00:06:14,270 --> 00:06:19,210
+b'Genelde mutfakta, ama onlar\xc4\xb1 \xc3\xa7ok haval\xc4\xb1 e\xc4\x9fitebilirim.'
+
+84
+00:06:19,410 --> 00:06:22,160
+b'- Nerede? '
+
+85
+00:06:23,300 --> 00:06:25,890
+b"Doug Starbucks'ta \xc3\xa7al\xc4\xb1\xc5\x9f\xc4\xb1yor, Malcolm bir garson."
+
+86
+00:06:26,080 --> 00:06:27,610
+b'Yani b\xc3\xb6yle g\xc3\xb6r\xc3\xbcn\xc3\xbcyor'
+
+87
+00:06:27,630 --> 00:06:29,190
+b'profesyonel oyunculuk'
+
+88
+00:06:31,090 --> 00:06:34,120
+b'- Onlardan birini g\xc3\xb6r\xc3\xbcyor musun? '
+
+89
+00:06:34,560 --> 00:06:36,290
+b'Malcolm ve ben k\xc4\xb1sa bir y\xc3\xbcr\xc3\xbcy\xc3\xbc\xc5\x9f yapt\xc4\xb1k.'
+
+90
+00:06:36,980 --> 00:06:38,030
+b'Baraj\xc4\xb1n tamam\xc4\xb1 su.'
+
+91
+00:06:40,730 --> 00:06:43,350
+b'Ama bana "A\xc3\xa7\xc4\xb1k Alan" tiyatrosunda i\xc5\x9f buldu...'
+
+92
+00:06:43,470 --> 00:06:44,920
+b'Duydum.'
+
+93
+00:06:47,100 --> 00:06:49,060
+b'Oh te\xc5\x9fekk\xc3\xbcr ederim, az \xc3\xb6nce bitirdim.'
+
+94
+00:06:52,040 --> 00:06:54,710
+b'Ke\xc5\x9fke g\xc3\xb6steriyi g\xc3\xb6rseydin.'
+
+95
+00:06:54,900 --> 00:06:57,110
+b'Baban seni \xc3\xb6vd\xc3\xbc.'
+
+96
+00:06:57,140 --> 00:07:00,100
+b'En iyi rol\xc3\xbcm de\xc4\x9fildi, ama her zaman bir \xc5\x9feydir.'
+
+97
+00:07:03,000 --> 00:07:04,560
+b'Babam\xc4\xb1n pay\xc4\xb1 vard\xc4\xb1.'
+
+98
+00:07:05,350 --> 00:07:09,150
+b'- Firmas\xc4\xb1 \xc3\xbcretimlere yard\xc4\xb1mc\xc4\xb1 oluyor. '
+
+99
+00:07:10,860 --> 00:07:12,810
+b'Ondan ho\xc5\x9f.'
+
+100
+00:07:12,860 --> 00:07:14,640
+b'\xc5\x9eirketi size nas\xc4\xb1l yard\xc4\xb1mc\xc4\xb1 oluyor?'
+
+101
+00:07:14,730 --> 00:07:19,110
+b'Her oyuncu yap\xc4\xb1m i\xc3\xa7in fazladan \xc3\xb6deme yapmak zorundad\xc4\xb1r.'
+
+102
+00:07:19,130 --> 00:07:24,020
+b'Ve sonunda k\xc3\xa2r\xc4\xb1n bir k\xc4\xb1sm\xc4\xb1n\xc4\xb1 al\xc4\xb1yoruz. '
+
+103
+00:07:24,040 --> 00:07:26,390
+b'Yani oynamak i\xc3\xa7in para \xc3\xb6demek zorunda m\xc4\xb1s\xc4\xb1n?'
+
+104
+00:07:26,410 --> 00:07:32,540
+b'Hay\xc4\xb1r, b\xc3\xb6yle bir tiyatro grubu ve ger\xc3\xa7ek bu'
+
+105
+00:07:32,570 --> 00:07:34,510
+b"Los Angeles'ta b\xc3\xb6yle g\xc3\xb6r\xc3\xbcn\xc3\xbcyor."
+
+106
+00:07:34,540 --> 00:07:37,710
+b'Lidia, sence de bir \xc5\x9feyleri de\xc4\x9fi\xc5\x9ftirmenin zaman\xc4\xb1 '
+b'gelmedi mi?'
+
+107
+00:07:37,730 --> 00:07:42,000
+b'\xc3\x87ok ak\xc4\xb1ll\xc4\xb1s\xc4\xb1n, \xc3\xa7ok fazla se\xc3\xa7ene\xc4\x9fin var.'
+
+108
+00:07:42,030 --> 00:07:44,800
+b'- \xc3\x9cniversiteye gitmek ister misin? '
+
+109
+00:07:44,830 --> 00:07:48,400
+b'Bunu bana hayat\xc4\xb1n boyunca s\xc3\xb6yl\xc3\xbcyorsun, her g\xc3\xbcn s\xc3\xb6yl\xc3\xbcyorsun.'
+
+110
+00:07:49,830 --> 00:07:52,040
+b'Hep yapmak istedi\xc4\x9fim \xc5\x9feyi yap\xc4\xb1yorum.'
+
+111
+00:07:52,100 --> 00:07:54,950
+b'- Olduk\xc3\xa7a iyi. '
+
+112
+00:07:54,980 --> 00:07:58,080
+b"Tom'a t\xc4\xb1pta yard\xc4\xb1m ettin ve Annie hukuka gitti."
+
+113
+00:07:58,110 --> 00:07:59,210
+b'Sevgilim...'
+
+114
+00:07:59,240 --> 00:08:04,220
+b'Bu gelece\xc4\x9fi olan bir yar\xc4\xb1\xc5\x9fma. '
+
+115
+00:08:05,080 --> 00:08:07,170
+b'- Beni k\xc4\xb1s\xc4\xb1tl\xc4\xb1yorsun. '
+
+116
+00:08:10,220 --> 00:08:12,160
+b'Mutluyum.'
+
+117
+00:08:14,220 --> 00:08:18,860
+b'\xc3\x9czg\xc3\xbcn\xc3\xbcm ... Tart\xc4\xb1\xc5\x9fmak istemiyorum.'
+
+118
+00:08:19,830 --> 00:08:22,200
+b'- Dedi\xc4\x9fim \xc5\x9feyi unut. '
+
+119
+00:08:24,770 --> 00:08:25,890
+b'SMS?'
+
+120
+00:08:25,930 --> 00:08:27,840
+b'hay\xc4\xb1r bu sadece bir oyun'
+
+121
+00:08:27,840 --> 00:08:30,410
+b'k\xc4\xb1z karde\xc5\x9finle yapt\xc4\xb1\xc4\x9f\xc4\xb1m kelime oyunlar\xc4\xb1.'
+
+122
+00:08:30,490 --> 00:08:31,340
+b'Sevimli.'
+
+123
+00:08:31,360 --> 00:08:33,830
+b'Hala kazan\xc4\xb1yor, bir \xc5\x9feytan gibi ba\xc4\x9fl\xc4\xb1.'
+
+124
+00:08:33,850 --> 00:08:35,270
+b'\xc5\x9ea\xc5\x9f\xc4\xb1rmad\xc4\xb1m.'
+
+125
+00:08:57,570 --> 00:08:58,710
+b'John!'
+
+126
+00:09:03,040 --> 00:09:04,040
+b'Geri d\xc3\xb6nd\xc3\xbcm!'
+
+127
+00:09:22,090 --> 00:09:24,210
+b'<i>Neredesin?</i>'
+
+128
+00:11:19,740 --> 00:11:22,050
+b'- U\xc3\xa7an biri? '
+
+129
+00:11:24,200 --> 00:11:25,000
+b'-Ali?'
+
+130
+00:11:27,350 --> 00:11:29,770
+b'-Neredeydin? '
+
+131
+00:11:31,450 --> 00:11:33,400
+b'- Nas\xc4\xb1l gitti? '
+
+132
+00:11:33,620 --> 00:11:38,800
+b'- Dersin. '
+
+133
+00:11:38,820 --> 00:11:41,080
+b'\xc5\x9e\xc3\xbcphe etmiyorum.'
+
+134
+00:11:41,730 --> 00:11:45,830
+b'-Lidia nas\xc4\xb1l? '
+
+135
+00:11:47,670 --> 00:11:53,310
+b'- Tart\xc4\xb1\xc5\x9f\xc4\xb1yor muydunuz? '
+
+136
+00:11:56,330 --> 00:12:00,800
+b'Onun tiyatrosunu finanse etti\xc4\x9finizi \xc3\xb6\xc4\x9frendim.'
+
+137
+00:12:01,010 --> 00:12:02,430
+b'Sana ondan bahsetmi\xc5\x9ftim.'
+
+138
+00:12:03,180 --> 00:12:05,850
+b'- De\xc4\x9fil. '
+
+139
+00:12:05,930 --> 00:12:06,930
+b'Demedin.'
+
+140
+00:12:06,950 --> 00:12:10,670
+b'\xc3\x9czg\xc3\xbcn\xc3\xbcm ama hala laboratuarda yapmam gereken i\xc5\x9fler var.'
+
+141
+00:12:10,700 --> 00:12:12,130
+b'Beni geri g\xc3\xb6t\xc3\xbcr\xc3\xbcr m\xc3\xbcs\xc3\xbcn?'
+
+142
+00:12:12,150 --> 00:12:15,240
+b'Kamp\xc3\xbcse geri d\xc3\xb6nmek istemiyorum.'
+
+143
+00:12:15,260 --> 00:12:18,080
+b'Daha yeni d\xc3\xb6nd\xc3\xbcm. '
+
+144
+00:12:20,740 --> 00:12:21,740
+b'Tamam?'
+
+145
+00:12:21,740 --> 00:12:25,790
+b'Elbette, ama \xc3\xb6\xc4\x9fleden sonray\xc4\xb1 birlikte '
+b'ge\xc3\xa7irece\xc4\x9fimizi d\xc3\xbc\xc5\x9f\xc3\xbcnm\xc3\xbc\xc5\x9ft\xc3\xbcm.'
+
+146
+00:12:25,970 --> 00:12:29,100
+b'Ve harcayaca\xc4\x9f\xc4\xb1z. '
+
+147
+00:12:29,110 --> 00:12:31,420
+b've belki bir film izleriz.'
+
+148
+00:12:32,990 --> 00:12:34,630
+b'\xc3\xa7ok yoruldum.'
+
+149
+00:12:37,220 --> 00:12:40,140
+b'Dinlenin, rahatlay\xc4\xb1n.'
+
+150
+00:12:51,380 --> 00:12:54,020
+b'<i>Son zamanlarda k\xc3\xbc\xc3\xa7\xc3\xbck \xc5\x9feyleri unutma e\xc4\x9filimindeyim</i>'
+
+151
+00:12:54,030 --> 00:12:55,930
+b'<i>kelimeler veya isimler gibi.</i>'
+
+152
+00:12:56,240 --> 00:13:00,180
+b'Bir keresinde kamp\xc3\xbcse ko\xc5\x9farken ger\xc3\xa7ekten kayboldum.'
+
+153
+00:13:00,210 --> 00:13:03,000
+b'Doktor menopoz olabilece\xc4\x9fini s\xc3\xb6yledi.'
+
+154
+00:13:03,000 --> 00:13:05,890
+b'ama son adetim \xc5\x9fubatta ve sonra eyl\xc3\xbcldeydi.'
+
+155
+00:13:05,890 --> 00:13:07,970
+b'Do\xc4\x9fum g\xc3\xbcn\xc3\xbcnden hemen \xc3\xb6nce, yani...'
+
+156
+00:13:08,120 --> 00:13:10,860
+b'Herhangi bir ila\xc3\xa7 al\xc4\xb1yor musun?'
+
+157
+00:13:10,980 --> 00:13:14,150
+b'multivitamin, folik asit,'
+
+158
+00:13:14,180 --> 00:13:17,350
+b'magnezyum, demir, bazen uyku haplar\xc4\xb1,'
+
+159
+00:13:17,380 --> 00:13:18,420
+b'ama hareket halinde.'
+
+160
+00:13:18,450 --> 00:13:20,430
+b'- Kafa yaralanmas\xc4\xb1 var m\xc4\xb1? '
+
+161
+00:13:22,230 --> 00:13:26,350
+b'Depresyon belirtileriniz var m\xc4\xb1 veya stres alt\xc4\xb1nda m\xc4\xb1s\xc4\xb1n\xc4\xb1z?'
+
+162
+00:13:26,380 --> 00:13:29,710
+b'- Hay\xc4\xb1r, \xc3\xa7ok \xc3\xa7al\xc4\xb1\xc5\x9f\xc4\xb1yorum ama mesle\xc4\x9fimi seviyorum. '
+
+163
+00:13:29,970 --> 00:13:31,620
+b'Evet, 7 saat sonra.'
+
+164
+00:13:32,470 --> 00:13:38,080
+b'Sana ad\xc4\xb1n\xc4\xb1 ve adresini verece\xc4\x9fim ve daha sonra '
+b'okuman\xc4\xb1 isteyece\xc4\x9fim.'
+
+165
+00:13:38,110 --> 00:13:42,430
+b'John Black, 42 \xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8b\xe2\x80\x8bWashington Caddesi, Hoboken.'
+
+166
+00:13:42,550 --> 00:13:46,610
+b'- Bunu tekrar edebilir misiniz? '
+
+167
+00:13:46,620 --> 00:13:48,360
+b'Peki. '
+
+168
+00:13:48,380 --> 00:13:51,130
+b'- 50.'
+b'- Bug\xc3\xbcn\xc3\xbcn tarihi?'
+
+169
+00:13:51,160 --> 00:13:53,110
+b'- 26 Kas\xc4\xb1m. '
+
+170
+00:13:53,140 --> 00:13:56,020
+b"New York'taki enstit\xc3\xbcn\xc3\xbcn \xc3\xbc\xc3\xa7\xc3\xbcnc\xc3\xbc kat\xc4\xb1nda."
+
+171
+00:13:56,060 --> 00:14:00,110
+b'- L\xc3\xbctfen "su" kelimesini heceleyin. '
+
+172
+00:14:00,330 --> 00:14:03,250
+b'- \xc5\x9eimdi arkadan - A-D-O-W.'
+
+173
+00:14:04,070 --> 00:14:06,720
+b'Bu resimlerde ne g\xc3\xb6r\xc3\xbcyorsunuz?'
+
+174
+00:14:06,980 --> 00:14:11,670
+b'oyuncular, merdiven, denizat\xc4\xb1,'
+
+175
+00:14:12,730 --> 00:14:15,130
+b'- tornavida, fil.'
+
+176
+00:14:17,030 --> 00:14:20,080
+b'Bana anne babandan bahset.'
+
+177
+00:14:20,090 --> 00:14:22,200
+b'\xc4\xb0kisi de \xc3\xb6ld\xc3\xbc, anne ve k\xc4\xb1z karde\xc5\x9f'
+
+178
+00:14:22,220 --> 00:14:24,070
+b'bir kazada \xc3\xb6ld\xc3\xbc'
+
+179
+00:14:24,160 --> 00:14:28,020
+b"ben 18 ya\xc5\x9f\xc4\xb1mdayken ve babam 1999'da karaci\xc4\x9fer "
+b'yetmezli\xc4\x9finden \xc3\xb6ld\xc3\xbc\xc4\x9f\xc3\xbcnde...'
+
+180
+00:14:28,030 --> 00:14:29,480
+b'Hepatit?'
+
+181
+00:14:29,500 --> 00:14:32,040
+b'Siroz, o bir alkolikti.'
+
+182
+00:14:32,170 --> 00:14:34,790
+b'\xc3\x96l\xc3\xbcm\xc3\xbcnden k\xc4\xb1sa bir s\xc3\xbcre \xc3\xb6nce nas\xc4\xb1l biriydi?'
+
+183
+00:14:35,290 --> 00:14:39,250
+b'Dikkati da\xc4\x9f\xc4\xb1lm\xc4\xb1\xc5\x9f, agresif, ger\xc3\xa7ekten'
+
+184
+00:14:39,280 --> 00:14:41,560
+b'birbirimizi g\xc3\xb6rmedik.'
+
+185
+00:14:41,600 --> 00:14:44,490
+b"New Hampshire'da ya\xc5\x9f\xc4\xb1yordu ve yak\xc4\xb1n de\xc4\x9fildik."
+
+186
+00:14:45,410 --> 00:14:48,680
+b'\xc3\x9czg\xc3\xbcn\xc3\xbcm. '
+
+187
+00:14:48,750 --> 00:14:50,790
+b'Hay\xc4\xb1r, sadece bir k\xc4\xb1z karde\xc5\x9fim vard\xc4\xb1.'
+
+188
+00:14:51,760 --> 00:14:53,570
+b'L\xc3\xbctfen bu ad\xc4\xb1 ve adresi belirtin,'
+
+189
+00:14:53,590 --> 00:14:56,490
+b'hangisini hat\xc4\xb1rlaman gerekiyordu.'
+
+190
+00:14:56,500 --> 00:14:58,180
+b'John Kara...'
+
+191
+00:14:58,770 --> 00:15:00,000
+b've adres?'
+
+192
+00:15:04,000 --> 00:15:05,240
+b'Unuttum.'
+
+193
+00:15:05,870 --> 00:15:11,210
+b'42 Arkyle Street, Cold Street, Washington Street '
+b'veya South Street miydi?'
+
+194
+00:15:14,140 --> 00:15:16,790
+b'Dikkatim da\xc4\x9f\xc4\xb1ld\xc4\xb1, tekrar ge\xc3\xa7ebilir misin?'
+
+195
+00:15:16,930 --> 00:15:19,250
+b'- \xc5\x9eimdilik yeter. '
+
+196
+00:15:20,540 --> 00:15:22,000
+b'rezonans tavsiye ederim'
+
+197
+00:15:22,010 --> 00:15:23,290
+b'bunu ve bunu kontrol etmek i\xc3\xa7in.'
+
+198
+00:15:23,720 --> 00:15:27,740
+b'Hangisi \xc3\xb6zellikle, \xc3\xa7\xc3\xbcnk\xc3\xbc bence bir t\xc3\xbcm\xc3\xb6r olabilir.'
+
+199
+00:15:27,890 --> 00:15:30,000
+b'Sadece durumda'
+
+200
+00:15:30,010 --> 00:15:35,170
+b'Herhangi bir yaralanma veya kalp krizi belirtisi '
+b'olup olmad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 kontrol edece\xc4\x9fiz.'
+
+201
+00:15:37,500 --> 00:15:40,600
+b'Bu arada ne yapmam gerekiyor?'
+
+202
+00:15:40,630 --> 00:15:42,100
+b'\xc3\x87ok pratik,'
+
+203
+00:15:43,420 --> 00:15:45,860
+b'kaslar\xc4\xb1 oksijenlendirmek, bol su i\xc3\xa7mek,'
+
+204
+00:15:45,890 --> 00:15:48,400
+b'hidrasyon haf\xc4\xb1zay\xc4\xb1 destekler.'
+
+205
+00:15:49,010 --> 00:15:52,060
+b'Bir dahaki sefere, l\xc3\xbctfen seni tan\xc4\xb1yan biriyle gel.'
+
+206
+00:15:52,210 --> 00:15:57,250
+b'- Kocamla veya yak\xc4\xb1n bir akrabamla. '
+
+207
+00:16:34,690 --> 00:16:39,150
+b'Steteskop, y\xc3\xbczy\xc4\xb1l, kirpi.'
+
+208
+00:16:48,000 --> 00:16:49,250
+b'Katioda.'
+
+209
+00:16:52,400 --> 00:16:53,860
+b'El bombas\xc4\xb1.'
+
+210
+00:16:58,100 --> 00:16:59,190
+b'\xc4\xb1zgara.'
+
+211
+00:17:09,190 --> 00:17:11,440
+b'- Biz!'
+
+212
+00:17:11,670 --> 00:17:14,180
+b'- \xc4\xb0\xc3\xa7eri gel! '
+
+213
+00:17:14,300 --> 00:17:16,500
+b'- Seni g\xc3\xb6rmek g\xc3\xbczel! '
+
+214
+00:17:16,520 --> 00:17:19,450
+b"ben Alice'im. "
+
+215
+00:17:19,450 --> 00:17:20,580
+b'Davetiniz i\xc3\xa7in te\xc5\x9fekk\xc3\xbcr ederim.'
+
+216
+00:17:20,580 --> 00:17:23,780
+b'Ah l\xc3\xbctfen. '
+
+217
+00:17:24,070 --> 00:17:27,270
+b'Ve o peyniri al... bir \xc5\x9fey.'
+
+218
+00:17:28,800 --> 00:17:31,680
+b'Jenny oldu\xc4\x9funa sevindim.'
+
+219
+00:17:31,700 --> 00:17:33,580
+b'- Te\xc5\x9fekk\xc3\xbcr ederim. '
+
+220
+00:17:47,130 --> 00:17:55,130
+b'Tarifte ka\xc3\xa7 yumurta vard\xc4\xb1? '
+
+221
+00:17:57,220 --> 00:17:58,660
+b'- Merhaba anne! '
+
+222
+00:17:58,980 --> 00:18:01,440
+b'- Mutlu Noeller! '
+
+223
+00:18:01,460 --> 00:18:04,260
+b'- U\xc3\xa7a\xc4\x9f\xc4\xb1n nas\xc4\xb1l? '
+
+224
+00:18:04,490 --> 00:18:07,910
+b'Yandaki adam hala \xc3\xb6ks\xc3\xbcr\xc3\xbcyordu. '
+
+225
+00:18:09,020 --> 00:18:11,860
+b'Ekmek pudingi i\xc3\xa7in malzemeler bunlar m\xc4\xb1?'
+
+226
+00:18:11,860 --> 00:18:12,510
+b'Evet.'
+
+227
+00:18:12,530 --> 00:18:13,910
+b'- Senin favorin. '
+
+228
+00:18:15,090 --> 00:18:16,850
+b'- Mutlu Noeller!'
+
+229
+00:18:16,880 --> 00:18:20,110
+b'- Kelime oyunlar\xc4\xb1na ne yazd\xc4\xb1\xc4\x9f\xc4\xb1m\xc4\xb1 g\xc3\xb6rd\xc3\xbcn m\xc3\xbc? '
+
+230
+00:18:20,140 --> 00:18:21,540
+b'- Kazan\xc4\xb1yorum. '
+
+231
+00:18:21,540 --> 00:18:24,390
+b'- Ve bu bir hediye kitab\xc4\xb1. '
+
+232
+00:18:24,390 --> 00:18:27,210
+b'- Bu zaten en \xc3\xa7ok satanlar aras\xc4\xb1nda. '
+
+233
+00:18:27,980 --> 00:18:29,990
+b'- Harika. '
+
+234
+00:18:30,170 --> 00:18:33,320
+b'Evet kesinlikle.'
+
+235
+00:18:33,750 --> 00:18:36,290
+b'L\xc3\xbctfen d\xc4\xb1\xc5\x9far\xc4\xb1 \xc3\xa7\xc4\xb1k, konsantre olam\xc4\xb1yorum.'
+
+236
+00:18:41,250 --> 00:18:43,410
+b'- Baba nerede? '
+
+237
+00:18:43,630 --> 00:18:44,840
+b'Sana yard\xc4\xb1m etmek?'
+
+238
+00:18:44,880 --> 00:18:47,320
+b'Gerek yok. '
+
+239
+00:18:47,350 --> 00:18:49,420
+b'- Lezzetli olacak. '
+
+240
+00:18:49,450 --> 00:18:51,910
+b'Sab\xc4\xb1rs\xc4\xb1zlan\xc4\xb1yorum.'
+
+241
+00:19:04,870 --> 00:19:08,550
+b'<i>EKMEK PUDER\xc4\xb0 \xc4\xb0\xc3\x87\xc4\xb0N TAR\xc4\xb0F</i>'
+
+242
+00:19:08,580 --> 00:19:10,140
+b'Bu ciddi bir ad\xc4\xb1m'
+
+243
+00:19:10,240 --> 00:19:12,350
+b'ama bu tatil k\xc3\xb6y\xc3\xbc bize arkada\xc5\x9flar taraf\xc4\xb1ndan \xc3\xb6nerildi,'
+
+244
+00:19:12,370 --> 00:19:16,390
+b'y\xc4\xb1llard\xc4\xb1r \xc3\xa7ocuk sahibi olamayanlar. '
+
+245
+00:19:17,580 --> 00:19:18,950
+b'G\xc3\xb6rece\xc4\x9fiz.'
+
+246
+00:19:19,050 --> 00:19:20,750
+b'Mucizelerin i\xc5\x9fe yarad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 duydum.'
+
+247
+00:19:20,890 --> 00:19:23,600
+b'Bu iyi! '
+
+248
+00:19:23,630 --> 00:19:26,880
+b'- Bence buna de\xc4\x9fer. '
+
+249
+00:19:26,900 --> 00:19:27,900
+b'- Do\xc4\x9fru?'
+
+250
+00:19:29,490 --> 00:19:31,060
+b'Bu ne t\xc3\xbcr bir \xc3\xa7orba?'
+
+251
+00:19:31,080 --> 00:19:32,180
+b'Kabak.'
+
+252
+00:19:32,640 --> 00:19:35,950
+b'Merhaba, ben Alice. '
+
+253
+00:19:37,370 --> 00:19:38,540
+b"Ben Jenny'yim."
+
+254
+00:19:38,570 --> 00:19:41,000
+b'- Tan\xc4\xb1\xc5\x9ft\xc4\xb1\xc4\x9f\xc4\xb1ma memnun oldum.'
+
+255
+00:19:41,190 --> 00:19:46,990
+b'San\xc4\xb1r\xc4\xb1m bir kadeh \xc5\x9farab\xc4\xb1 hak ettim, de\xc4\x9fil mi?'
+
+256
+00:19:47,320 --> 00:19:50,290
+b'- Te\xc5\x9fekk\xc3\xbcr ederim. '
+
+257
+00:19:50,780 --> 00:19:54,390
+b'Noel i\xc3\xa7in kadeh kald\xc4\xb1ral\xc4\xb1m.'
+
+258
+00:19:54,420 --> 00:19:58,000
+b'Mutlu Noeller!'
+
+259
+00:19:59,690 --> 00:20:02,000
+b'Rezonans hi\xc3\xa7bir \xc5\x9fey alg\xc4\xb1lamad\xc4\xb1.'
+
+260
+00:20:02,180 --> 00:20:04,600
+b'Damar hastal\xc4\xb1\xc4\x9f\xc4\xb1 yok'
+
+261
+00:20:04,630 --> 00:20:07,060
+b'kalp krizi veya yaralanmalar.'
+
+262
+00:20:07,060 --> 00:20:08,100
+b'Tanr\xc4\xb1ya \xc5\x9f\xc3\xbck\xc3\xbcr.'
+
+263
+00:20:08,120 --> 00:20:10,250
+b'Kan testi de hi\xc3\xa7bir \xc5\x9fey g\xc3\xb6stermedi.'
+
+264
+00:20:10,440 --> 00:20:14,560
+b'Ancak, size bahsetti\xc4\x9fim haf\xc4\xb1za testlerinin '
+b'sonu\xc3\xa7lar\xc4\xb1 konusunda endi\xc5\x9feliyim.'
+
+265
+00:20:14,570 --> 00:20:16,950
+b'Ara s\xc4\xb1ra haf\xc4\xb1za bozuklu\xc4\x9funuz var.'
+
+266
+00:20:16,960 --> 00:20:19,230
+b'Ya\xc5\x9f\xc4\xb1n\xc4\xb1z i\xc3\xa7in kesinlikle yetersiz.'
+
+267
+00:20:19,350 --> 00:20:23,500
+b'Zihinsel performans\xc4\xb1n\xc4\xb1z da k\xc3\xb6t\xc3\xbcle\xc5\x9fti.'
+
+268
+00:20:24,260 --> 00:20:26,000
+b'tomografi tavsiye ederim'
+
+269
+00:20:26,010 --> 00:20:27,850
+b'Rezonansa benzer ama'
+
+270
+00:20:27,870 --> 00:20:30,120
+b'\xc3\xb6nemli ayr\xc4\xb1nt\xc4\xb1lar\xc4\xb1 yakalayabilir.'
+
+271
+00:20:30,160 --> 00:20:31,340
+b'Bunun ne oldu\xc4\x9funu biliyorum.'
+
+272
+00:20:31,350 --> 00:20:34,000
+b'Ne aramak istiyorsun?'
+
+273
+00:20:34,560 --> 00:20:38,730
+b'Sonu\xc3\xa7lar\xc4\xb1n Alzheimer hastal\xc4\xb1\xc4\x9f\xc4\xb1na e\xc5\x9fit olup '
+b'olmad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 g\xc3\xb6rmek istiyorum.'
+
+274
+00:20:39,700 --> 00:20:42,080
+b'Senin ya\xc5\x9f\xc4\xb1nda nadir bir durum...'
+
+275
+00:20:43,340 --> 00:20:45,570
+b'Ama a\xc3\xa7\xc4\xb1klama do\xc4\x9fru.'
+
+276
+00:20:48,170 --> 00:20:50,910
+b'Senden akraban\xc4\xb1 getirmeni istedim.'
+
+277
+00:20:51,080 --> 00:20:53,440
+b'Bana gerekli g\xc3\xb6r\xc3\xbcnm\xc3\xbcyordu.'
+
+278
+00:20:54,260 --> 00:20:57,260
+b'Ancak \xc4\xb1srar ediyorum. '
+
+279
+00:20:59,490 --> 00:21:02,200
+b'Artan beta-endorfin seviyeleri'
+
+280
+00:21:02,210 --> 00:21:07,010
+b't\xc3\xbcm\xc3\xb6r metastaz\xc4\xb1 sonucu azalmad\xc4\xb1.'
+
+281
+00:21:07,010 --> 00:21:08,680
+b'Bu iyi de\xc4\x9fil.'
+
+282
+00:21:08,680 --> 00:21:11,710
+b'Elbette hay\xc4\xb1r. '
+
+283
+00:21:12,300 --> 00:21:16,940
+b'G\xc3\xb6r\xc3\xbcn\xc3\xbc\xc5\x9fe g\xc3\xb6re, beta-endorfinlerin mikrobiyal '
+b'aktivite \xc3\xbczerinde \xc3\xa7ok az etkisi var.'
+
+284
+00:21:18,170 --> 00:21:22,330
+b'- Herhangi bir yan etki riski var m\xc4\xb1? '
+
+285
+00:21:24,140 --> 00:21:26,520
+b'Ve yine dururken.'
+
+286
+00:21:30,580 --> 00:21:32,290
+b"17'si i\xc3\xa7in planlad\xc4\xb1\xc4\x9f\xc4\xb1m\xc4\xb1z bir \xc5\x9fey var m\xc4\xb1?"
+
+287
+00:21:34,080 --> 00:21:35,390
+b'Hat\xc4\xb1rlam\xc4\xb1yorum.'
+
+288
+00:21:35,560 --> 00:21:38,720
+b'Phil ve Diana hafta sonu i\xc3\xa7in kasabaya u\xc4\x9frarlar.'
+
+289
+00:21:45,870 --> 00:21:49,830
+b'- Bunu daha ne kadar f\xc4\xb1r\xc3\xa7alayacaks\xc4\xb1n? '
+
+290
+00:22:46,760 --> 00:22:47,470
+b'John?'
+
+291
+00:22:51,000 --> 00:22:53,010
+b'Uyan bebe\xc4\x9fim.'
+
+292
+00:22:57,260 --> 00:22:58,450
+b'Saat ka\xc3\xa7?'
+
+293
+00:22:58,570 --> 00:23:00,000
+b'Bir \xc5\x9fey hakk\xc4\xb1nda konu\xc5\x9fmak istiyorum.'
+
+294
+00:23:04,470 --> 00:23:07,040
+b'Benimle ilgili bir sorun var.'
+
+295
+00:23:09,750 --> 00:23:13,820
+b'- Ne oluyor? '
+
+296
+00:23:15,220 --> 00:23:16,130
+b'Ne i\xc3\xa7in?'
+
+297
+00:23:17,950 --> 00:23:19,500
+b'sahip olabilirim'
+
+298
+00:23:19,510 --> 00:23:21,590
+b'Alzheimer hastal\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1n erken evresi.'
+
+299
+00:23:25,030 --> 00:23:28,050
+b'Ali, mant\xc4\xb1kl\xc4\xb1 de\xc4\x9fil.'
+
+300
+00:23:28,100 --> 00:23:33,350
+b'Sana s\xc3\xb6yl\xc3\xbcyorum \xc3\xa7\xc3\xbcnk\xc3\xbc emin de\xc4\x9filim ama beni test '
+b'ediyorlar ve korkuyorum.'
+
+301
+00:23:33,440 --> 00:23:35,600
+b'Ali, bu sa\xc3\xa7mal\xc4\xb1k.'
+
+302
+00:23:36,720 --> 00:23:39,610
+b'Ge\xc3\xa7enlerde kamp\xc3\xbcse ko\xc5\x9farken kayboldum.'
+
+303
+00:23:41,000 --> 00:23:44,380
+b'Toplant\xc4\xb1lar\xc4\xb1 unutuyorum, kelimeleri unutuyorum ...'
+
+304
+00:23:46,400 --> 00:23:49,250
+b'Tatl\xc4\xb1m, herkesin ba\xc5\x9f\xc4\xb1na gelir. '
+
+305
+00:23:49,260 --> 00:23:53,320
+b'Son zamanlarda, "glikoz" kelimesini unuttum.'
+
+306
+00:23:54,660 --> 00:23:57,770
+b'Bu ayn\xc4\xb1 de\xc4\x9fil. '
+
+307
+00:24:00,000 --> 00:24:02,310
+b'- Ama hen\xc3\xbcz te\xc5\x9fhis koymad\xc4\xb1lar m\xc4\xb1? '
+
+308
+00:24:03,070 --> 00:24:06,760
+b'Yani bu tam bir sa\xc3\xa7mal\xc4\xb1k. '
+
+309
+00:24:06,770 --> 00:24:10,080
+b'Durmak! '
+
+310
+00:24:10,100 --> 00:24:13,000
+b'Ne hissetti\xc4\x9fimi biliyorum!'
+
+311
+00:24:13,020 --> 00:24:15,910
+b'Ve lanet olas\xc4\xb1 beynim \xc3\xb6l\xc3\xbcyormu\xc5\x9f gibi geliyor!'
+
+312
+00:24:15,960 --> 00:24:19,610
+b'Ve hayat\xc4\xb1m boyunca u\xc4\x9fra\xc5\x9ft\xc4\xb1\xc4\x9f\xc4\xb1m her \xc5\x9fey benden ka\xc3\xa7\xc4\xb1yor.'
+
+313
+00:24:19,630 --> 00:24:22,090
+b'- O ko\xc5\x9fuyor ...'
+
+314
+00:24:24,120 --> 00:24:25,120
+b'Gel buraya.'
+
+315
+00:24:27,230 --> 00:24:28,290
+b'A\xc4\x9flama.'
+
+316
+00:24:51,320 --> 00:24:54,530
+b'- Hangi dersin var? '
+
+317
+00:24:56,060 --> 00:24:57,550
+b'\xc3\x87ok zaman\xc4\xb1n var.'
+
+318
+00:24:59,550 --> 00:25:01,500
+b'ge\xc3\xa7 kalabilirim,'
+
+319
+00:25:01,500 --> 00:25:04,610
+b'\xc3\xa7\xc3\xbcnk\xc3\xbc fak\xc3\xbcltede bir toplant\xc4\xb1m var. '
+
+320
+00:25:04,640 --> 00:25:06,870
+b'belki yeme\xc4\x9fe gidebiliriz.'
+
+321
+00:25:06,890 --> 00:25:07,890
+b'Elbette.'
+
+322
+00:25:12,160 --> 00:25:13,480
+b'\xc4\xb0yiyim.'
+
+323
+00:25:15,180 --> 00:25:17,010
+b'K\xc3\xb6t\xc3\xbc uyudum, hepsi bu.'
+
+324
+00:25:18,550 --> 00:25:22,660
+b'Her iki durumda da, sonu\xc3\xa7lara atlamayal\xc4\xb1m.'
+
+325
+00:25:25,730 --> 00:25:28,000
+b'Ama ne olursa olsun, seni destekleyece\xc4\x9fim.'
+
+326
+00:25:30,480 --> 00:25:33,600
+b'L\xc3\xbctfen buraya bak\xc4\xb1n. '
+
+327
+00:25:33,630 --> 00:25:35,770
+b'y\xc3\xbcksek beta amiloid seviyeleri.'
+
+328
+00:25:36,930 --> 00:25:39,000
+b'Y\xc4\xb1llarca birikmi\xc5\x9ftir.'
+
+329
+00:25:42,100 --> 00:25:43,300
+b'\xc3\x9czg\xc3\xbcn\xc3\xbcm.'
+
+330
+00:25:43,310 --> 00:25:46,930
+b'Ama bu amiloid seviyesi de olur'
+
+331
+00:25:47,040 --> 00:25:50,140
+b'ya\xc5\x9fl\xc4\xb1larda ve zihinsel performans\xc4\xb1 etkilemiyor, '
+b'de\xc4\x9fil mi?'
+
+332
+00:25:50,190 --> 00:25:52,560
+b"Evet, ama Alice'in ya\xc5\x9f\xc4\xb1nda de\xc4\x9fil."
+
+333
+00:25:53,530 --> 00:25:55,250
+b'Nadir olurdu.'
+
+334
+00:25:55,980 --> 00:25:57,640
+b'S\xc3\xb6zde y\xc3\xbcksek amiloid seviyeleri'
+
+335
+00:25:57,650 --> 00:25:59,760
+b'mutlaka Alzheimer anlam\xc4\xb1na gelmez.'
+
+336
+00:25:59,800 --> 00:26:00,740
+b'Maalesef...'
+
+337
+00:26:00,770 --> 00:26:05,650
+b'Alice i\xc3\xa7in bu sadece onun t\xc3\xbcm klinik semptomlar\xc4\xb1n\xc4\xb1 do\xc4\x9frular.'
+
+338
+00:26:05,670 --> 00:26:09,120
+b'B\xc3\xb6yle bir te\xc5\x9fhisin genetik testlerle do\xc4\x9frulanmas\xc4\xb1 '
+b'gerekmez mi?'
+
+339
+00:26:09,120 --> 00:26:10,330
+b'John, hadi.'
+
+340
+00:26:10,360 --> 00:26:12,250
+b'Ben de tam bunu \xc3\xb6nermek \xc3\xbczereydim.'
+
+341
+00:26:12,610 --> 00:26:16,420
+b'Hastal\xc4\xb1\xc4\x9f\xc4\xb1n erken geli\xc5\x9fimi g\xc3\xb6z \xc3\xb6n\xc3\xbcne al\xc4\xb1nd\xc4\xb1\xc4\x9f\xc4\xb1nda'
+
+342
+00:26:16,440 --> 00:26:19,250
+b'presenilin genindeki mutasyon ara\xc5\x9ft\xc4\xb1r\xc4\xb1lmal\xc4\xb1d\xc4\xb1r.'
+
+343
+00:26:19,290 --> 00:26:22,070
+b'Bu bize hastal\xc4\xb1\xc4\x9f\xc4\xb1n do\xc4\x9fu\xc5\x9ftan olup olmad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 g\xc3\xb6sterecek,'
+
+344
+00:26:22,090 --> 00:26:24,520
+b'bu nadiren olsa da.'
+
+345
+00:26:24,560 --> 00:26:27,000
+b'Genetik test i\xc3\xa7in bir tavsiye yazaca\xc4\x9f\xc4\xb1m.'
+
+346
+00:26:27,010 --> 00:26:29,400
+b'Yani bu benim \xc3\xa7ocuklar\xc4\xb1m i\xc3\xa7in de ge\xc3\xa7erli olabilir mi?'
+
+347
+00:26:29,400 --> 00:26:31,200
+b'Evet.'
+
+348
+00:26:31,430 --> 00:26:34,630
+b'Yani bu gene sahipsem...'
+
+349
+00:26:34,630 --> 00:26:37,300
+b'Benim \xc3\xa7ocuklar\xc4\xb1mda da %50 ihtimal var m\xc4\xb1?'
+
+350
+00:26:37,680 --> 00:26:38,840
+b'Maalesef evet.'
+
+351
+00:26:38,870 --> 00:26:42,530
+b'E\xc4\x9fer ta\xc5\x9f\xc4\xb1y\xc4\xb1c\xc4\xb1larsa ... o zaman olma \xc5\x9fanslar\xc4\xb1 nedir?'
+
+352
+00:26:42,560 --> 00:26:45,580
+b'- hastal\xc4\xb1\xc4\x9f\xc4\xb1 geli\xc5\x9ftirecekler mi? '
+
+353
+00:26:54,040 --> 00:26:56,150
+b'Y\xc4\xb1ld\xc3\xb6n\xc3\xbcm\xc3\xbcm\xc3\xbcz i\xc3\xa7in \xc3\xa7ocuklar gelecek.'
+
+354
+00:26:56,170 --> 00:26:57,980
+b'onlara s\xc3\xb6ylememeliyiz'
+
+355
+00:26:58,000 --> 00:26:59,100
+b'Sonu\xc3\xa7lar\xc4\xb1 alana kadar.'
+
+356
+00:26:59,150 --> 00:27:03,440
+b'Bir hafta sonra kontrole gidersem \xc3\xb6\xc4\x9freniriz. '
+
+357
+00:27:03,560 --> 00:27:05,220
+b'\xc5\x9eu asans\xc3\xb6r ne olacak?'
+
+358
+00:27:06,240 --> 00:27:09,000
+b'Birinci s\xc4\xb1n\xc4\xb1f bir hastane gibi ama sadece bir '
+b'asans\xc3\xb6rleri var.'
+
+359
+00:27:09,000 --> 00:27:09,660
+b'Durmak.'
+
+360
+00:27:10,240 --> 00:27:12,250
+b'Merdivenlerden \xc3\xa7\xc4\xb1kmak daha iyi.'
+
+361
+00:27:12,250 --> 00:27:13,250
+b'Fark yok.'
+
+362
+00:27:26,170 --> 00:27:31,590
+b'- Pekala bu nedir?'
+
+363
+00:27:37,300 --> 00:27:39,040
+b'Bo\xc5\x9fan\xc4\xb1yor musun yoksa ne?'
+
+364
+00:27:39,190 --> 00:27:40,200
+b'De\xc4\x9fil.'
+
+365
+00:27:42,020 --> 00:27:44,090
+b'Bunlar\xc4\xb1n hi\xc3\xa7biri.'
+
+366
+00:27:44,120 --> 00:27:45,140
+b'Anne'
+
+367
+00:27:45,660 --> 00:27:46,810
+b'Sen hastas\xc4\xb1n?'
+
+368
+00:27:51,190 --> 00:27:53,660
+b'Son birka\xc3\xa7 ayd\xc4\xb1r'
+
+369
+00:27:53,700 --> 00:27:59,470
+b'Bir n\xc3\xb6rologla g\xc3\xb6r\xc3\xbc\xc5\x9f\xc3\xbcyorum ve erken evre '
+b"Alzheimer'\xc4\xb1m oldu\xc4\x9fu ortaya \xc3\xa7\xc4\xb1kt\xc4\xb1."
+
+370
+00:28:00,210 --> 00:28:03,240
+b'Anlam\xc4\xb1yorum. '
+
+371
+00:28:03,260 --> 00:28:05,660
+b'Zaten do\xc4\x9fruland\xc4\xb1.'
+
+372
+00:28:06,210 --> 00:28:10,440
+b'- Ama bu ya\xc5\x9fta ...? '
+
+373
+00:28:10,460 --> 00:28:11,980
+b'Sen \xc3\xa7ok gen\xc3\xa7sin ...'
+
+374
+00:28:15,550 --> 00:28:17,150
+b'Anlam\xc4\xb1yorum...'
+
+375
+00:28:18,160 --> 00:28:19,610
+b'Bunu ve \xc5\x9funu fark ettim...'
+
+376
+00:28:19,780 --> 00:28:22,390
+b"Noel arifesinde Tom'un k\xc4\xb1z arkada\xc5\x9f\xc4\xb1n\xc4\xb1 tan\xc4\xb1mad\xc4\xb1n ..."
+
+377
+00:28:22,410 --> 00:28:24,170
+b'- Lydia!'
+
+378
+00:28:24,190 --> 00:28:28,030
+b'- Hangi ila\xc3\xa7lar\xc4\xb1 al\xc4\xb1yorsun? '
+
+379
+00:28:28,030 --> 00:28:29,860
+b'Hastal\xc4\xb1\xc4\x9f\xc4\xb1n ilerlemesini yava\xc5\x9flat\xc4\xb1yorlar m\xc4\xb1?'
+
+380
+00:28:29,890 --> 00:28:31,730
+b'- De\xc4\x9fil. '
+
+381
+00:28:32,450 --> 00:28:35,850
+b'Semptomlar\xc4\xb1 hafifletebilirler ancak hastal\xc4\xb1\xc4\x9f\xc4\xb1 \xc3\xb6nleyemezler.'
+
+382
+00:28:36,500 --> 00:28:43,670
+b'Bu t\xc3\xbcr Alzheimer hastal\xc4\xb1\xc4\x9f\xc4\xb1 nadirdir.'
+
+383
+00:28:45,070 --> 00:28:46,200
+b'Ve do\xc4\x9fu\xc5\x9ftan.'
+
+384
+00:28:48,160 --> 00:28:50,450
+b'-bu kal\xc4\xb1tsald\xc4\xb1r. '
+
+385
+00:28:50,470 --> 00:28:52,770
+b'Ev sahibinin b\xc3\xbcy\xc3\xbckbabam olmas\xc4\xb1 m\xc3\xbcmk\xc3\xbcnd\xc3\xbcr ...'
+
+386
+00:28:52,790 --> 00:28:55,000
+b'Ve \xc3\xbc\xc3\xa7\xc3\xbcn\xc3\xbcz i\xc3\xa7in endi\xc5\x9feleniyoruz.'
+
+387
+00:28:56,010 --> 00:28:57,320
+b'Bu ara\xc5\x9ft\xc4\xb1r\xc4\xb1labilir'
+
+388
+00:28:57,350 --> 00:28:59,830
+b'ama bu senin se\xc3\xa7imin.'
+
+389
+00:29:03,990 --> 00:29:05,200
+b'\xc3\x87ok \xc3\xbczg\xc3\xbcn\xc3\xbcm.'
+
+390
+00:30:05,260 --> 00:30:08,580
+b'Bug\xc3\xbcn konu ne olmal\xc4\xb1yd\xc4\xb1?'
+
+391
+00:30:11,990 --> 00:30:14,360
+b'- Fonoloji. '
+
+392
+00:30:22,620 --> 00:30:25,830
+b'"Fono", Yunanca "phon\xc3\xa9" kelimesinden t\xc3\xbcretilmi\xc5\x9ftir.'
+
+393
+00:30:25,830 --> 00:30:27,060
+b'"ses" anlam\xc4\xb1na gelir.'
+
+394
+00:30:27,060 --> 00:30:30,990
+b'Fonoloji, bir dildeki ses sistemlerinin incelenmesidir.'
+
+395
+00:30:30,990 --> 00:30:33,770
+b've fonetik ile kar\xc4\xb1\xc5\x9ft\xc4\xb1r\xc4\xb1lmamal\xc4\xb1d\xc4\xb1r.'
+
+396
+00:30:47,140 --> 00:30:49,810
+b'- Anna? </i>'
+
+397
+00:30:50,840 --> 00:30:56,350
+b'- Her \xc5\x9fey yolunda? '
+
+398
+00:30:56,570 --> 00:31:03,360
+b'Tanr\xc4\xb1m, Anna, ger\xc3\xa7ekten \xc3\xa7ok \xc3\xbczg\xc3\xbcn\xc3\xbcm.'
+
+399
+00:31:03,380 --> 00:31:07,150
+b"<i>Tom'un sonucu negatifti ve Lydia...</i>"
+
+400
+00:31:07,170 --> 00:31:11,210
+b'- <i> ... bilmek istemedi. </i> - Nas\xc4\xb1l hissediyorsun?'
+
+401
+00:31:12,530 --> 00:31:18,290
+b'<i>\xc4\xb0yiyim. </i>'
+
+402
+00:31:18,310 --> 00:31:21,110
+b'<i>bir sonraki suni tohumlama seans\xc4\xb1.</i>'
+
+403
+00:31:21,140 --> 00:31:23,900
+b'<i>Bu geni bir embriyoda yok edebilirsiniz.</i>'
+
+404
+00:31:23,940 --> 00:31:25,270
+b'<i>ve bebek iyi olacak.</i>'
+
+405
+00:31:25,310 --> 00:31:27,230
+b'Neredesin? '
+
+406
+00:31:27,260 --> 00:31:29,490
+b'ama iptal edip hemen gelebilirim.'
+
+407
+00:31:29,520 --> 00:31:33,500
+b'<i>Gerek yok anne. </i>'
+
+408
+00:31:33,530 --> 00:31:36,460
+b'Ger\xc3\xa7ekten gelmek istiyorum.'
+
+409
+00:31:37,420 --> 00:31:40,560
+b'<i>Gerek yok, merak etme. </i>'
+
+410
+00:31:42,060 --> 00:31:48,050
+b'- Vars\xc4\xb1n olsun. </i>'
+
+411
+00:31:50,040 --> 00:31:52,230
+b'G\xc3\xb6r\xc3\xbc\xc5\x9f\xc3\xbcr\xc3\xbcz.'
+
+412
+00:32:33,380 --> 00:32:35,490
+b'Bu dersleri sab\xc4\xb1rs\xc4\xb1zl\xc4\xb1kla bekliyordum,'
+
+413
+00:32:35,520 --> 00:32:37,290
+b'ama onlar\xc4\xb1 hayal k\xc4\xb1r\xc4\xb1kl\xc4\xb1\xc4\x9f\xc4\xb1na u\xc4\x9fratt\xc4\xb1m.'
+
+414
+00:32:37,290 --> 00:32:41,810
+b'\xc4\xb0\xc3\xa7erik kaotik bir \xc5\x9fekilde sunuldu ve \xc3\xb6\xc4\x9fretim '
+b'g\xc3\xb6revlisi konsantre olamad\xc4\xb1.'
+
+415
+00:32:42,880 --> 00:32:46,990
+b'Bu dersler zaman kayb\xc4\xb1, her \xc5\x9feyi internetten '
+b'\xc3\xb6\xc4\x9frenmek zorunda kald\xc4\xb1m.'
+
+416
+00:32:47,360 --> 00:32:52,850
+b'Dersler \xc3\xb6zensizdi, derslerin i\xc3\xa7eri\xc4\x9fine ayak uyduram\xc4\xb1yordum.'
+
+417
+00:32:52,900 --> 00:32:57,080
+b"Dr. Howland'\xc4\xb1n kendisi birden \xc3\xa7ok kez kaybolmu\xc5\x9f gibiydi."
+
+418
+00:32:57,100 --> 00:33:02,210
+b'Eric, ger\xc3\xa7ekten \xc3\xbczg\xc3\xbcn\xc3\xbcm, \xc3\xb6\xc4\x9frencilerin b\xc3\xb6yle '
+b'hissetti\xc4\x9fini bilmiyordum.'
+
+419
+00:33:02,530 --> 00:33:06,000
+b'\xc3\x96n\xc3\xbcm\xc3\xbczdeki d\xc3\xb6nem i\xc3\xa7in programa ince ayar yapaca\xc4\x9f\xc4\xb1m.'
+
+420
+00:33:07,710 --> 00:33:09,390
+b'Her \xc5\x9fey yolunda?'
+
+421
+00:33:09,420 --> 00:33:12,680
+b"- John'la aran\xc4\xb1zda her \xc5\x9fey yolunda m\xc4\xb1? "
+
+422
+00:33:12,710 --> 00:33:15,490
+b'Sana yard\xc4\xb1m edebilir miyiz? '
+
+423
+00:33:15,520 --> 00:33:17,640
+b'- \xc4\xb0yiyim. '
+
+424
+00:33:17,670 --> 00:33:22,500
+b'Hay\xc4\xb1r Eric, \xc3\xb6yle bir \xc5\x9fey yok. '
+
+425
+00:33:26,470 --> 00:33:28,250
+b'\xc4\xb0tiraf ederim ...'
+
+426
+00:33:28,250 --> 00:33:30,680
+b'Bu d\xc3\xb6nem ders vermekte zorland\xc4\xb1m,'
+
+427
+00:33:30,680 --> 00:33:35,280
+b'- ama g\xc3\xb6sterdi\xc4\x9fini bilmiyordum. '
+
+428
+00:33:36,710 --> 00:33:41,830
+b'- Bili\xc5\x9fsel performans\xc4\xb1m azald\xc4\xb1. '
+
+429
+00:33:43,120 --> 00:33:46,840
+b'\xc5\x9eubat ay\xc4\xb1nda erken evre Alzheimer hastal\xc4\xb1\xc4\x9f\xc4\xb1 '
+b'te\xc5\x9fhisi kondu.'
+
+430
+00:33:47,620 --> 00:33:51,240
+b'Ne? '
+
+431
+00:33:51,270 --> 00:33:53,700
+b'Ama bu hala erken bir a\xc5\x9fama'
+
+432
+00:33:53,730 --> 00:33:56,280
+b'zamanla yeteneklerim azalacak,'
+
+433
+00:33:56,380 --> 00:33:58,640
+b'ama \xc5\x9fimdilik tamamen \xc3\xa7al\xc4\xb1\xc5\x9f\xc4\xb1r durumday\xc4\xb1m...'
+
+434
+00:33:58,680 --> 00:34:01,010
+b'A\xc3\xa7\xc4\xb1klamak zorunda de\xc4\x9filsin.'
+
+435
+00:34:01,050 --> 00:34:03,350
+b'Sizi herhangi bir strese sokmak istemeyiz.'
+
+436
+00:34:03,470 --> 00:34:04,860
+b'Durumunuzu k\xc3\xb6t\xc3\xbcle\xc5\x9ftirir.'
+
+437
+00:34:04,860 --> 00:34:07,020
+b'Stresle ba\xc5\x9fa \xc3\xa7\xc4\xb1kabilirim.'
+
+438
+00:34:07,020 --> 00:34:10,490
+b'B\xc3\xb6l\xc3\xbcmde m\xc3\xbcmk\xc3\xbcn oldu\xc4\x9funca uzun s\xc3\xbcre kalmak istiyorum.'
+
+439
+00:34:13,780 --> 00:34:17,260
+b'Ancak bu konuda bakanl\xc4\xb1k yetkililerine bilgi '
+b'vermem gerekiyor.'
+
+440
+00:34:18,680 --> 00:34:21,950
+b'- Elbette. '
+
+441
+00:35:08,770 --> 00:35:13,500
+b'Yaban mersini ve hindistan cevizi ile sade bir '
+b'tane, l\xc3\xbctfen.'
+
+442
+00:35:28,150 --> 00:35:29,500
+b'Selam.'
+
+443
+00:35:30,350 --> 00:35:32,050
+b'Hangi Cehennemdeydin?'
+
+444
+00:35:33,290 --> 00:35:36,320
+b'- Ko\xc5\x9fuyordum. '
+
+445
+00:35:36,350 --> 00:35:38,630
+b'- Endi\xc5\x9felenmeye ba\xc5\x9flad\xc4\xb1m. '
+
+446
+00:35:39,050 --> 00:35:41,080
+b'- Dondurma i\xc3\xa7in? '
+
+447
+00:35:42,410 --> 00:35:44,000
+b'umar\xc4\xb1m tatm\xc4\xb1\xc5\x9flard\xc4\xb1r'
+
+448
+00:35:44,010 --> 00:35:45,530
+b'\xc3\xa7\xc3\xbcnk\xc3\xbc ak\xc5\x9fam yeme\xc4\x9fi i\xc3\xa7in randevumuz vard\xc4\xb1.'
+
+449
+00:35:48,110 --> 00:35:49,870
+b'Susan Corby ve kocas\xc4\xb1yla...?'
+
+450
+00:35:53,110 --> 00:35:56,850
+b'\xc3\x9czg\xc3\xbcn\xc3\xbcm, kafamdan \xc3\xa7\xc4\xb1kt\xc4\xb1. '
+
+451
+00:35:58,180 --> 00:35:59,910
+b'Arad\xc4\xb1m, k\xc4\xb1sa mesajlar ve e-postalar yazd\xc4\xb1m.'
+
+452
+00:35:59,930 --> 00:36:02,550
+b'senden \xc3\xb6z\xc3\xbcr diledim.'
+
+453
+00:36:02,580 --> 00:36:05,010
+b'Bu benim b\xc3\xb6l\xc3\xbcm ba\xc5\x9fkan\xc4\xb1m!'
+
+454
+00:36:05,330 --> 00:36:09,420
+b'Ve orada oturdum ve bir \xc5\x9fey mi oldu diye '
+b'endi\xc5\x9felendim. '
+
+455
+00:36:09,570 --> 00:36:11,390
+b'Ko\xc5\x9fuya \xc3\xa7\xc4\xb1kt\xc4\xb1\xc4\x9f\xc4\xb1mda alm\xc4\xb1yorum.'
+
+456
+00:36:11,390 --> 00:36:13,900
+b'Neden po\xc5\x9fet takm\xc4\xb1yorsun? '
+
+457
+00:36:13,900 --> 00:36:14,900
+b'Evet!'
+
+458
+00:36:20,110 --> 00:36:22,990
+b'- Art\xc4\xb1k buna cesaretim yok. '
+
+459
+00:36:25,040 --> 00:36:27,630
+b'Ama hayat devam ediyor.'
+
+460
+00:36:27,650 --> 00:36:30,200
+b'G\xc3\xbc\xc3\xa7l\xc3\xbc olmal\xc4\xb1y\xc4\xb1z yoksa delirece\xc4\x9fiz.'
+
+461
+00:36:30,490 --> 00:36:35,920
+b'Biliyorum, \xc3\xbczg\xc3\xbcn\xc3\xbcm ama b\xc3\xb6yle bir partide nas\xc4\xb1l '
+b'tepki verirdim bilmiyorum.'
+
+462
+00:36:35,950 --> 00:36:38,070
+b'yak\xc4\xb1nda birinin ad\xc4\xb1n\xc4\xb1 unuturum'
+
+463
+00:36:38,070 --> 00:36:41,910
+b'yoksa basit bir soruya cevap vermezdim. '
+
+464
+00:36:41,910 --> 00:36:43,500
+b'Bence \xc5\x9fimdi \xc3\xa7ok daha iyi.'
+
+465
+00:36:43,500 --> 00:36:44,540
+b'Daha iyi...?'
+
+466
+00:36:47,870 --> 00:36:50,260
+b'Ke\xc5\x9fke kanser olsayd\xc4\xb1m.'
+
+467
+00:36:51,000 --> 00:36:52,260
+b'B\xc3\xb6yle s\xc3\xb6yleme.'
+
+468
+00:36:52,280 --> 00:36:56,140
+b'Yok can\xc4\xb1m. '
+
+469
+00:36:56,160 --> 00:36:59,600
+b'\xc4\xb0nsanlar kanser hastalar\xc4\xb1 i\xc3\xa7in pembe bilezik tak\xc4\xb1yor,'
+
+470
+00:37:00,000 --> 00:37:03,700
+b'maraton ko\xc5\x9fuyorlar, ba\xc4\x9f\xc4\xb1\xc5\x9f topluyorlar ve ben rahat hissetmiyorum'
+
+471
+00:37:03,720 --> 00:37:07,560
+b'biraz sosyal gibi...'
+
+472
+00:37:10,630 --> 00:37:12,130
+b'kelimeyi unuttum.'
+
+473
+00:37:21,670 --> 00:37:26,300
+b'2013 y\xc4\xb1l\xc4\xb1nda tesisi yeniledik, asans\xc3\xb6rleri de\xc4\x9fi\xc5\x9ftirdik,'
+
+474
+00:37:26,370 --> 00:37:31,570
+b'odalar\xc4\xb1, k\xc3\xbct\xc3\xbcphaneyi ve \xc3\xa7ama\xc5\x9f\xc4\xb1rhaneyi yeniledik.'
+
+475
+00:37:31,590 --> 00:37:33,610
+b'- Ve \xc5\x9fimdi yeni bir faks\xc4\xb1m\xc4\xb1z var. '
+
+476
+00:37:33,640 --> 00:37:36,450
+b'Acil \xc3\xa7\xc4\xb1k\xc4\xb1\xc5\x9f kap\xc4\xb1s\xc4\xb1ndan kurtulduk.'
+
+477
+00:37:36,470 --> 00:37:38,560
+b'Hastalar bilezik al\xc4\xb1r,'
+
+478
+00:37:38,690 --> 00:37:41,790
+b'asans\xc3\xb6r\xc3\xbc ve binadan \xc3\xa7\xc4\xb1k\xc4\xb1\xc5\x9f\xc4\xb1 engelleyen,'
+
+479
+00:37:41,790 --> 00:37:44,020
+b'hastan\xc4\xb1n evresine ba\xc4\x9fl\xc4\xb1 olarak.'
+
+480
+00:37:44,020 --> 00:37:48,160
+b'Belki de ebeveyninizde uykuya dalmayla ilgili '
+b'sorunlar oldu\xc4\x9funu fark etmi\xc5\x9fsinizdir.'
+
+481
+00:37:48,190 --> 00:37:49,780
+b've geceleri evin i\xc3\xa7inde dola\xc5\x9fmak.'
+
+482
+00:37:50,130 --> 00:37:53,990
+b'Bilezikler sayesinde hastalar art\xc4\xb1k mahkum gibi hissetmiyorlar.'
+
+483
+00:37:54,020 --> 00:37:55,070
+b'Anl\xc4\xb1yorum.'
+
+484
+00:37:55,090 --> 00:38:01,240
+b'Ge\xc3\xa7mi\xc5\x9fte, personel hasta kat\xc4\xb1l\xc4\xb1m\xc4\xb1yla yaln\xc4\xb1zca '
+b'k\xc4\xb1smen ilgilenirdi.'
+
+485
+00:38:01,270 --> 00:38:04,610
+b'Hastalar genellikle dersten sonra kafa kar\xc4\xb1\xc5\x9f\xc4\xb1kl\xc4\xb1\xc4\x9f\xc4\xb1 hissettiler.'
+
+486
+00:38:04,660 --> 00:38:08,700
+b'Bu y\xc3\xbczden yakla\xc5\x9f\xc4\xb1m\xc4\xb1m\xc4\xb1z\xc4\xb1 de\xc4\x9fi\xc5\x9ftirdik ve ek '
+b'etkile\xc5\x9fimler ekledik'
+
+487
+00:38:09,010 --> 00:38:11,400
+b'personel ve hastalar aras\xc4\xb1nda.'
+
+488
+00:38:11,600 --> 00:38:15,000
+b'Personel, dan\xc4\xb1\xc5\x9fanlarla bir ba\xc4\x9f kurmaya \xc3\xa7al\xc4\xb1\xc5\x9f\xc4\xb1r.'
+
+489
+00:38:15,010 --> 00:38:19,780
+b'Hastan\xc4\xb1n daha \xc3\xb6nce kim oldu\xc4\x9funu ve karakterinin ne '
+b'oldu\xc4\x9funu \xc3\xb6\xc4\x9frenirler.'
+
+490
+00:38:19,990 --> 00:38:22,300
+b'Hem\xc5\x9firelerden biri dedi ki'
+
+491
+00:38:22,330 --> 00:38:24,600
+b'\xc3\xa7o\xc4\x9fu zaman onu ald\xc4\xb1'
+
+492
+00:38:24,630 --> 00:38:26,740
+b'- Not almak. '
+
+493
+00:38:26,760 --> 00:38:29,350
+b'Evet, ama ba\xc5\x9fka tavsiye yok.'
+
+494
+00:38:30,100 --> 00:38:33,530
+b'Ziyaretler her zaman m\xc3\xbcmk\xc3\xbcnd\xc3\xbcr, gelebilirsiniz'
+
+495
+00:38:33,550 --> 00:38:34,970
+b'g\xc3\xbcnd\xc3\xbcz ve gece.'
+
+496
+00:38:35,010 --> 00:38:36,730
+b'Bug\xc3\xbcn burada kimsenin oldu\xc4\x9funu sanm\xc4\xb1yorum.'
+
+497
+00:38:36,780 --> 00:38:38,510
+b'Genellikle Pazar g\xc3\xbcn\xc3\xbc gelirler.'
+
+498
+00:38:38,580 --> 00:38:40,260
+b'- Bu da ne? '
+
+499
+00:38:40,260 --> 00:38:42,770
+b'Baz\xc4\xb1lar\xc4\xb1 kalkt\xc4\xb1klar\xc4\xb1nda bize haber vermek i\xc3\xa7indir.'
+
+500
+00:38:42,770 --> 00:38:44,900
+b'- O iyi mi? '
+
+501
+00:38:47,100 --> 00:38:48,010
+b'B\xc3\xbct\xc3\xbcn kad\xc4\xb1nlar.'
+
+502
+00:38:48,580 --> 00:38:51,950
+b'Asl\xc4\xb1nda, \xc3\xa7o\xc4\x9funlukla kad\xc4\xb1nlar, ancak erkekler de var.'
+
+503
+00:38:52,180 --> 00:38:56,240
+b"William'd\xc4\xb1. "
+
+504
+00:39:08,000 --> 00:39:09,950
+b'<i>En b\xc3\xbcy\xc3\xbck k\xc4\xb1z\xc4\xb1n\xc4\xb1n ad\xc4\xb1 ne?</i>'
+
+505
+00:39:10,010 --> 00:39:12,280
+b'Uyku ila\xc3\xa7lar\xc4\xb1 art\xc4\xb1k \xc3\xa7al\xc4\xb1\xc5\x9fm\xc4\xb1yor.'
+
+506
+00:39:12,500 --> 00:39:16,070
+b"- Danesta'y\xc4\xb1 d\xc4\xb1\xc5\x9far\xc4\xb1 \xc3\xa7\xc4\xb1karmak m\xc4\xb1? "
+
+507
+00:39:16,980 --> 00:39:19,290
+b'- G\xc3\xbc\xc3\xa7l\xc3\xbc bir ila\xc3\xa7. '
+
+508
+00:39:23,280 --> 00:39:26,160
+b'<i>Hangi sokakta oturuyorsun?</i>'
+
+509
+00:39:30,730 --> 00:39:36,040
+b'Merhaba Alice, ben senim ve sana s\xc3\xb6ylemem gereken '
+b'\xc3\xb6nemli bir \xc5\x9fey var.'
+
+510
+00:39:36,360 --> 00:39:38,120
+b'<i>Do\xc4\x9fum g\xc3\xbcn\xc3\xbc? </i>'
+
+511
+00:39:38,140 --> 00:39:41,780
+b'sorular\xc4\xb1 cevaplayamayaca\xc4\x9f\xc4\xb1n\xc4\xb1z bir durum.'
+
+512
+00:39:42,540 --> 00:39:45,500
+b'Yani bu bir sonraki ve en mant\xc4\xb1kl\xc4\xb1 ad\xc4\xb1m olacak.'
+
+513
+00:39:45,550 --> 00:39:47,570
+b'Bundan eminim.'
+
+514
+00:39:47,570 --> 00:39:49,790
+b'<i>Yatak odas\xc4\xb1nda \xc5\x9fifonyer var</i>'
+
+515
+00:39:49,850 --> 00:39:53,140
+b'<i>mavi bir lamba ile. </i>'
+
+516
+00:39:53,220 --> 00:39:54,550
+b'<i>Arkada bulacaks\xc4\xb1n</i>'
+
+517
+00:39:54,560 --> 00:39:57,240
+b'<i>tabletler ve bir not i\xc3\xa7eren kap</i>'
+
+518
+00:39:57,280 --> 00:39:59,960
+b'<i>"B\xc3\xbct\xc3\xbcn haplar\xc4\xb1 yut ve biraz su i\xc3\xa7"</i>'
+
+519
+00:40:00,000 --> 00:40:02,240
+b'<i>Orada olduk\xc3\xa7a fazla var ...</i>'
+
+520
+00:40:02,670 --> 00:40:07,370
+b'<i>ama hepsini yutman\xc4\xb1z \xc3\xa7ok \xc3\xb6nemli.</i>'
+
+521
+00:40:07,750 --> 00:40:12,610
+b'<i>O zaman uyu ...</i>'
+
+522
+00:40:12,740 --> 00:40:15,690
+b'<i>Ve kimseye bir \xc5\x9fey s\xc3\xb6yleme.</i>'
+
+523
+00:40:16,110 --> 00:40:20,490
+b'<i>Bu sorular\xc4\xb1 cevaplayam\xc4\xb1yorsan\xc4\xb1z,</i>'
+
+524
+00:40:20,510 --> 00:40:25,190
+b'<i>bilgisayar\xc4\xb1n\xc4\xb1zdaki "BUTTERFLY" klas\xc3\xb6r\xc3\xbcn\xc3\xbc a\xc3\xa7\xc4\xb1n</i>'
+
+525
+00:40:50,500 --> 00:40:52,290
+b'<i>BELLEK BOZUKLUKLARI</i>'
+
+526
+00:41:52,580 --> 00:41:53,770
+b'Ali!'
+
+527
+00:42:04,950 --> 00:42:07,520
+b'- Buray\xc4\xb1 seviyorum. '
+
+528
+00:42:28,510 --> 00:42:30,180
+b"Santorini'yi hat\xc4\xb1rl\xc4\xb1yor musun?"
+
+529
+00:42:31,320 --> 00:42:35,150
+b'- 30 y\xc4\xb1l \xc3\xb6nce oldu\xc4\x9funa inanabiliyor musun? '
+
+530
+00:42:36,020 --> 00:42:38,410
+b'Sadece zor zamanlard\xc4\xb1.'
+
+531
+00:42:38,500 --> 00:42:41,670
+b'Ama bir y\xc4\xb1l sonra d\xc3\xbcz gittik.'
+
+532
+00:42:41,700 --> 00:42:42,740
+b'Bence de.'
+
+533
+00:42:44,420 --> 00:42:46,490
+b'Bunu zaten s\xc3\xb6yledim ama'
+
+534
+00:42:46,490 --> 00:42:49,050
+b'Annen ve k\xc4\xb1z karde\xc5\x9finle tan\xc4\xb1\xc5\x9famad\xc4\xb1\xc4\x9f\xc4\xb1m i\xc3\xa7in \xc3\xbczg\xc3\xbcn\xc3\xbcm.'
+
+535
+00:42:49,050 --> 00:42:50,270
+b'Ben de.'
+
+536
+00:42:51,630 --> 00:42:53,330
+b'Ama e\xc4\x9flendik.'
+
+537
+00:42:54,700 --> 00:42:55,700
+b'Evet.'
+
+538
+00:42:55,720 --> 00:42:57,450
+b'\xc3\xb6zlemiyor musun'
+
+539
+00:42:58,370 --> 00:43:00,990
+b'Bir plaj oral seks demek istiyorsan, evet.'
+
+540
+00:43:01,540 --> 00:43:03,600
+b'\xc4\xb0\xc5\x9fte bunu \xc3\xb6zl\xc3\xbcyorum.'
+
+541
+00:43:03,710 --> 00:43:05,700
+b'ben her \xc5\x9feyim.'
+
+542
+00:43:07,250 --> 00:43:11,400
+b'Her \xc5\x9fey \xc3\xa7ok h\xc4\xb1zl\xc4\xb1 ger\xc3\xa7ekle\xc5\x9fti. '
+
+543
+00:43:12,220 --> 00:43:16,590
+b'Ve hala yeterli de\xc4\x9fildin. '
+
+544
+00:43:16,610 --> 00:43:19,790
+b'Ben b\xc3\xb6yleyim ve bundan ho\xc5\x9flan\xc4\xb1yorum.'
+
+545
+00:43:21,730 --> 00:43:25,450
+b'- De\xc4\x9fi\xc5\x9ftim, de\xc4\x9fil mi? '
+
+546
+00:43:28,070 --> 00:43:31,550
+b'- Seninle ilgili her \xc5\x9feyi seviyorum. '
+
+547
+00:43:37,170 --> 00:43:40,150
+b'Biliyor musun, bundan ho\xc5\x9flan\xc4\xb1yorum bile.'
+
+548
+00:43:40,180 --> 00:43:44,120
+b'Art\xc4\xb1k \xc3\xa7al\xc4\xb1\xc5\x9fmak zorunda de\xc4\x9filim. '
+
+549
+00:43:46,510 --> 00:43:49,880
+b'Ve ne yapaca\xc4\x9f\xc4\xb1z? '
+
+550
+00:43:51,990 --> 00:43:56,150
+b'Burada benimle kalabilirsin.'
+
+551
+00:43:56,772 --> 00:43:59,830
+b'Adada tatil bana yeter.'
+
+552
+00:44:01,079 --> 00:44:02,694
+b'Biliyor musun?'
+
+553
+00:44:02,695 --> 00:44:06,250
+b'Bu, kendim oldu\xc4\x9fum son y\xc4\xb1l olabilir.'
+
+554
+00:44:11,833 --> 00:44:13,674
+b'B\xc3\xb6yle s\xc3\xb6yleme.'
+
+555
+00:44:15,130 --> 00:44:21,650
+b'<i>Do\xc4\x9fum g\xc3\xbcn\xc3\xbc? </i>'
+
+556
+00:44:37,538 --> 00:44:38,689
+b'John?'
+
+557
+00:44:39,926 --> 00:44:41,188
+b'Burada!'
+
+558
+00:44:42,018 --> 00:44:44,459
+b'Konferans\xc4\xb1n\xc4\xb1z ne zaman?'
+
+559
+00:44:46,806 --> 00:44:47,967
+b'Pazartesi g\xc3\xbcn\xc3\xbcnde.'
+
+560
+00:44:48,803 --> 00:44:51,230
+b'-Lidia ne zaman geliyor? '
+
+561
+00:44:51,241 --> 00:44:54,267
+b'Beni bu kadar rahats\xc4\xb1z edip bak\xc4\xb1c\xc4\xb1l\xc4\xb1k yapmas\xc4\xb1na '
+b'gerek yok.'
+
+562
+00:44:54,268 --> 00:44:57,892
+b'Oyuncu se\xc3\xa7imi i\xc3\xa7in buraya geliyor.'
+
+563
+00:44:57,893 --> 00:44:59,297
+b'Evet.'
+
+564
+00:44:59,298 --> 00:45:01,554
+b'Bitirdi\xc4\x9fimde ko\xc5\x9fuya \xc3\xa7\xc4\xb1kacak m\xc4\xb1y\xc4\xb1z?'
+
+565
+00:45:01,555 --> 00:45:03,321
+b'Ben gidip sweatshirt alaca\xc4\x9f\xc4\xb1m.'
+
+566
+00:45:47,725 --> 00:45:49,066
+b'Gidiyor muyuz?'
+
+567
+00:45:49,067 --> 00:45:54,503
+b'bir foto\xc4\x9fraf alb\xc3\xbcm\xc3\xbc buldum'
+
+568
+00:45:54,504 --> 00:45:56,186
+b'annem ve k\xc4\xb1z karde\xc5\x9fim.'
+
+569
+00:45:58,289 --> 00:46:00,836
+b'Konferans\xc4\xb1n\xc4\xb1z ne zaman?'
+
+570
+00:46:01,575 --> 00:46:02,486
+b'Pazartesi g\xc3\xbcn\xc3\xbcnde.'
+
+571
+00:46:02,487 --> 00:46:03,935
+b'Lydia ne zaman geliyor?'
+
+572
+00:46:04,676 --> 00:46:06,266
+b'Pazar g\xc3\xbcn\xc3\xbc.'
+
+573
+00:46:08,925 --> 00:46:10,797
+b'Gidiyor muyuz?'
+
+574
+00:46:10,798 --> 00:46:15,415
+b'Evet. '
+
+575
+00:47:22,508 --> 00:47:23,428
+b'Ali?'
+
+576
+00:47:26,714 --> 00:47:29,400
+b'Banyo bulamad\xc4\xb1m.'
+
+577
+00:47:29,784 --> 00:47:32,142
+b'Hi\xc3\xa7bir \xc5\x9fey olmad\xc4\xb1. '
+
+578
+00:47:34,055 --> 00:47:35,935
+b'Neredeyim?'
+
+579
+00:47:57,149 --> 00:47:58,951
+b'- G\xc3\xbczel kolye. '
+
+580
+00:47:58,952 --> 00:48:00,500
+b'Onu g\xc3\xb6rd\xc3\xbcn m\xc3\xbc?'
+
+581
+00:48:00,501 --> 00:48:01,401
+b'De\xc4\x9fil.'
+
+582
+00:48:02,817 --> 00:48:04,154
+b'Annemden bir hediye.'
+
+583
+00:48:05,426 --> 00:48:11,353
+b'Hen\xc3\xbcz ilkokuldayken,'
+
+584
+00:48:11,354 --> 00:48:16,360
+b'\xc3\xb6\xc4\x9fretmen bana kelebeklerin \xc3\xa7ok k\xc4\xb1sa \xc3\xb6m\xc3\xbcrl\xc3\xbc '
+b'oldu\xc4\x9funu s\xc3\xb6yledi.'
+
+585
+00:48:16,364 --> 00:48:19,353
+b'O kadar sinirlendim ki anneme \xc5\x9fikayet ettim.'
+
+586
+00:48:19,354 --> 00:48:23,187
+b'"Ama ne kadar g\xc3\xbczel bir hayatlar\xc4\xb1 var" dedi.'
+
+587
+00:48:23,188 --> 00:48:25,200
+b'"Ger\xc3\xa7ekten g\xc3\xbczel."'
+
+588
+00:48:27,220 --> 00:48:30,422
+b'\xc5\x9eimdi annemin ve k\xc4\xb1z karde\xc5\x9fimin hayat\xc4\xb1 hakk\xc4\xb1nda '
+b'b\xc3\xb6yle d\xc3\xbc\xc5\x9f\xc3\xbcn\xc3\xbcyorum.'
+
+589
+00:48:30,423 --> 00:48:34,250
+b'Ve ayr\xc4\xb1ca kendi hakk\xc4\xb1nda.'
+
+590
+00:48:38,460 --> 00:48:40,321
+b'Uzun bir s\xc3\xbcre ya\xc5\x9fayacaks\xc4\xb1n.'
+
+591
+00:48:40,322 --> 00:48:41,353
+b'Biliyorum.'
+
+592
+00:48:41,354 --> 00:48:44,362
+b'Ama baz\xc4\xb1 planlar\xc4\xb1m var.'
+
+593
+00:48:44,363 --> 00:48:48,350
+b'Babanla bir y\xc4\xb1l izin almak istedim.'
+
+594
+00:48:48,351 --> 00:48:52,901
+b"Torunumu Tom'un mezun oldu\xc4\x9funu g\xc3\xb6rmek istiyorum..."
+
+595
+00:48:52,902 --> 00:48:53,750
+b'G\xc3\xb6receksin.'
+
+596
+00:48:53,760 --> 00:48:55,950
+b'... Ve \xc3\xbcniversiteye nas\xc4\xb1l gidiyorsun.'
+
+597
+00:48:59,533 --> 00:49:03,470
+b'Hukuk ya da t\xc4\xb1p de\xc4\x9fil, oyunculuk.'
+
+598
+00:49:03,488 --> 00:49:07,827
+b'Aktris olmazsan, her zaman \xc3\xb6\xc4\x9fretebilirsin'
+
+599
+00:49:07,828 --> 00:49:10,985
+b'ya da tiyatro at\xc3\xb6lyelerinde \xc3\xa7al\xc4\xb1\xc5\x9f\xc4\xb1n. '
+
+600
+00:49:10,986 --> 00:49:12,131
+b'Elbette.'
+
+601
+00:49:13,830 --> 00:49:15,106
+b'Bir "B plan\xc4\xb1na" ihtiyac\xc4\xb1m yok.'
+
+602
+00:49:18,627 --> 00:49:22,580
+b'Ben be\xc4\x9fendim ve denemek istiyorum. '
+
+603
+00:49:22,581 --> 00:49:24,002
+b'e\xc4\x9fer kendime inanm\xc4\xb1yorsam.'
+
+604
+00:49:24,003 --> 00:49:26,667
+b'Sana inan\xc4\xb1yorum! '
+
+605
+00:49:26,668 --> 00:49:29,409
+b'Ama hayat zor olabilir.'
+
+606
+00:49:31,595 --> 00:49:33,912
+b'D\xc3\xbc\xc5\x9f\xc3\xbcnd\xc3\xbc\xc4\x9f\xc3\xbcnden daha a\xc4\x9f\xc4\xb1r.'
+
+607
+00:49:34,415 --> 00:49:37,900
+b'Ben \xc3\xb6lmeden \xc3\xb6nce biraz g\xc3\xbcvenceye sahip olman\xc4\xb1 istiyorum.'
+
+608
+00:49:45,361 --> 00:49:49,089
+b'Durumunu beni manip\xc3\xbcle etmek i\xc3\xa7in kullanma.'
+
+609
+00:49:49,090 --> 00:49:49,769
+b'Neden?'
+
+610
+00:49:51,258 --> 00:49:53,579
+b'-\xc3\x87\xc3\xbcnk\xc3\xbc bu adil de\xc4\x9fil! '
+
+611
+00:49:54,025 --> 00:49:55,576
+b'Ben senin annenim.'
+
+612
+00:49:56,128 --> 00:49:57,683

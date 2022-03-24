@@ -1,24 +1,28 @@
 # -*- coding: utf-8 -*-
 # Author Name: Mesut Güneş
 # Author Email: gunesmes@gmail.com
-# Author Github username: gunesmes
+# Author GitHub username: gunesmes
 
-import os, sys, getopt, time
+import getopt
+import os
+import sys
+
 sys.path.append("src")
 
-from subTranslater import SubsTranslater
+from subtitle_translater import SubsTranslater
+
 
 def translater(argv):
     try:
         optlist, args = getopt.getopt(sys.argv[1:], "options")
         print(args)
-    except getopt.GetoptError, err:
-      print(err)
-      sys.exit(2)
+    except getopt.GetoptError as err:
+        print(err)
+        sys.exit(2)
 
     try:
-        #set file_dir = "D:/..." the path of files to be converted
-        #file_dir = "/Users/mesutgunes/Projects/subtitle_translator"
+        # set file_dir = "D:/..." the path of files to be converted
+        # file_dir = "/Users/mesutgunes/Projects/subtitle_translator"
         file_dir = args[0]
 
         # max length of line on tv screen
@@ -32,11 +36,12 @@ def translater(argv):
         source_language = args[3]
         target_language = args[4]
     except IndexError:
-        print("Arguments Error! Please run the file with the following format:" )
-        print("\n   python run.py 'path/to/files' 'max-length-of-lines' 'translator:google or yandex' 'source language' 'target language'\n   python run.py /Users/mesutgunes/Projects/subtitle_translator 40 google pl tr\n")
+        print("Arguments Error! Please run the file with the following format:")
+        print(
+            "\n   python run.py 'path/to/files' 'max-length-of-lines' 'translator:google or yandex' 'source language' 'target language'\n   python run.py /Users/mesutgunes/Projects/subtitle_translator 40 google pl tr\n")
         sys.exit(2)
 
-    #set directory
+    # set directory
     os.chdir(file_dir)
     path = os.listdir(file_dir)
 
@@ -50,8 +55,8 @@ def translater(argv):
             continue
 
     for i in range(len(files)):
-        subFile = os.path.dirname(os.path.abspath(files[i])) +"/" + files[i]
-        
+        subFile = os.path.dirname(os.path.abspath(files[i])) + "/" + files[i]
+
         """
         this function translate a subtitle file from original language to desired  language
         
@@ -62,10 +67,10 @@ def translater(argv):
         max_length      : max length of line on tv screen
 
         """
-        
+
         # s.translate_substitle(fileName, target_language, source_language, translator, max_length)    
-        s.translate_substitle(subFile, source_language, target_language, translator, max_length)
+        s.translate_subtitle(subFile, source_language, target_language, translator, max_length)
 
 
 if __name__ == "__main__":
-   translater(sys.argv[1:])
+    translater(sys.argv[1:])
