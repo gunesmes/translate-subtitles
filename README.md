@@ -1,7 +1,7 @@
 subtitle_translator
 ===================
 
-Translate a subtitle file from original language to desired  language. This gives you a machine translated subtitle.
+Translate bunch of subtitles from original language to desired language. This gives you a machine translated subtitle.
 
 ![Subtitle Demo Gif](img/tty.gif)
 
