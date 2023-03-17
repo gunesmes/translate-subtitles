@@ -4,13 +4,14 @@
 # Author Github username: gunesmes
 
 import goslate
-import time, requests, codecs, sys, urllib, random
+import time, requests, codecs, sys, urllib, random, os
 
 # get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
 YANDEX_API_KEY = "trnsl.1.1.20160603T091015Z.87ae2d901d0e30b5.c07fcad534693b23c6b5151e4284d79702efd762"
 
 
 class SubsTranslater:
+
     @staticmethod
     def read_file(file_name):
         fr = codecs.open(file_name, "r", encoding='utf-8-sig')
@@ -41,7 +42,6 @@ class SubsTranslater:
             baseName = file_name[0: last_dot]
             ext = file_name[last_dot: len(file_name)]
             new_file_name = baseName + str(name_sep) + ext
-
         return new_file_name
 
     @staticmethod
@@ -231,7 +231,7 @@ class SubsTranslater:
                 prepared_lines = self.prepare_translated_sub(translated_sub, prefix, suffix, _max_length)
                 for i in range(len(prepared_lines)):
                     print(prepared_lines[i])
-                    fw.write(str("%s\n" % prepared_lines[i].encode("utf8")))
+                    fw.write(str("%s\n" % prepared_lines[i]))
 
                 fw.write("\n")
                 print("")
