@@ -1,0 +1,17 @@
+## 2.0.0 - 14.06.2023
+
+### Added
+- Switch to googletranslatepy
+- Switch to raw tranlastion with length of GOOGLE_TRANSLATION_LIMIT 
+
+### Changed
+- New sample subtitle
+
+### Removed
+- Yandex disabled
+
+## 1.0.0 - 10.02.2014
+
+### Added
+- Google translate
+- Yandex translate

@@ -6,6 +6,7 @@
 import getopt
 import os
 import sys
+from datetime import datetime
 
 sys.path.append("src")
 
@@ -13,9 +14,9 @@ from subtitle_translater import SubsTranslater
 
 
 def translater(argv):
+    start_time = datetime.now()
     try:
         optlist, args = getopt.getopt(sys.argv[1:], "options")
-        print(args)
     except getopt.GetoptError as err:
         print(err)
         sys.exit(2)
@@ -54,8 +55,9 @@ def translater(argv):
             files.append(item)
             continue
 
-    for i in range(len(files)):
-        subFile = os.path.dirname(os.path.abspath(files[i])) + "/" + files[i]
+    for file in files:
+        print(" - - - - Translating: {file} - - - - - -")
+        subFile = os.path.dirname(os.path.abspath(file)) + "/" + file
 
         """
         this function translate a subtitle file from original language to desired  language
@@ -68,9 +70,10 @@ def translater(argv):
 
         """
 
-        # s.translate_substitle(fileName, target_language, source_language, translator, max_length)    
-        s.translate_subtitle(subFile, source_language, target_language, translator, max_length)
+        s.translate_subtitle_raw(subFile, source_language, target_language, translator, max_length)
 
+    end_time = datetime.now()
+    print('Duration: {}'.format(end_time - start_time))
 
 if __name__ == "__main__":
     translater(sys.argv[1:])

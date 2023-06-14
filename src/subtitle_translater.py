@@ -3,12 +3,13 @@
 # Author Email: gunesmes@gmail.com
 # Author Github username: gunesmes
 
+import pdb
 import goslate
 import time, requests, codecs, sys, urllib, random, os
 
 # get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
 YANDEX_API_KEY = "trnsl.1.1.20160603T091015Z.87ae2d901d0e30b5.c07fcad534693b23c6b5151e4284d79702efd762"
-
+GOOGLE_TRANSLATION_LIMIT = 500
 
 class SubsTranslater:
 
@@ -19,6 +20,14 @@ class SubsTranslater:
         fr.close()
 
         return lines
+
+    @staticmethod
+    def read_file_as_list(file_name):
+        fr = codecs.open(file_name, "r", encoding='utf-8-sig')
+        lines = fr.read()
+        fr.close()
+
+        return lines.split("\r\n\r\n")
 
     def write_file(self, file_name, target_language, source_language):
         fn = self.format_file_name(file_name, target_language, source_language)
@@ -195,7 +204,7 @@ class SubsTranslater:
             3
         """
         fw = self.write_file(file_name, target_language, source_language)
-        lines = self.read_file(file_name)
+        lines = self.read_file_as_list(file_name)
         line = str()
 
         i = 0
@@ -239,6 +248,101 @@ class SubsTranslater:
 
         # Print information about the subtitle
         info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" % translator.upper()
+        fw.write(info)
+        print(info)
+        print("New file name: ", self.format_file_name(file_name, target_language, source_language))
+
+
+    def translate_subtitle_raw(self, file_name, source_language, target_language, translator_tool, _max_length):
+        """
+        this function translate a subtitle file from original language to desired  language
+        
+        line may be the order number of the subtitle or just for real line 
+        such as answer to age given "33" or there is no order number but "-->"   
+        must be present to in the middle of the start and end time of subtitle
+        to be shown. There must a empty line between two ordered subtitle.
+        Expected / standart subtitle should be like this:    
+            1
+            00:00:27,987 --> 00:00:29,374
+            - Babe.
+            - Mmm.
+            
+            2
+            00:00:30,210 --> 00:00:31,634
+            - Lizzie.
+            - Mmm.
+            
+            3
+        """
+        fw = self.write_file(file_name, target_language, source_language)
+        content_list = self.read_file_as_list(file_name)
+        durations = []
+        contents = []
+        text_translatable = ''
+        # from googletrans import Translator
+        from googletranslatepy import Translator
+        translator = Translator(source=source_language, target=target_language)
+
+        for content in content_list:
+            # print non-translatable lines
+            lines = content.split("\r\n")
+            time_info = ''
+            text_info = ''
+            for i in range(len(lines)):
+                if lines[i].rstrip().isdigit() and "-->" in lines[i + 1] or "-->" in lines[i]:
+                    time_info += lines[i] + "\r\n"
+                    continue
+                else:
+                    text_info += lines[i] + "\n" 
+                
+            if len(text_info) + len(text_translatable) < GOOGLE_TRANSLATION_LIMIT:                
+                durations.append(time_info)
+                text_translatable += text_info + "\n\r"
+            else:
+                try:  
+                    translated_sub = translator.translate(text_translatable)
+                    temp_translated = translated_sub.split("\n\r")
+                    temp_translated[-1] = temp_translated[-1] + "\n"
+                    contents += temp_translated
+                except TypeError as err:
+                    translated_sub = 'err'
+                    print(err)
+                    
+                text_translatable = text_info
+                time.sleep(5)
+                
+        for d, c in zip(durations, contents):
+            # pdb.set_trace() 
+            fw.write(d)
+            fw.write(c + "\n")
+            print(d + c)
+
+        # if lines[i].rstrip() == "":
+        #     # prepare line before sending translator
+        #     serialized_sub = self.prepare_line(line)
+        #     prepared_sub = serialized_sub[0]
+
+        #     time.sleep(random.random())  # sleep some random 0 to 1 second
+        #     if translator.lower() == "google":
+        #         # send prepared subtitle to Google translator
+        #         translated_sub = self.send_google_translator(prepared_sub, source_language, target_language)
+
+        #     elif translator.lower() == "yandex":
+        #         # send prepared subtitle to Yandex translator
+        #         translated_sub = self.send_yandex_translator(prepared_sub, source_language, target_language)
+
+        #     # prepare sub before writing new subtitle file
+        #     prepared_lines = self.prepare_translated_sub(translated_sub, prefix, suffix, _max_length)
+        #     for i in range(len(prepared_lines)):
+        #         print(prepared_lines[i])
+        #         fw.write(str("%s\n" % prepared_lines[i]))
+
+        #         fw.write("\n")
+        #         print("")
+        #         line = ""
+
+        # Print information about the subtitle
+        info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" % translator_tool
         fw.write(info)
         print(info)
         print("New file name: ", self.format_file_name(file_name, target_language, source_language))
