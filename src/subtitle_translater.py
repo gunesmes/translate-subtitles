@@ -4,8 +4,8 @@
 # Author Github username: gunesmes
 
 import pdb
-import goslate
 import time, requests, codecs, sys, urllib, random, os
+from googletranslatepy import Translator
 
 # get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
 YANDEX_API_KEY = "trnsl.1.1.20160603T091015Z.87ae2d901d0e30b5.c07fcad534693b23c6b5151e4284d79702efd762"
@@ -26,8 +26,7 @@ class SubsTranslater:
         fr = codecs.open(file_name, "r", encoding='utf-8-sig')
         lines = fr.read()
         fr.close()
-
-        return lines.split("\r\n\r\n")
+        return lines.split("\n\n")
 
     def write_file(self, file_name, target_language, source_language):
         fn = self.format_file_name(file_name, target_language, source_language)
@@ -264,14 +263,12 @@ class SubsTranslater:
         durations = []
         contents = []
         text_translatable = ''
-        # from googletrans import Translator
-        from googletranslatepy import Translator
         translator = Translator(source=source_language, target=target_language)
         number_of_translatable_content = len(content_list)
 
         for c in range(number_of_translatable_content):
             # print non-translatable lines
-            lines = content_list[c].split("\r\n")
+            lines = content_list[c].split("\n")
             time_info = ''
             text_info = ''
             for i in range(len(lines)):
@@ -300,7 +297,6 @@ class SubsTranslater:
                 text_translatable += text_info + "\n\r"
                 
         for d, c in zip(durations, contents):
-            # pdb.set_trace() 
             fw.write(d)
             fw.write(c + "\n")
             print(d + c)
