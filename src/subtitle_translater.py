@@ -26,7 +26,12 @@ class SubsTranslater:
         fr = codecs.open(file_name, "r", encoding='utf-8-sig')
         lines = fr.read()
         fr.close()
-        return lines.split("\n\n")
+        
+        # some SRTs such as created by whisper doesn't have \r\n but some other have it
+        if "\r\n" in lines:
+            return lines.split("\r\n\r\n")
+        if "\n\n" in lines:
+            return lines.split("\n\n")
 
     def write_file(self, file_name, target_language, source_language):
         fn = self.format_file_name(file_name, target_language, source_language)
@@ -267,8 +272,13 @@ class SubsTranslater:
         number_of_translatable_content = len(content_list)
 
         for c in range(number_of_translatable_content):
-            # print non-translatable lines
-            lines = content_list[c].split("\n")
+            lines = []
+            # some SRTs such as created by whisper doesn't have \r\n but some other have it
+            if "\r\n" in content_list[c]:
+                lines = content_list[c].split("\r\n")
+            if "\n" in content_list[c]:
+                lines = content_list[c].split("\n")
+
             time_info = ''
             text_info = ''
             for i in range(len(lines)):
@@ -282,7 +292,6 @@ class SubsTranslater:
             if len(text_translatable) + len(text_info) > GOOGLE_TRANSLATION_LIMIT or c == number_of_translatable_content-1:
                 try:  
                     translated_sub = translator.translate(text_translatable)
-                    # translated_sub = self.send_yandex_translator(text_translatable, source_language, target_language)
                     temp_translated = translated_sub.split("\n\r")
                     temp_translated[-1] = temp_translated[-1] + "\n"
                     contents += temp_translated
@@ -297,6 +306,7 @@ class SubsTranslater:
                 text_translatable += text_info + "\n\r"
                 
         for d, c in zip(durations, contents):
+            # pdb.set_trace() 
             fw.write(d)
             fw.write(c + "\n")
             print(d + c)
