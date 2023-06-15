@@ -9,7 +9,7 @@ import time, requests, codecs, sys, urllib, random, os
 
 # get yandex translate key from: https://tech.yandex.com/keys/?service=trnsl
 YANDEX_API_KEY = "trnsl.1.1.20160603T091015Z.87ae2d901d0e30b5.c07fcad534693b23c6b5151e4284d79702efd762"
-GOOGLE_TRANSLATION_LIMIT = 500
+GOOGLE_TRANSLATION_LIMIT = 5000
 
 class SubsTranslater:
 
@@ -88,21 +88,6 @@ class SubsTranslater:
             line_ = line
 
         return line_, prefix, suffix
-
-    @staticmethod
-    def send_google_translator(prepared_sub, source_language, target_language):
-        # Using Google API is not free so we can send sentences via browser for this Goslate module 
-        # is written by ZHUO Qiang. For more information http://pythonhosted.org/goslate/#module-goslate
-        # More info about language abbreviation
-        # https://developers.google.com/translate/v2/using_rest#language-params
-        try:
-            gs = goslate.Goslate()
-        except:
-            print("Wait and send again")
-            time.sleep(5)
-            gs = goslate.Goslate()
-
-        return gs.translate(prepared_sub, target_language, source_language)
 
     @staticmethod
     def send_yandex_translator(prepared_sub, source_language, target_language):
@@ -282,10 +267,11 @@ class SubsTranslater:
         # from googletrans import Translator
         from googletranslatepy import Translator
         translator = Translator(source=source_language, target=target_language)
+        number_of_translatable_content = len(content_list)
 
-        for content in content_list:
+        for c in range(number_of_translatable_content):
             # print non-translatable lines
-            lines = content.split("\r\n")
+            lines = content_list[c].split("\r\n")
             time_info = ''
             text_info = ''
             for i in range(len(lines)):
@@ -295,12 +281,11 @@ class SubsTranslater:
                 else:
                     text_info += lines[i] + "\n" 
                 
-            if len(text_info) + len(text_translatable) < GOOGLE_TRANSLATION_LIMIT:                
-                durations.append(time_info)
-                text_translatable += text_info + "\n\r"
-            else:
+            # list doesn't have the value at number_of_translatable_content index
+            if len(text_translatable) + len(text_info) > GOOGLE_TRANSLATION_LIMIT or c == number_of_translatable_content-1:
                 try:  
                     translated_sub = translator.translate(text_translatable)
+                    # translated_sub = self.send_yandex_translator(text_translatable, source_language, target_language)
                     temp_translated = translated_sub.split("\n\r")
                     temp_translated[-1] = temp_translated[-1] + "\n"
                     contents += temp_translated
@@ -310,6 +295,9 @@ class SubsTranslater:
                     
                 text_translatable = text_info
                 time.sleep(5)
+            else:
+                durations.append(time_info)
+                text_translatable += text_info + "\n\r"
                 
         for d, c in zip(durations, contents):
             # pdb.set_trace() 

@@ -43,9 +43,12 @@ orada bulabilirsiniz.</i>
 <i>Örneğin, bu
 bir hukuk bürosundaki son çalışma günüm.</i>
 
+11
+00:00:37,000 --> 00:00:39,041
+<i>Bunun bir iş olduğunu söylemek havalı göründü,</i>
+
 12
 00:00:39,750 --> 00:00:42,458
-<i>Bunun bir iş olduğunu söylemek havalı göründü,</i>
 <i>ama öyleydi
 bir kolej ders dışı etkinliği.</i>
 
@@ -91,9 +94,12 @@ Müzik değil.</i>
 00:01:13,208 --> 00:01:14,958
 <i>Bunu hayatım boyunca istemedim.</i>
 
+23
+00:01:23,208 --> 00:01:25,000
+<i>Öte yandan, bunu istiyordum!</i>
+
 24
 00:01:25,083 --> 00:01:28,708
-<i>Öte yandan, bunu istiyordum!</i>
 <i>Tam olarak onlar gibi olmak istiyorum
 ben yaşlandığımda. Bu çok fazla güç.</i>
 
@@ -135,9 +141,12 @@ Pedrolar!
 00:01:53,208 --> 00:01:54,833
 <i>Başaracağıma odaklanma ve inanç</i>
 
+34
+00:01:54,916 --> 00:01:56,500
+<i>Mezun olmama çok az kaldı</i>
+
 35
 00:01:56,583 --> 00:01:58,375
-<i>Mezun olmama çok az kaldı</i>
 <i>Pek çok şey var ama biz buradayız</i>
 
 36
@@ -186,9 +195,12 @@ Siyahi kadın sorumlu olacak</i>
 <i>- Böylece sabahlayabilirim
 - Böylece sabahlayabilirim</i>
 
+46
+00:02:33,750 --> 00:02:34,791
+Hadi beyler!
+
 47
 00:02:34,916 --> 00:02:36,583
-Hadi beyler!
 Günaydın.
 
 48
@@ -238,10 +250,13 @@ Yön ve şans</i>
 <i>- Göğsümde aşk var
 - Göğsümde aşk var</i>
 
-60
-00:03:20,125 --> 00:03:22,500
+59
+00:03:16,750 --> 00:03:19,916
 <i>- Ve ben kendi yöntemimle yaparım
 - Ve bunu kendi yöntemimle yapıyorum</i>
+
+60
+00:03:20,125 --> 00:03:22,500
 <i>- Axé hayatta
 - Yaşamda Axe</i>
 
@@ -290,10 +305,13 @@ Beklemek. müzik sevmiyorum
 00:04:12,958 --> 00:04:15,791
 Unutulmaz Bir Yıl SONBAHAR
 
-73
-00:04:23,208 --> 00:04:24,416
+72
+00:04:16,416 --> 00:04:19,583
 ÇALIŞMALARINA DAYALI
 BABİ DEWET
+
+73
+00:04:23,208 --> 00:04:24,416
 ANNE - CEVAP VERMEYİN
 
 74
@@ -376,10 +394,13 @@ Teşekkürler, Bay Marcílio.
 00:06:26,166 --> 00:06:27,250
 Dinlemek...
 
-94
-00:06:31,916 --> 00:06:34,375
+93
+00:06:28,041 --> 00:06:31,750
 Son grubu burada duydum
 konserler verdi, albümler kaydetti.
+
+94
+00:06:31,916 --> 00:06:34,375
 Ertesi Günün Akbabaları!
 
 95
@@ -408,7 +429,7 @@ hattın sonunda bir pas almak için
 100
 00:07:05,875 --> 00:07:09,791
 İstersen şafakta geri gel.
-Sıra veya seyirci yok.
+Sıra yok, seyirci yok.
 
 101
 00:07:09,875 --> 00:07:11,208
@@ -423,10 +444,13 @@ Tek kelime bile etmeyeceğim.
 - Hadi! Beyler, kalın!
 - Ben gidiyorum, JP.
 
-105
-00:07:19,458 --> 00:07:21,833
+104
+00:07:16,541 --> 00:07:19,375
 Nereye gidiyorsun?
 Git kahve al ve geri dön.
+
+105
+00:07:19,458 --> 00:07:21,833
 Sırada bekleyeceğim. Burada kalacağım...
 
 106
@@ -472,10 +496,13 @@ Kızım, artık daha çok boş vaktin olacak.
 00:08:09,666 --> 00:08:10,916
 Dindinha, söyle ona.
 
-117
-00:08:13,166 --> 00:08:14,958
+116
+00:08:11,000 --> 00:08:13,083
 <i>- Hey kızım! nasılsın?</i>
 - MERHABA!
+
+117
+00:08:13,166 --> 00:08:14,958
 <i>Baban bana her şeyi anlattı.</i>
 
 118
@@ -520,10 +547,13 @@ sonra evime gel
 - Görüşürüz güzel kız.
 - Hoşçakal tatlım!
 
-128
-00:08:41,750 --> 00:08:42,625
+127
+00:08:40,083 --> 00:08:41,666
 - O'na iyi bak.
 <i>- Seni seviyorum.</i>
+
+128
+00:08:41,750 --> 00:08:42,625
 Hoşçakalın arkadaşlar!
 
 129
@@ -548,13 +578,10 @@ Kuyu...
 00:08:58,000 --> 00:08:59,750
 Bir stajyerimizi kaybettik.
 
-134
-00:09:00,708 --> 00:09:03,291
-Genişletmeye karar verdim
-staj programı
-
 135
 00:09:03,375 --> 00:09:05,750
+Genişletmeye karar verdim
+staj programı
 onun yerine birinizi işe almak.
 
 136
@@ -580,10 +607,13 @@ beni etkilemek için daha çok zamanın var.
 - Joice mi?
 - Evet?
 
-142
-00:09:21,875 --> 00:09:23,333
+141
+00:09:19,916 --> 00:09:21,791
 - Bana bir kapuçino getir lütfen.
 - Elbette.
+
+142
+00:09:21,875 --> 00:09:23,333
 Hayır, izin ver!
 
 143
@@ -618,7 +648,7 @@ Affedersin. Bu sıra mı?
 
 150
 00:09:59,583 --> 00:10:01,541
-<i>Aman Tanrım! O çok ateşli.</i>
+<i>Aman Tanrım! O çok seksi.</i>
 
 151
 00:10:02,000 --> 00:10:04,166
@@ -638,10 +668,13 @@ Bu bir kapuçino mu?
 sana parayı vereceğim
 ve sen bana malları ver.
 
-156
-00:10:17,583 --> 00:10:18,416
+155
+00:10:13,958 --> 00:10:16,583
 Tanıştığıma memnun oldum.
 Benim adım João Paulo. Sen?
+
+156
+00:10:17,583 --> 00:10:18,416
 Teşekkürler.
 
 157
@@ -686,10 +719,13 @@ Tek istediğim bu stajdı.
 - Biliyorum.
 - Seni hayal kırıklığına uğratmayacağım.
 
-167
-00:11:10,666 --> 00:11:12,583
+166
+00:11:06,041 --> 00:11:10,208
 Çok çalışmalısın, Anna. Buradaki şeyler
 kolay değil Yarışmayı gördünüz.
+
+167
+00:11:10,666 --> 00:11:12,583
 Her şeye dikkat etmelisiniz.
 
 168
@@ -739,9 +775,12 @@ Taşınıyor muyuz ve kimse bana söylemedi mi?
 00:11:44,000 --> 00:11:45,333
 Grup bitti, değil mi?
 
+179
+00:11:45,458 --> 00:11:47,125
+Jaú'ya geri dönüyoruz.
+
 180
 00:11:47,625 --> 00:11:50,583
-Jaú'ya geri dönüyoruz.
 Grup bitti mi?
 Ne demek istiyorsun Pedro Jorge?
 
@@ -796,9 +835,12 @@ Pedros Artı Bir.
 00:12:19,125 --> 00:12:20,375
 Ben Pedro değilim!
 
+192
+00:12:21,875 --> 00:12:24,125
+Ama sen benim kardeşlerimsin, dostum.
+
 193
 00:12:25,500 --> 00:12:26,500
-Ama sen benim kardeşlerimsin, dostum.
 Kalmak!
 
 194
@@ -870,10 +912,13 @@ Bir!
 "PEDROS PLUS BİR"
 JAÚ'NİN EN İYİ KAPAK BANDI
 
-211
-00:13:35,250 --> 00:13:38,041
+210
+00:13:31,916 --> 00:13:35,166
 <i>O gün sanki rüyam başlıyor gibiydi
 gerçeğe dönüştürmek.</i>
+
+211
+00:13:35,250 --> 00:13:38,041
 <i>Sanki ilk günmüş gibi
 hayatımın geri kalanında.</i>
 
@@ -909,10 +954,13 @@ uyanmak, müzik yok, dağınıklık yok,</i>
 <i>Daha fazla hızlanma isteği
 ve nihayet diyebilmek,</i>
 
-220
-00:14:04,291 --> 00:14:06,291
+219
+00:13:59,041 --> 00:14:04,000
 <i>"Tanıştığıma memnun oldum. Ben Anna Júlia,
 bir avukat." Bu benim, değil mi?</i>
+
+220
+00:14:04,291 --> 00:14:06,291
 <i>Şarkıcı olacak mısın kızım?</i>
 
 221
@@ -967,10 +1015,13 @@ Yalnızdı, terk edilmişti.
 00:14:52,500 --> 00:14:54,166
 Aman Tanrım.
 
-234
-00:14:57,875 --> 00:14:59,458
+233
+00:14:54,708 --> 00:14:57,791
 - Bunu sadece sen yaparsın. İşe gidiyorum.
 - Tamam aşkım.
+
+234
+00:14:57,875 --> 00:14:59,458
 Aninha, kahve ne olacak?
 
 235
@@ -1030,9 +1081,12 @@ Cevapla. Bununla bir kez ve herkes için ilgilenin.
 00:15:41,250 --> 00:15:43,083
 Bu zaten ele alındı.
 
+248
+00:15:43,875 --> 00:15:44,875
+Anna!
+
 249
 00:15:47,958 --> 00:15:50,375
-Anna!
 HUKUK OKULU
 
 250
@@ -1072,10 +1126,13 @@ Müvekkilinizin anayasal hakları?
 Bir avukat gibi konuşuyorsun,
 ve biz sadece birinci sınıf öğrencisiyiz.
 
-259
-00:16:21,208 --> 00:16:23,583
+258
+00:16:17,625 --> 00:16:20,833
 - Yavaş ol, Anna Júlia.
 - Acelem var, Heitor.
+
+259
+00:16:21,208 --> 00:16:23,583
 çünkü ben bir kadınım
 zamanımın ilerisinde
 
@@ -1115,17 +1172,17 @@ zamanımın ilerisinde
 00:16:52,291 --> 00:16:55,458
 <i>Daha önemli olmak istedim</i>
 
-269
-00:16:55,541 --> 00:16:59,458
-<i>Ama ben sana göre değildim</i>
-
 270
 00:16:59,541 --> 00:17:03,083
+<i>Ama ben sana göre değildim</i>
 <i>Sürdü, nedenini söyle</i>
+
+271
+00:17:03,166 --> 00:17:06,375
+<i>Burada çok fazla zaman harcadınız</i>
 
 272
 00:17:06,583 --> 00:17:10,458
-<i>Burada çok fazla zaman harcadınız</i>
 <i>Sana bir iyilik yapacağım ve ortadan kaybolacağım</i>
 
 273
@@ -1171,10 +1228,13 @@ Sadece aşkı hissettiğimi biliyorum</i>
 00:17:48,583 --> 00:17:50,250
 Teşekkür ederim!
 
-284
-00:17:56,583 --> 00:17:58,458
+283
+00:17:52,916 --> 00:17:56,500
 - Beni o zaman kurtardığın için teşekkürler.
 - Sorun değil.
+
+284
+00:17:56,583 --> 00:17:58,458
 Bir şeye ihtiyacın olursa, söyle bana.
 
 285
@@ -1226,10 +1286,13 @@ Hayır meşgul değilim. Devam et.
 00:18:25,166 --> 00:18:27,416
 Eşarbı seviyorum! Evet sizi dinliyorum.
 
-297
-00:18:45,875 --> 00:18:47,791
+296
+00:18:36,083 --> 00:18:40,583
 BİRDEN FAZLA SQUAT
 KORKUSUZ İNSANLAR
+
+297
+00:18:45,875 --> 00:18:47,791
 - Affedersiniz.
 - Üzgünüm...
 
@@ -1273,10 +1336,13 @@ Elbette, kiminle konuşacağım?
 Bana göre. ilklerden biriydim
 bu çömelmede.
 
-308
-00:19:21,833 --> 00:19:24,458
+307
+00:19:17,875 --> 00:19:21,708
 şu an seninle konuşamam
 çünkü bir toplantım var.
+
+308
+00:19:21,833 --> 00:19:24,458
 - Daha sonra gelecek misin?
 - Yapacağım!
 
@@ -1329,10 +1395,13 @@ yapabilir misin?
 - HAYIR!
 - Biliyorum. Derinlere dokunuyor, değil mi?
 
-321
-00:20:20,791 --> 00:20:24,916
+320
+00:20:16,833 --> 00:20:20,666
 Bir de sevdiğim başka bir yağmur şarkısı var.
 Gil'e ait. O bir tanrıdır.
+
+321
+00:20:20,791 --> 00:20:24,916
 Benim de birçok tanrı ve tanrıçam var.
 Maria Bethânia. Elza Soares...
 
@@ -1366,15 +1435,18 @@ kaşık veya acai meyvesi.
 
 328
 00:20:43,541 --> 00:20:47,583
-<i>Beni böyle takip edersin</i>
+<i>Beni böyle takip ederdin</i>
 
 329
 00:20:47,666 --> 00:20:51,666
 <i>Cartola ve gülleri gibi</i>
 
+330
+00:20:51,750 --> 00:20:55,416
+<i>Harika, Jorge ve Gil gibi</i>
+
 331
 00:20:55,500 --> 00:20:59,416
-<i>Harika, Jorge ve Gil gibi</i>
 <i>Ve Lady Gaga göç ederdi</i>
 
 332
@@ -1423,9 +1495,12 @@ inanmıyorum Kanıtla.
 00:21:36,333 --> 00:21:38,458
 <i>Müzik beni ağlatıyor</i>
 
+343
+00:21:38,583 --> 00:21:40,875
+<i>Nasıl şarkı söyleyeceğimi bilmiyorum</i>
+
 344
 00:21:41,583 --> 00:21:44,500
-<i>Nasıl şarkı söyleyeceğimi bilmiyorum</i>
 <i>Beni yumuşatıyor, bakışlarımı kaçırıyorum</i>
 
 345
@@ -1467,10 +1542,13 @@ Elis'i mi dinliyorsunuz?</i>
 00:22:12,541 --> 00:22:14,250
 Gitmeliyim. Neredeyse zamanı geldi.
 
-355
-00:22:20,291 --> 00:22:22,500
+354
+00:22:14,333 --> 00:22:19,583
 <i>Bunu sonunda mı söyleyeceksin?
 Bis istemediğiniz bir şovdan mı?</i>
+
+355
+00:22:20,291 --> 00:22:22,500
 Kafamı karıştırmayı bırak, <i>lütfen!</i>
 
 356
@@ -1513,10 +1591,13 @@ Az önce ne olduğunu bilmiyorsun!
 00:22:57,416 --> 00:22:58,625
 Afedersin, Sophia!
 
-366
-00:23:01,916 --> 00:23:05,125
+365
+00:22:59,125 --> 00:23:01,541
 seninle gerçekten konuşmak istiyorum
 bu dava hakkında
+
+366
+00:23:01,916 --> 00:23:05,125
 Alexa, ne yapmalıyım?
 stajyer adayı olduğunda
 
@@ -1555,10 +1636,13 @@ Burada çalıştığını bilmemeliler.
 00:23:32,458 --> 00:23:35,041
 Dava henüz bizim değil. Resmi olarak değil.
 
-376
-00:23:37,583 --> 00:23:39,791
+375
+00:23:35,166 --> 00:23:37,458
 - Bunu benim için yapar mısın, Anna?
 - Elbette.
+
+376
+00:23:37,583 --> 00:23:39,791
 raporu teslim edeceğim
 mümkün olan en kısa sürede.
 
@@ -1603,10 +1687,13 @@ TIM MAIA'NIN ŞARKISI GİBİ EVET'E YERLEŞİN
 anahtarını getirdim
 paylaşacağımız odaya.
 
-387
-00:24:51,208 --> 00:24:54,583
+386
+00:24:46,291 --> 00:24:51,083
 - Yatak yapılır, çarşaflar temiz...
 - Sana yeterince teşekkür edemem.
+
+387
+00:24:51,208 --> 00:24:54,583
 Bana teşekkür etmenin birçok yolu var.
 Banka kredisi...
 
@@ -1619,13 +1706,10 @@ Banka kredisi...
 00:24:57,833 --> 00:24:59,125
 Ama sorun değil, değil mi?
 
-390
-00:24:59,333 --> 00:25:01,041
-- Evet, sorun değil.
-- Serin.
-
 391
 00:25:01,125 --> 00:25:03,000
+- Evet, sorun değil.
+- Serin.
 - İyi günler.
 - Barış.
 
@@ -1658,10 +1742,13 @@ yeni kilim
 00:25:48,541 --> 00:25:50,916
 Dikkat, JP, bu kadar yeter. Yapma.
 
-400
-00:25:55,625 --> 00:25:57,250
+399
+00:25:51,000 --> 00:25:54,625
 Bu kayıt, sendelemeye son vermen için
 ve fikirlerinizi hatırlayın.
+
+400
+00:25:55,625 --> 00:25:57,250
 Bir şarkı yazsam ne olur...
 
 401
@@ -1704,10 +1791,13 @@ Yardım et Lulu!
 - Lulu mu?
 - Beni sen aradın?
 
-411
-00:26:33,125 --> 00:26:35,458
+410
+00:26:29,625 --> 00:26:32,833
 - Lulu!
 - JP, değil mi? Naber?
+
+411
+00:26:33,125 --> 00:26:35,458
 Nasıl harika bir şarkı yazabilirim?
 
 412
@@ -1767,9 +1857,12 @@ Biliyor musun? Hisset.
 00:27:09,333 --> 00:27:11,083
 Üç, dört, iki...
 
+425
+00:27:11,166 --> 00:27:14,458
+Ve boyun sabit. Yüzer,
+
 426
 00:27:14,541 --> 00:27:15,541
-Ve boyun sabit. Yüzer,
 gülümseyen.
 
 427
@@ -1836,10 +1929,13 @@ Yapamam, João Sen bir müzisyensin
 00:28:03,791 --> 00:28:05,583
 Müzisyenler de yemek yer.
 
-443
-00:28:17,666 --> 00:28:19,666
+442
+00:28:13,291 --> 00:28:17,458
 Bu yüzden buradayım.
 Sanırım ofis davayı alacak.
+
+443
+00:28:17,666 --> 00:28:19,666
 Patronum pek bir şey söylemedi.
 
 444
@@ -1887,10 +1983,13 @@ bana festival hakkında söylediklerini.
 00:28:46,375 --> 00:28:47,916
 Bence bunu kaldırabilirsin.
 
-455
-00:28:52,416 --> 00:28:54,583
+454
+00:28:48,291 --> 00:28:52,000
 Bir şeyi gerçekten istediğimizde,
 gidip alıyoruz Odaklanırız.
+
+455
+00:28:52,416 --> 00:28:54,583
 Odak? Bunun ne anlama geldiğini bile bilmiyorum.
 
 456
@@ -1942,10 +2041,13 @@ Bence hayat kocaman bir sosisli sandviç gibi işliyor.
 00:29:26,333 --> 00:29:27,166
 Ne?
 
-468
-00:29:30,375 --> 00:29:32,208
+467
+00:29:27,250 --> 00:29:30,291
 Hatta bir tarifiniz bile olabilir.
 Tüm malzemeler de,
+
+468
+00:29:30,375 --> 00:29:32,208
 - pastırma dahil.
 - Domuz pastırması?
 
@@ -2011,9 +2113,12 @@ Anna Júlia.
 00:30:13,958 --> 00:30:14,958
 Anladım?
 
+483
+00:30:16,583 --> 00:30:17,958
+İşe gitmek zorundayım.
+
 484
 00:30:18,041 --> 00:30:19,416
-İşe gitmek zorundayım.
 Hoşçakal.
 
 485
@@ -2074,10 +2179,13 @@ Yardım edebilirim.
 00:30:52,750 --> 00:30:55,000
 Baban çalışkan olduğunu söyledi.
 
-499
-00:30:58,750 --> 00:31:00,625
+498
+00:30:55,083 --> 00:30:58,666
 Hadi. altı elimiz var
 300 kişiye yemek pişirmek.
+
+499
+00:30:58,750 --> 00:31:00,625
 öğle yemeğini sevdim
 
 500
@@ -2131,9 +2239,12 @@ Her biri birden fazla</i>
 <i>ağlamak zorundasın
 Söylemek zorundasın ve harekete geçmek zorundasın</i>
 
+512
+00:31:56,250 --> 00:31:58,375
+<i>Çalışmak</i>
+
 513
 00:31:59,291 --> 00:32:00,708
-<i>Çalışmak</i>
 <i>işgal etmek</i>
 
 514
@@ -2186,9 +2297,12 @@ Davul göğsümde atıyor</i>
 00:33:04,166 --> 00:33:08,833
 <i>Burada acele ve renk yok</i>
 
+526
+00:33:08,916 --> 00:33:13,250
+<i>Lezzeti var, bilgisi var</i>
+
 527
 00:33:13,791 --> 00:33:15,791
-<i>Lezzeti var, bilgisi var</i>
 <i>Yürümek</i>
 
 528
@@ -2229,12 +2343,9 @@ Davul göğsümde atıyor</i>
 00:34:02,291 --> 00:34:04,958
 İşte ilk günün raporu.
 
-537
-00:34:15,541 --> 00:34:17,250
-İstediğim bilgi nerede?
-
 538
 00:34:17,500 --> 00:34:18,500
+İstediğim bilgi nerede?
 Orada.
 
 539
@@ -2242,10 +2353,13 @@ Orada.
 - Orada bulundum ve etkileyici.
 - Kişisel bilgi.
 
-541
-00:34:25,875 --> 00:34:28,458
+540
+00:34:22,541 --> 00:34:25,791
 Objektif bilgiye ihtiyacım var.
 Yapıları nasıl,
+
+541
+00:34:25,875 --> 00:34:28,458
 ne sorunlarla karşılaşıyorlar. Anladım?
 
 542
@@ -2300,9 +2414,12 @@ Ne?
 00:35:11,875 --> 00:35:14,208
 Şimdi de evimizi yeniden mi dekore ediyorsun?
 
+554
+00:35:14,291 --> 00:35:15,541
+Hayır, Rubinho'nun!
+
 555
 00:35:15,625 --> 00:35:18,541
-Hayır, Rubinho'nun!
 Bir tartışması vardı.
 eşiyle birlikte boşandı.
 
@@ -2351,9 +2468,12 @@ Aman Tanrım! Sadece sen yapardın, Guiguis.
 Rubinho'nun DVD oynatıcısı olduğuna inanabiliyor musun?
 Bugünlerde kim var?
 
+566
+00:35:47,666 --> 00:35:49,916
+Bir göz at. Hala çalışıyor.
+
 567
 00:35:50,000 --> 00:35:51,583
-Bir göz at. Hala çalışıyor.
 <i>Ben sensiz böyleyim</i>
 
 568
@@ -2403,9 +2523,12 @@ Hala sende, değil mi?
 00:36:27,875 --> 00:36:30,000
 <i>Hey, Anna Júlia...</i>
 
+579
+00:36:30,083 --> 00:36:31,708
+Biliyorum...
+
 580
 00:36:32,333 --> 00:36:36,541
-Biliyorum...
 İkinizi birlikte izlemeyi özledim.
 Anne ve kızı gibi şarkı söylüyor.
 
@@ -2450,9 +2573,12 @@ Melodiyi beğendim.
 Yine de bir sorun var.
 Şarkı sözlerimin dahiyane olduğunu düşünüyorum.
 
+590
+00:37:14,000 --> 00:37:15,625
+Sonra bunların saçmalık olduğunu düşünüyorum.
+
 591
 00:37:15,708 --> 00:37:19,000
-Sonra bunların saçmalık olduğunu düşünüyorum.
 çok endişeliyim
 ve bunun için çok zaman harcadım.
 
@@ -2507,9 +2633,12 @@ Ben sadece tuhafım.
 00:37:54,875 --> 00:37:56,708
 Tamamen tuhaf.
 
+604
+00:37:57,625 --> 00:37:59,125
+Kim müziği sevmez?
+
 605
 00:38:02,166 --> 00:38:04,750
-Kim müziği sevmez?
 sadece istedim
 bugünü unutmak için, biliyor musun?
 
@@ -2555,10 +2684,13 @@ Ben çok gencim ve hala sahibim
 - Neyse, anladın değil mi?
 - Gerçekten bilmiyorum.
 
-616
-00:39:40,125 --> 00:39:42,291
+615
+00:39:36,666 --> 00:39:38,750
 - Ama iyi şanslar!
 - Sen de.
+
+616
+00:39:40,125 --> 00:39:42,291
 - Seni özleyeceğim.
 - Dikkatli ol!
 
@@ -2611,9 +2743,12 @@ Gel, gel, bugün ben...</i>
 00:40:31,041 --> 00:40:35,750
 <i>Anlamak istiyorum</i>
 
+628
+00:40:35,875 --> 00:40:40,958
+<i>Neden bu kadar zevk alıyorum</i>
+
 629
 00:40:41,500 --> 00:40:44,375
-<i>Neden bu kadar zevk alıyorum</i>
 <i>Seninleyken?</i>
 
 630
@@ -2669,9 +2804,12 @@ Bu iyi bir stajyer işi.
 - Bu sadece ilk.
 - Tebrikler.
 
+642
+00:41:30,625 --> 00:41:31,833
+Duydun mu, Anna Júlia?
+
 643
 00:41:39,291 --> 00:41:41,000
-Duydun mu, Anna Júlia?
 - Selam tatlım.
 - MERHABA.
 
@@ -2721,10 +2859,13 @@ Tanrım, güç bitti.
 00:42:09,958 --> 00:42:12,333
 Elektrik sorunlarıyla karşı karşıyayız.
 
-655
-00:42:17,500 --> 00:42:18,625
+654
+00:42:12,625 --> 00:42:16,625
 Bir elektrikçi bulamazsak,
 bina içinde biz varken yanabilir.
+
+655
+00:42:17,500 --> 00:42:18,625
 Yine olmaz dostum.
 
 656
@@ -2768,21 +2909,21 @@ Bizim şarkımız! Birlikte şarkı söyle bebeğim!
 00:43:06,000 --> 00:43:09,416
 <i>Oynamayı sevdiğini biliyorum</i>
 
-666
-00:43:10,083 --> 00:43:13,916
-<i>Sevmekten</i>
-
 667
 00:43:14,958 --> 00:43:20,958
+<i>Sevmekten</i>
 <i>Ama benimle değil</i>
 
 668
 00:43:21,958 --> 00:43:24,416
 <i>Benimle değil</i>
 
+669
+00:43:24,500 --> 00:43:27,583
+<i>Seni de biliyorum</i>
+
 670
 00:43:27,708 --> 00:43:33,375
-<i>Seni de biliyorum</i>
 <i>Başka bir şey bilmiyorum</i>
 
 671
@@ -2845,9 +2986,12 @@ Bizim şarkımız! Birlikte şarkı söyle bebeğim!
 00:44:59,041 --> 00:45:03,375
 <i>Biliyor musun? seviyorum</i>
 
+686
+00:45:03,458 --> 00:45:07,375
+<i>Biliyor musun? seviyorum</i>
+
 687
 00:45:07,458 --> 00:45:10,750
-<i>Biliyor musun? seviyorum</i>
 <i>Biliyor musun?</i>
 
 688
@@ -2931,9 +3075,12 @@ burayı terk edeceğim
 00:46:21,375 --> 00:46:23,166
 bana söz verirsen
 
+708
+00:46:24,625 --> 00:46:26,958
+annenle sonra konuşursun
+
 709
 00:46:27,208 --> 00:46:29,791
-annenle sonra konuşursun
 Tamam, söz veriyorum.
 
 710
@@ -2977,10 +3124,13 @@ orada tanışın ve birbirinizi tanıyın.</i>
 Binalarının elektrik sorunları var.
 Ateş alabilir.
 
-720
-00:47:17,750 --> 00:47:20,833
+719
+00:47:16,208 --> 00:47:17,666
 - Alevler içinde?
 - Evet.
+
+720
+00:47:17,750 --> 00:47:20,833
 - Bir şeyler yapabileceğimizi düşündüm.
 - Bununla ilgili bir rapor yaz.
 
@@ -3027,17 +3177,20 @@ Sanki sadece kendim için bir oyun alanındayım!
 730
 00:47:49,333 --> 00:47:52,375
 Jimi Hendrix dirildi,
-ve benimle oynuyor
+ve benimle oynuyor.
 
 731
 00:47:52,458 --> 00:47:53,541
 - Jimi'yi mi?
 - Hendrix.
 
-733
-00:47:58,166 --> 00:47:59,416
+732
+00:47:53,625 --> 00:47:57,750
 - DSÖ?
 - Gerçekten mi? Gitar çalan bir adam.
+
+733
+00:47:58,166 --> 00:47:59,416
 - Serin.
 - Bir göz atabilir miyim?
 
@@ -3095,9 +3248,12 @@ Hayır, gidebilirsin.
 00:48:32,833 --> 00:48:33,916
 Tamam aşkım.
 
+746
+00:48:36,708 --> 00:48:39,041
+Yaptığınız iş hakkında geri bildirim ister misiniz?
+
 747
 00:48:39,166 --> 00:48:40,166
-Yaptığınız iş hakkında geri bildirim ister misiniz?
 Evet.
 
 748
@@ -3148,9 +3304,12 @@ Bir fikrim var! Beklemek!
 00:49:20,750 --> 00:49:21,750
 Burada kal!
 
+759
+00:49:21,958 --> 00:49:25,333
+Çocukluğumdan beri yazıyorum.
+
 760
 00:49:25,458 --> 00:49:27,833
-Çocukluğumdan beri yazıyorum.
 Sana şiirlerimi, tekerlemelerimi göstermeliyim.
 
 761
@@ -3194,16 +3353,19 @@ Festivale kayıt olmak istiyorum.
 - İnsanların kalplerine dokunmak istiyorum.
 - Olmadığını mı düşünüyorsun?
 
-771
-00:49:57,875 --> 00:50:00,583
+770
+00:49:54,625 --> 00:49:57,625
 Bunu ilk hisseden bendim.
 Beni içten içe parçaladı, adamım.
+
+771
+00:49:57,875 --> 00:50:00,583
 Kayboldum. Senin için tamamen deli oluyorum!
 
 772
 00:50:00,708 --> 00:50:04,750
 Git, Ateşli Müzisyen! Bir göz at
-içinde bulunduğun stüdyonun etrafında. Vur!
+içinde bulunduğunuz stüdyonun etrafında. Vurun!
 
 773
 00:50:12,166 --> 00:50:16,666
@@ -3241,10 +3403,13 @@ Teşekkür ederim.
 00:50:46,583 --> 00:50:48,250
 Neden koşuyoruz?
 
-782
-00:50:51,208 --> 00:50:52,208
+781
+00:50:48,333 --> 00:50:50,750
 - Bilmiyorum. Nereye gidiyoruz?
 - Biliyorum.
+
+782
+00:50:51,208 --> 00:50:52,208
 Gelmek!
 
 783
@@ -3298,9 +3463,12 @@ Sizde <i>Várias Queixas</i> var mı?
 <i>Seni gördüğüm andan beri
 İnanamadım</i>
 
+795
+00:51:41,833 --> 00:51:46,541
+<i>Ama yapamazsam gel beni sev</i>
+
 796
 00:51:46,625 --> 00:51:48,625
-<i>Ama yapamazsam gel beni sev</i>
 <i>Birkaç şikayet</i>
 
 797
@@ -3350,9 +3518,12 @@ Bu şekilde senin için çıldıracağım</i>
 <i>al beni
 Bu şekilde senin için çıldıracağım</i>
 
+808
+00:52:39,791 --> 00:52:41,500
+<i>Birkaç şikayet</i>
+
 809
 00:52:41,625 --> 00:52:45,750
-<i>Birkaç şikayet</i>
 <i>Beni sevmeye cesaretin var mı</i>
 
 810
@@ -3363,12 +3534,9 @@ Bu şekilde senin için çıldıracağım</i>
 00:52:50,250 --> 00:52:53,625
 <i>Gelmeye cesaretin var mı</i>
 
-812
-00:52:54,458 --> 00:52:58,500
-<i>Merak ediyorum, merak ediyorum</i>
-
 813
 00:52:59,000 --> 00:53:02,916
+<i>Merak ediyorum, merak ediyorum</i>
 <i>Çok kilolu olduğumu söylüyorlar, sorun benim</i>
 
 814
@@ -3404,9 +3572,12 @@ Siyahi bir kadın farklıdır</i>
 00:53:32,833 --> 00:53:36,625
 <i>Ama ben de bilmek istiyorum</i>
 
+822
+00:53:37,458 --> 00:53:40,958
+<i>Nasıl olmak</i>
+
 823
 00:53:41,833 --> 00:53:45,958
-<i>Nasıl olmak</i>
 <i>Siyah adamımla barış içinde</i>
 
 824
@@ -3462,10 +3633,13 @@ Gel benimle kal</i>
 00:54:37,458 --> 00:54:41,250
 <i>Ben ve sen ve başka hiçbir şey</i>
 
-838
-00:54:47,625 --> 00:54:49,375
+837
+00:54:43,291 --> 00:54:47,250
 <i>Gel benimle kal
 Gel benimle kal</i>
+
+838
+00:54:47,625 --> 00:54:49,375
 <i>Gel benimle kal</i>
 
 839
@@ -3516,9 +3690,12 @@ Büyüyünce anlayacaksın.
 Hava soğuyacak
 ve ceketim yok.
 
+850
+00:56:26,791 --> 00:56:28,375
+Buna inanamıyorum.
+
 851
 00:56:29,333 --> 00:56:32,958
-Buna inanamıyorum.
 Hayatı planlanmış bir kız
 170 yaşına kadar bilmez
 
@@ -3573,9 +3750,12 @@ Teşekkür ederim.
 00:57:19,625 --> 00:57:22,250
 Ofisimize gelmeye karar verdiğinize sevindim.
 
+864
+00:57:22,375 --> 00:57:25,208
+Jaime toplantıya katılmak istiyor.
+
 865
 00:57:25,291 --> 00:57:27,625
-Jaime toplantıya katılmak istiyor.
 - Uzun sürmeyecek.
 - Tamam, bekleyelim.
 
@@ -3616,10 +3796,13 @@ ve tüm vakalardan...
 00:58:12,500 --> 00:58:14,666
 Ve diğer tüm durumlarda...
 
-875
-00:58:20,125 --> 00:58:21,666
+874
+00:58:16,250 --> 00:58:20,041
 Anna Júlia, ihtiyacın olduğunu düşünüyorum
 dışarıda bir şeyle ilgilenmek.
+
+875
+00:58:20,125 --> 00:58:21,666
 Üzgünüm. Affedersin!
 
 876
@@ -3683,9 +3866,12 @@ Oynamaya devam et, devam et.
 00:59:49,916 --> 00:59:50,916
 Merhaba Anna.
 
+890
+00:59:51,500 --> 00:59:52,750
+<i>Merhaba João.</i>
+
 891
 00:59:53,458 --> 00:59:54,833
-<i>Merhaba João.</i>
 Özür dilemek istiyorum.
 
 892
@@ -3737,9 +3923,12 @@ Annenle bir öğle yemeği ayarladım.
 01:00:25,708 --> 01:00:28,250
 Anna Júlia, söz vermiştin, unuttun mu?
 
+903
+01:00:29,291 --> 01:00:31,666
+Adres ve tarih burada.
+
 904
 01:00:39,541 --> 01:00:42,000
-Adres ve tarih burada.
 <i>- Üzgünüm João.</i>
 - Neden asık surat?
 
@@ -3809,10 +3998,13 @@ Ara beni.
 Ben miyim, yoksa yemek mi yapıyoruz?
 bugün normalden fazla mı?
 
-921
-01:01:42,833 --> 01:01:46,416
+920
+01:01:39,583 --> 01:01:42,750
 Daha fazla insan var.
 Su basmış çömelmeyi hatırlıyor musun?
+
+921
+01:01:42,833 --> 01:01:46,416
 İnsanları buraya getirmek zorundaydık,
 ve hala buradalar.
 
@@ -3858,9 +4050,12 @@ kariyerine devam etmek için?
 01:02:15,958 --> 01:02:17,541
 Ve ironik bir şekilde,
 
+931
+01:02:18,000 --> 01:02:20,291
+bir müzisyene aşık oluyor!
+
 932
 01:02:20,375 --> 01:02:21,791
-bir müzisyene aşık oluyor!
 O kıza odaklanmışsın.
 
 933
@@ -3914,15 +4109,18 @@ parlamak pes edecek mi?
 01:02:51,375 --> 01:02:53,583
 Otávio'nun sizin için oluşturduğu profili hatırlıyor musunuz?
 
+944
+01:02:54,583 --> 01:02:57,583
+40 bin takipçisi var kardeşim.
+
 945
 01:02:58,125 --> 01:03:01,666
-40 bin takipçisi var kardeşim.
 Ne istersen oynayabilirsin,
 nereye istersen!
 
 946
 01:03:04,541 --> 01:03:07,583
-Ben de lüks bir süit alacağım. Bakmak!
+Ve lüks bir süit alacağım. Bakmak!
 
 947
 01:03:10,208 --> 01:03:11,291
@@ -3952,13 +4150,10 @@ Vay!
 Dün tuhaf davrandıysam özür dilerim.
 Seni özledim. Tanışalim?
 
-953
-01:03:25,166 --> 01:03:28,666
-BİRDEN FAZLA SQUAT
-GRAFİK
-
 954
 01:03:28,750 --> 01:03:31,916
+BİRDEN FAZLA SQUAT
+GRAFİK
 BÜYÜME
 TEKLİFLER
 
@@ -3975,10 +4170,13 @@ Sofya, burada.
 - Acil bilgiler var.
 - Affedersin, Sophia.
 
-959
-01:03:43,041 --> 01:03:45,083
+958
+01:03:39,583 --> 01:03:42,958
 Anna Júlia, tuhaf bir adam var.
 aşağıda seni arıyorum
+
+959
+01:03:43,041 --> 01:03:45,083
 Ben olsam uzun sürmezdim.
 
 960
@@ -4030,10 +4228,13 @@ Buraya gel.
 Açıklamama izin ver. Çalıştığım yer burası.
 Buraya gelmemeliydin.
 
-972
-01:04:26,416 --> 01:04:28,625
+971
+01:04:22,791 --> 01:04:26,333
 Bu bir stajyerlik. İş olduğunda
 Beni görmek bile istemeyeceksin.
+
+972
+01:04:26,416 --> 01:04:28,625
 - Tanrı aşkına.
 - Bu taraftan...
 
@@ -4098,9 +4299,12 @@ Aç mısın?
 01:05:49,208 --> 01:05:51,208
 Hayır aç değilim.
 
+987
+01:05:51,291 --> 01:05:53,208
+Burada harika biftek milanesa servis ediyorlar.
+
 988
 01:05:53,791 --> 01:05:58,000
-Burada harika biftek milanesa servis ediyorlar.
 - Milanesa biftek sevmem.
 - Bayıldın, Anna Júlia!
 
@@ -4146,10 +4350,13 @@ Ben rapor yazarım, Pattie.
 01:06:56,000 --> 01:06:58,208
 Pek ilgini çekecek bir şey değil.
 
-1000
-01:07:02,291 --> 01:07:04,208
+999
+01:06:59,333 --> 01:07:02,041
 Seninle ilgili her şeyi ilginç buluyorum.
 Anna Júlia.
+
+1000
+01:07:02,291 --> 01:07:04,208
 Her zaman nasıl olduğunu bilmek istiyorum.
 
 1001
@@ -4195,15 +4402,18 @@ Seçimim kolay değildi.
 1010
 01:07:30,750 --> 01:07:33,208
 bir gün yoktu
-ki seni düşünmedim.
+seni düşünmediğimi
 
 1011
 01:07:34,000 --> 01:07:35,125
 Bu geçmişte kaldı!
 
+1012
+01:07:35,250 --> 01:07:38,333
+Şimdi buradayım. şimdi sana yakınım
+
 1013
 01:07:38,958 --> 01:07:40,750
-Şimdi buradayım. şimdi sana yakınım
 Ben... Anna!
 
 1014
@@ -4243,10 +4453,13 @@ Anna!
 Millet, dikkatinizi alabilir miyim?
 İyi haberlerim var.
 
-1023
-01:08:35,583 --> 01:08:37,791
+1022
+01:08:32,000 --> 01:08:34,500
 - Yemek bileti yükseltilecek mi?
 - HAYIR.
+
+1023
+01:08:35,583 --> 01:08:37,791
 Bu sabah Anna Júlia'nın raporunu okudum
 
 1024
@@ -4294,9 +4507,12 @@ Hadi gidelim. Üzgünüm çok uzun sürdü.
 - Kimse girip çıkmıyor.
 - Merhaba millet.
 
+1034
+01:09:32,083 --> 01:09:33,166
+Ne oldu?
+
 1035
 01:09:33,250 --> 01:09:35,291
-Ne oldu?
 Mahkeme kararı aldık.
 
 1036
@@ -4327,7 +4543,7 @@ ama bu sefer mücadele çetin olacak.
 
 1042
 01:09:54,541 --> 01:09:58,000
-Bina sahibi kiraladı
+Bina sahibi işe alındı
 şehirdeki en iyi hukuk firmalarından biri,
 
 1043
@@ -4348,9 +4564,12 @@ Annen bana öğle yemeğinden bahsetti.
 01:10:17,125 --> 01:10:18,583
 Anna Júlia!
 
+1047
+01:10:36,500 --> 01:10:38,625
+Baba... Lütfen, bugün olmaz.
+
 1048
 01:10:38,750 --> 01:10:42,750
-Baba... Lütfen, bugün olmaz.
 Az önce inanılmaz derecede aptalca bir şey yaptım.
 Bunun hakkında konuşmak istemiyorum.
 
@@ -4395,10 +4614,13 @@ hayallerinin peşinden gitmem için beni terk etti.
 01:11:12,916 --> 01:11:14,125
 Evet seninki.
 
-1059
-01:11:21,375 --> 01:11:24,500
+1058
+01:11:17,291 --> 01:11:20,666
 Kursunuzun ücretinin nasıl ödendiğini düşünüyorsunuz?
 Annendi.
+
+1059
+01:11:21,375 --> 01:11:24,500
 O çok çalıştı,
 para toplamak için şan dersleri vermek.
 
@@ -4435,9 +4657,12 @@ Bu oyunu oynamaya devam etmek istiyor musun? Bana bak!
 01:11:53,083 --> 01:11:54,291
 Bu senin seçimin.
 
+1067
+01:11:54,541 --> 01:11:57,083
+Bence artık büyüme vaktin geldi.
+
 1068
 01:11:57,291 --> 01:11:59,625
-Bence artık büyüme vaktin geldi.
 Hadi annene aç!
 
 1069
@@ -4546,9 +4771,12 @@ Benimle de bir tane ister misin?
 01:13:47,958 --> 01:13:50,208
 <i>Sonbahar bitiyordu ve bak.</i>
 
+1093
+01:13:50,375 --> 01:13:53,125
+<i>Hikayemin başka bir bölümü.</i>
+
 1094
 01:13:53,208 --> 01:13:55,625
-<i>Hikayemin başka bir bölümü.</i>
 <i>Her şeye yukarıdan bakmak.</i>
 
 1095
@@ -4592,10 +4820,13 @@ Taraf değiştir! Çömelmeyi savun.
 Tahliye edilmeyi hak etmiyorlar.
 Biliyorsun.
 
-1105
-01:14:36,041 --> 01:14:37,875
+1104
+01:14:31,750 --> 01:14:35,541
 Müşterilere karşı gelmemi istiyorsun
 ofisi ödeyen?
+
+1105
+01:14:36,041 --> 01:14:37,875
 Ortaklarımıza ne söylemeliyim?
 
 1106
@@ -4649,9 +4880,12 @@ Emin misin?
 01:15:09,833 --> 01:15:12,875
 O şarabın parasını ödeyebilirim. İnan bana.
 
+1118
+01:15:19,458 --> 01:15:21,750
+<i>Bizim için tattığımız daha iyi bir şey yok</i>
+
 1119
 01:15:22,000 --> 01:15:24,375
-<i>Bizim için tattığımız daha iyi bir şey yok</i>
 <i>Ödeme yaptığımı gördüklerindeki çirkin surattan daha fazla</i>
 
 1120
@@ -4693,9 +4927,12 @@ biliyorsun</i>
 01:15:58,666 --> 01:16:03,291
 <i>Rosé, sufle, sebebi ne</i>
 
+1129
+01:16:03,666 --> 01:16:05,416
+<i>Bu hezeyan bir zevk</i>
+
 1130
 01:16:05,500 --> 01:16:08,208
-<i>Bu hezeyan bir zevk</i>
 <i>Bir süsleme binası
 Yapacak bir şeyi yok</i>
 
@@ -4733,9 +4970,12 @@ Yukarı çıkmak için olgunlaşman gerekiyor</i>
 <i>Eğer bir şey aklını karıştırırsa
 Müşteriyi düşünün</i>
 
+1139
+01:16:34,083 --> 01:16:35,708
+<i>Verimli olmalısınız</i>
+
 1140
 01:16:35,791 --> 01:16:38,583
-<i>Verimli olmalısınız</i>
 <i>Uygunsuz hiçbir şey yok
 masum olma</i>
 
@@ -4781,9 +5021,12 @@ Kararlılık hayatta başarılı olur</i>
 01:16:57,208 --> 01:16:59,958
 <i>Irkçılara bardaktaki şarabı gösterin</i>
 
+1151
+01:17:03,916 --> 01:17:08,000
+<i>Öğrenmen gerekiyor</i>
+
 1152
 01:17:08,791 --> 01:17:10,708
-<i>Öğrenmen gerekiyor</i>
 <i>Öğrenmen gerekiyor</i>
 
 1153
@@ -4839,10 +5082,13 @@ bu şarkı festivale
 - Ama harika olacak.
 - O zaman hayır. Eğer bitmediyse...
 
-1166
-01:17:51,833 --> 01:17:53,291
+1165
+01:17:49,291 --> 01:17:51,750
 Zaten bir tane var.
 Buna bağlı kalalım.
+
+1166
+01:17:51,833 --> 01:17:53,291
 Affedersin.
 
 1167
@@ -4889,9 +5135,12 @@ ama eşyalarını aldı.
 01:18:37,333 --> 01:18:39,416
 Oyun salonunu daha sonra alacağını söyledi.
 
+1177
+01:18:40,083 --> 01:18:42,583
+Seni deli ettiğimi fark ettim.
+
 1178
 01:18:42,791 --> 01:18:44,416
-Seni deli ettiğimi fark ettim.
 Sadece benim için değildi, baba.
 
 1179
@@ -4956,15 +5205,18 @@ Ve beni mutlu ettin...
 yirmi beş buçuk gün
 sevdiğim bu atıştırmalıklarla!
 
-1195
-01:19:53,833 --> 01:19:56,583
+1194
+01:19:51,541 --> 01:19:53,708
 - Aya gidelim!
 - Hadi yapalım!
+
+1195
+01:19:53,833 --> 01:19:56,583
 Ekip, kasklar takılı ve...
 
 1196
 01:19:57,583 --> 01:20:00,916
-Hadi gidelim! Geri sayıma başla!
+Hadi gidelim! Geri sayıma başlayın!
 
 1197
 01:20:01,416 --> 01:20:02,500
@@ -5032,9 +5284,12 @@ Bizi buradan atmaya yardım ettiğin için mi?
 01:20:50,916 --> 01:20:51,916
 HAYIR.
 
+1213
+01:20:53,625 --> 01:20:55,583
+Sadece beni duymanı istedim.
+
 1214
 01:21:00,166 --> 01:21:01,583
-Sadece beni duymanı istedim.
 Seni anlıyorum, Anna Júlia.
 
 1215
@@ -5053,13 +5308,10 @@ Bu benim için yeni değil.
 01:21:14,041 --> 01:21:15,250
 Affedersin.
 
-1219
-01:23:11,458 --> 01:23:14,541
-hayatımda bir zaman vardı
-dünya dediği zaman
-
 1220
 01:23:14,875 --> 01:23:18,041
+hayatımda bir zaman vardı
+dünya dediği zaman
 bırakmam gerekiyordu
 mutlu olmak için kendimin bir parçası.
 
@@ -5096,10 +5348,13 @@ ileriye gitmek.
 01:23:39,791 --> 01:23:40,791
 Ve bugün,
 
-1230
-01:23:45,666 --> 01:23:50,166
+1229
+01:23:41,250 --> 01:23:44,708
 Bu şarkıyı adamak istiyorum
 çok özel bir kişiye
+
+1230
+01:23:45,666 --> 01:23:50,166
 yapan birine
 gecem çok daha mutlu
 
@@ -5164,9 +5419,12 @@ Ve asla olmayacağım.
 01:24:30,583 --> 01:24:32,208
 Ama ben senin yüzünden.
 
+1246
+01:24:34,041 --> 01:24:35,500
+Seninim.
+
 1247
 01:25:39,541 --> 01:25:40,791
-Seninim.
 - Alexandre.
 - MERHABA.
 
@@ -5220,10 +5478,13 @@ Festivalin tadını çıkarın!
 01:26:43,250 --> 01:26:45,541
 Ama aynı Anayasa şunu da söylüyor:
 
-1260
-01:26:48,750 --> 01:26:52,666
+1259
+01:26:45,833 --> 01:26:48,666
 her mülkün sahip olması gereken
 sosyal bir fonksiyon
+
+1260
+01:26:48,750 --> 01:26:52,666
 Başka bir deyişle, bu bir zorunluluktur.
 mülkün doğasında var
 
@@ -5264,10 +5525,13 @@ Bir de emlak vergisi borcu vardı.
 01:27:15,875 --> 01:27:17,333
 Hepsi bu raporda.
 
-1270
-01:27:19,625 --> 01:27:20,625
+1269
+01:27:18,166 --> 01:27:19,375
 - Wes mi?
 - Naber?
+
+1270
+01:27:19,625 --> 01:27:20,625
 Erkek kardeş!
 
 1271
@@ -5315,10 +5579,13 @@ Ama ben de inanıyorum
 aynı mücadeleyi verebiliriz
 ve farklı stratejiler.
 
-1282
-01:27:58,083 --> 01:27:59,791
+1281
+01:27:53,666 --> 01:27:57,375
 Ben de sistemi hacklemek istiyorum.
 ama kendime karşı dürüst olarak,
+
+1282
+01:27:58,083 --> 01:27:59,791
 inandığım şeyi yapmak,
 
 1283
@@ -5369,9 +5636,12 @@ Bu bir şaka!
 - Başlangıçtan beri...
 - Sakin ol.
 
+1294
+01:28:40,041 --> 01:28:41,958
+<i>O sonbaharda güneş bile parladı.</i>
+
 1295
 01:28:42,416 --> 01:28:44,666
-<i>O sonbaharda güneş bile parladı.</i>
 <i>Tabii ki çömelmeyi savunmam gerekiyordu.</i>
 
 1296
@@ -5436,9 +5706,12 @@ JP!
 01:30:48,541 --> 01:30:51,750
 <i>Ben...</i>
 
+1311
+01:30:54,250 --> 01:30:59,291
+<i>Sinema ekranlarına gideceğim, gideceğim</i>
+
 1312
 01:31:00,375 --> 01:31:03,750
-<i>Sinema ekranlarına gideceğim, gideceğim</i>
 <i>Hikayemi anlatacağım</i>
 
 1313
@@ -5495,9 +5768,12 @@ Mutlu?
 01:31:47,458 --> 01:31:50,125
 <i>Kafam karıştı</i>
 
+1326
+01:31:51,375 --> 01:31:54,958
+<i>Gücünüz, odak noktanız ve berraklığınız ile</i>
+
 1327
 01:31:55,041 --> 01:31:56,250
-<i>Gücünüz, odak noktanız ve berraklığınız ile</i>
 Gitmek!
 
 1328
@@ -5544,10 +5820,13 @@ Gitmek!
 <i>- Öyleyse git!
 - Git...</i>
 
-1338
-01:32:34,458 --> 01:32:38,250
+1337
+01:32:30,791 --> 01:32:34,333
 <i>- Biri seni üşütürse, git!
 - Git!</i>
+
+1338
+01:32:34,458 --> 01:32:38,250
 <i>- Felsefeleriniz uyuşuyorsa gidin!
 - Git</i>
 
@@ -5594,10 +5873,13 @@ Başka her şeyi başarabiliriz!
 01:33:56,125 --> 01:33:58,291
 <i>Sonbaharda nelerin olabileceğini görüyor musunuz?</i>
 
-1350
-01:34:03,125 --> 01:34:04,333
+1349
+01:33:58,375 --> 01:34:02,458
 <i>Mükemmel bir şekilde tamamlamak için,
 sevdiğim tek bir şey var!</i>
+
+1350
+01:34:03,125 --> 01:34:04,333
 <i>Müzik!</i>
 
 1351
@@ -5633,17 +5915,17 @@ sevdiğim tek bir şey var!</i>
 <i>hızlandım
 Böylece kendimi yakmazdım</i>
 
-1359
-01:34:30,541 --> 01:34:32,541
-<i>Funk geldi, samba ve ruh</i>
-
 1360
 01:34:32,625 --> 01:34:34,125
+<i>Funk geldi, samba ve ruh</i>
 <i>Kafiyemiz duramaz</i>
+
+1361
+01:34:34,208 --> 01:34:36,000
+<i>Öne çık, bizimle kal</i>
 
 1362
 01:34:36,083 --> 01:34:37,625
-<i>Öne çık, bizimle kal</i>
 <i>Hadi Paulista'nın nabzını atalım</i>
 
 1363
@@ -5684,9 +5966,12 @@ Dünyanın bu şekilde değişmesi</i>
 01:35:04,416 --> 01:35:07,458
 <i>Dünyanın bu şekilde değişmesi</i>
 
+1372
+01:35:07,541 --> 01:35:11,208
+<i>Git, ne kadar çok anlarsan</i>
+
 1373
 01:35:11,916 --> 01:35:14,958
-<i>Git, ne kadar çok anlarsan</i>
 <i>Dünyanın bu şekilde değişmesi</i>
 
 1374
@@ -5729,10 +6014,13 @@ Dünyanın bu şekilde değişmesi</i>
 01:35:48,958 --> 01:35:50,791
 <i>Bizi anlamayabilirler bile</i>
 
-1385
-01:35:54,583 --> 01:35:58,208
+1384
+01:35:50,875 --> 01:35:54,500
 <i>Ama şimdi bize katlanmak zorunda kalacaklar
 Şimdi onu görmek için para ödemeleri gerekiyor</i>
+
+1385
+01:35:54,583 --> 01:35:58,208
 <i>Ama unutmamamız bizim için
 Sevgiyi ve gücü hak ettiğimiz</i>
 
@@ -5772,9 +6060,12 @@ Sevgiyi ve gücü hak ettiğimiz</i>
 01:36:24,333 --> 01:36:27,958
 <i>Git, ne kadar çok anlarsan</i>
 
+1395
+01:36:28,791 --> 01:36:32,583
+<i>Dünyanın bu şekilde değişmesi</i>
+
 1396
 01:36:35,208 --> 01:36:36,916
-<i>Dünyanın bu şekilde değişmesi</i>
 Unutulmaz Bir Yıl SONBAHAR
 
 1397
@@ -5816,10 +6107,13 @@ Unutulmaz Bir Yıl SONBAHAR
 <i>Sürekli şarkı söyle, yüksek sesle söyle</i>
 <i>Söyle, yaz hitini söyle</i>
 
-1407
-01:37:32,333 --> 01:37:37,916
+1406
+01:37:28,000 --> 01:37:32,250
 <i>Şunu söyle çünkü kış farklıdır</i>
 <i>Başka bir sezon</i>
+
+1407
+01:37:32,333 --> 01:37:37,916
 <i>Devam et, biz ışık</i>
 <i>Atım, kalp devam ediyor</i>
 
@@ -5851,10 +6145,13 @@ Unutulmaz Bir Yıl SONBAHAR
 <i>Kasabayı kırmızıya boya</i>
 <i>Elimi bırakma</i>
 
-1415
-01:38:09,541 --> 01:38:14,375
+1414
+01:38:04,875 --> 01:38:09,416
 <i>Birlikte şarkı söyleyin, şarkı söyleyin ve döndürün</i>
 <i>Bu baharın sonbahar olduğunu</i>
+
+1415
+01:38:09,541 --> 01:38:14,375
 <i>Devam et, biz ışık</i>
 <i>Atım, kalp devam ediyor</i>
 
@@ -5886,6 +6183,20 @@ Atış, kalp devam ediyor</i>
 01:38:55,208 --> 01:39:00,541
 <i>Devam et, biz ışık</i>
 <i>Atım, kalp devam ediyor</i>
+
+1422
+01:39:04,625 --> 01:39:09,958
+<i>Devam et, biz ışık</i>
+<i>Atım, kalp devam ediyor</i>
+
+1423
+01:39:13,791 --> 01:39:19,166
+<i>Devam et, biz ışık</i>
+<i>Atım, kalp devam ediyor</i>
+
+1424
+01:42:31,791 --> 01:42:33,791
+Çeviren: Marcio A. Santos
 
 Translated by subtitle_translator via google translator 
 written by Mesut Gunes: https://github.com/gunesmes/subtitle_translator

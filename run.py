@@ -56,7 +56,7 @@ def translater(argv):
             continue
 
     for file in files:
-        print(" - - - - Translating: {file} - - - - - -")
+        print(f" - - - - Translating: {file} - - - - - -")
         subFile = os.path.dirname(os.path.abspath(file)) + "/" + file
 
         """
