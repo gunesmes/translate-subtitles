@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: transitle
+Version: 0.0.1
+Summary: Translate subtitles in a folder
+Home-page: https://github.com/gunesmes/subtitle_translator
+Author: Mesut Gunes
+Author-email: gunesmes@gmail.com
+License: LICENSE.md
+Requires-Python: >=3.0
+License-File: LICENSE
+
+transitle allows you to translate subtitles in a directory flawlessly with your favorite translator.

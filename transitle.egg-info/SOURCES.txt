@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+transitle/__init__.py
+transitle/__main__.py
+transitle/translator.py
+transitle/ts.py
+transitle.egg-info/PKG-INFO
+transitle.egg-info/SOURCES.txt
+transitle.egg-info/dependency_links.txt
+transitle.egg-info/entry_points.txt
+transitle.egg-info/requires.txt
+transitle.egg-info/top_level.txt
