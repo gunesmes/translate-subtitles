@@ -1,5 +1,5 @@
 LICENSE
-README.md
+README.rst
 setup.py
 transitle/__init__.py
 transitle/__main__.py

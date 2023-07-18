@@ -1,22 +1,22 @@
-## 2.0.1 - 15.06.2023
+Changelog
+---------
 
-### Changed
-- Two type of srt new line issue fixed
+## 1.0.0 - 18.07.2023
 
-## 2.0.0 - 14.06.2023
+### Added
+- ts cli
+- ts package
+
+## 0.0.0 - 14.06.2023
 
 ### Added
 - Switch to googletranslatepy
 - Switch to raw tranlastion with length of GOOGLE_TRANSLATION_LIMIT 
+- Google translate
+- Yandex translate
 
 ### Changed
 - New sample subtitle
 
 ### Removed
 - Yandex disabled
-
-## 1.0.0 - 10.02.2014
-
-### Added
-- Google translate
-- Yandex translate

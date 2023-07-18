@@ -1,4 +1,13 @@
+# local dev
 pip3 install .        
 
-
+# upload to pypi
 python3 -m build
+python3 -m twine upload --repository pypi dist/*
+
+Twine reads username and password from the $HOME/.pypirc
+[pypi]
+  username = __token__
+  password = pypi-token
+
+token is from: https://pypi.org/manage/account/token/
