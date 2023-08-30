@@ -36,7 +36,7 @@ def main():
     except IndexError:
         print("Arguments Error! Please run the file with the following format:")
         print(
-            "\n   python run.py 'path/to/files' 'translator:google or yandex' 'source language' 'target language'\n   python run.py /Users/mesutgunes/Downloads/subtitles google pl tr\n")
+            "\n   ts 'path/to/files' 'translator:google or yandex' 'source language' 'target language'\n   ts /Users/mesutgunes/Downloads/subtitles google pl tr\n")
         sys.exit(2)
 
     ts(file_dir=file_dir, translator=translator, source_lang=source_language, target_lang=target_language)

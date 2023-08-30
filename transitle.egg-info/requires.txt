@@ -1,1 +1,2 @@
-googletrans
+googletranslate_python
+requests

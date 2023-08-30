@@ -146,7 +146,7 @@ class TranslateSubtitle():
                 text_translatable += text_info + "\n\r"
                 
         for d, c in zip(durations, contents):
-            fw.write(d)
+            fw.write(d.replace('\r\r', ''))
             fw.write(c + "\n")
             print(d + c)
 

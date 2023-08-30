@@ -18,7 +18,7 @@ with codecs.open(os.path.join(pwd, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name = "transitle",
-    version = "1.0.0",
+    version = "1.0.1",
     author = "Mesut Gunes",
     author_email = "gunesmes@gmail.com" ,
     description = "Translate subtitles in a folder flawlessly",
@@ -32,5 +32,5 @@ setup(
         'console_scripts': ['ts = transitle.__main__:main']
     },
     python_requires = ">=3.0",
-    install_requires = ['googletrans']
+    install_requires = ['googletranslate_python', 'requests']
 )
