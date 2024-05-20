@@ -121,7 +121,7 @@ class TranslateSubtitle():
             time_info = ''
             text_info = ''
             for i in range(len(lines)):
-                if lines[i].rstrip().isdigit() and "-->" in lines[i + 1] or "-->" in lines[i]:
+                if i < len(lines) - 1 and lines[i].rstrip().isdigit() and "-->" in lines[i + 1] or "-->" in lines[i]:
                     time_info += lines[i] + "\r\n"
                     continue
                 else:
