@@ -1,6 +1,27 @@
 Changelog
 ---------
 
+## 1.1.0 - 24.05.2024
+### Added
+- More translator added: 
+    chatgpt
+    microsoft
+    pons
+    linguee
+    mymemory
+    yandex
+    papago
+    deepl
+    qcri
+
+### Fixed 
+- Issue when line is only number
+
+
+### Fixed
+- required libs corrected
+- error message corrected
+
 ## 1.0.1 - 30.08.2023
 
 ### Fixed

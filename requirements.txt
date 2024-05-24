@@ -1,2 +1,3 @@
-googletranslate_python==1.0.3
 Requests==2.31.0
+deepl==1.18.0
+deep-translator==1.11.4
