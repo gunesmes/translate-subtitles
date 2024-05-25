@@ -1,11 +1,19 @@
-Translate Subtitles - transitle
+AI Based Subtitle Translator - transitle
 ===============================
 |PyPI latest| |PyPI Version| |PyPI License| |Docs|
 
-translate_subtitles allows you to translate subtitles in a directory
-flawlessly with your favorite translator. Translate bunch of subtitles
-from original language to desired language. This gives you a machine
-translated subtitle.
+Transitle is a AI-based subtitle translator. It allows you to translate subtitles 
+in a directory flawlessly with your favorite translator. Translate bunch of 
+subtitlesfrom original language to desired language. This gives you a AI-based
+translated subtitle. 
+
+Transitle also has support for using AI-based translator such as:
+ - [deepl](https://www.deepl.com/translator)
+ - [google](https://translate.google.com/)
+ - [mymemory](https://mymemory.ai/)
+ - [papago](https://papago.naver.com/)
+ - [qcri](https://mt.qcri.org/api/)
+
 
 ``pip install transitle``
 
@@ -24,6 +32,24 @@ To run the translater
 -  For yandex you must have Yandex Translater API key. You can get it
    from here: http://api.yandex.com/key/keyslist.xml
 
+Translators
+-----------
+There buch of translators including AI-based translation `Deepl`. You can
+register and create a API token and then put it in the environment variables.
+Most of the toolings provide free limited translation.
+
+Alternative translators:
+ - google
+ - chatgpt
+ - microsoft
+ - pons
+ - linguee
+ - mymemory
+ - yandex
+ - papago
+ - deepl
+ - qcri
+
 Run as a CLI tooling
 --------------------
 
@@ -40,7 +66,7 @@ Run as a CLI tooling
    2
    00:00:10,750 --> 00:00:13,166
    <i>neredeyse 13 milyon kişi.</i>
-
+   
 Use as a library
 ----------------
 

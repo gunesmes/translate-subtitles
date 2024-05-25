@@ -5,22 +5,30 @@
 # Author Github username: gunesmes
 
 import codecs
-import sys
+import os
 import time
+from deep_translator import (GoogleTranslator,
+                             ChatGptTranslator,
+                             MicrosoftTranslator,
+                             PonsTranslator,
+                             LingueeTranslator,
+                             MyMemoryTranslator,
+                             YandexTranslator,
+                             PapagoTranslator,
+                             DeeplTranslator,
+                             QcriTranslator)
 
-import requests
-from googletranslatepy import Translator
-
-# get yandex translate key from: https://translate.yandex.com/developers/keys
-YANDEX_API_KEY = "trnsl.YANDEX-TRANSLATE-API-KEY"
-GOOGLE_TRANSLATION_LIMIT = 5000
+TRANSLATION_LIMIT = 5000
 
 class TranslateSubtitle():
-    def __init__(self) -> None:
-        pass
+    def __init__(self, abs_path, out, translator, source_lang, target_lang) -> None:
+        self.abs_path = abs_path
+        self.translation_path = out
+        self.translator = translator
+        self.source_lang = source_lang
+        self.target_lang = target_lang
 
-    @staticmethod
-    def read_file_as_list(file_name):
+    def read_file_as_list(self, file_name):
         fr = codecs.open(file_name, "r", encoding='utf-8-sig')
         lines = fr.read()
         fr.close()
@@ -31,16 +39,19 @@ class TranslateSubtitle():
         if "\n\n" in lines:
             return lines.split("\n\n")
 
-    @staticmethod
-    def write_file(self, file_name, target_language, source_language):
-        fn = self.format_file_name(file_name, target_language, source_language)
+    def write_file(self, file_name):
+        fn = self.format_file_name(file_name)
         fw = open(fn, 'w')
-
         return fw
 
-    @staticmethod
-    def format_file_name(file_name, target_language, source_language):
-        name_sep = "_" + source_language + "_to_" + target_language
+    def format_file_name(self, file_name):
+        # Check if the directory already exists
+        if not os.path.exists(self.translation_path):
+            # If it doesn't exist, create the directory
+            os.makedirs(self.translation_path)
+            print(f"Translation folder created at: {self.translation_path}")
+
+        name_sep = f'{self.source_lang}-to-{self.target_lang}-{self.translator}'
 
         # index number of last dot
         last_dot = file_name.rfind('.')
@@ -48,40 +59,14 @@ class TranslateSubtitle():
         # means that there is no dot in the file name, 
         # and file name has no file type extension 
         if last_dot == -1:
-            new_file_name = file_name + str(name_sep) + '.srt'
-
+            new_file_name = self.translation_path + file_name + str(name_sep) + '.srt'
         else:
             baseName = file_name[0: last_dot]
             ext = file_name[last_dot: len(file_name)]
-            new_file_name = baseName + str(name_sep) + ext
+            new_file_name = self.translation_path + baseName + str(name_sep) + ext
         return new_file_name
 
-    @staticmethod
-    def yandex_translator(prepared_sub, source_language, target_language):
-        # Using Yandex translator api is free!
-        url = "https://translate.yandex.net/api/v1.5/tr.json/translate"
-
-        # Get Yandex API key from http://api.yandex.com/key/form.xml?service=trnsl
-        yandex_api_key = YANDEX_API_KEY
-
-        data = {
-            'text': prepared_sub,
-            'format': "plain",
-            'lang': source_language + "-" + target_language,
-            'key': yandex_api_key
-        }
-
-        response = requests.post(url, data)
-        response = response.json()
-        if response["code"] > 400:
-            print(
-                "\n   Get Yandex API key from 'http://api.yandex.com/key/form.xml?service=trnsl' \n   then set the 'yandex_api_key' at line 100 in 'src/subtitle_translater.py'\n")
-            sys.exit()
-
-        return response['text'][0]
-
-
-    def subtitle_translator(self, file_name, translator_tool, source_language, target_language):
+    def subtitle_translator(self, file_name):
         """
         this function translate a subtitle file from original language to desired  language
         
@@ -102,12 +87,43 @@ class TranslateSubtitle():
             
             3
         """
-        fw = self.write_file(self, file_name, target_language, source_language)
+        fw = self.write_file(file_name)
         content_list = self.read_file_as_list(file_name)
         durations = []
         contents = []
         text_translatable = ''
-        translator = Translator(source=source_language, target=target_language)
+        
+        translator = None
+        if self.translator == 'google':
+            translator = GoogleTranslator(source=self.source_lang, target=self.target_lang)
+
+        if self.translator == 'chatgpt':
+            translator = ChatGptTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'microsoft':
+            translator = MicrosoftTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'pons':
+            translator = PonsTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'linguee':
+            translator = LingueeTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'mymemory':
+            translator = MyMemoryTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'yandex':
+            translator = YandexTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'papago':
+            translator = PapagoTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'deepl':
+            translator = DeeplTranslator(source=self.source_lang, target=self.target_lang)
+        
+        if self.translator == 'qcri':
+            translator = QcriTranslator(source=self.source_lang, target=self.target_lang)
+                
         number_of_translatable_content = len(content_list)
 
         for c in range(number_of_translatable_content):
@@ -128,10 +144,10 @@ class TranslateSubtitle():
                     text_info += lines[i] + "\n" 
                 
             # list doesn't have the value at number_of_translatable_content index
-            if len(text_translatable) + len(text_info) > GOOGLE_TRANSLATION_LIMIT or c == number_of_translatable_content-1:
+            if len(text_translatable) + len(text_info) > TRANSLATION_LIMIT or c == number_of_translatable_content-1:
                 try:  
                     translated_sub = translator.translate(text_translatable)
-                    # translated_sub = self.yandex_translator(text_translatable, source_language, target_language)
+                    # translated_sub = self.yandex_translator(text_translatable, self.source_lang, self.target_lang)
                     temp_translated = translated_sub.split("\n\r")
                     temp_translated[-1] = temp_translated[-1] + "\n"
                     contents += temp_translated
@@ -151,7 +167,7 @@ class TranslateSubtitle():
             print(d + c)
 
         # Print information about the subtitle
-        info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" % translator_tool
+        info = "Translated by subtitle_translator via %s translator \nwritten by Mesut Gunes: https://github.com/gunesmes/subtitle_translator\n" % self.translator
         fw.write(info)
         print(info)
-        print("New file name: ", self.format_file_name(file_name, target_language, source_language))
+        print("New file name: ", self.format_file_name(file_name))

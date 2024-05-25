@@ -31,12 +31,12 @@ def main():
         translator = args[1]
 
         # set languages you want to translate
-        source_language = args[2]
-        target_language = args[3]
+        source_lang = args[2]
+        target_lang = args[3]
     except IndexError:
         print("Arguments Error! Please run the file with the following format:")
         print(
-            "\n   ts 'path/to/files' 'translator:google or yandex' 'source language' 'target language'\n   ts /Users/mesutgunes/Downloads/subtitles google pl tr\n")
+            "\n   ts 'path/to/files' 'translator' 'source language' 'target language'\n   ts /Users/mesutgunes/Downloads/subtitles google pl tr\n\nAlternative translators:\n - google\n - chatgpt\n - microsoft\n - pons\n - linguee\n - mymemory\n - yandex\n - papago\n - deepl\n - qcri\n")
         sys.exit(2)
 
-    ts(file_dir=file_dir, translator=translator, source_lang=source_language, target_lang=target_language)
+    ts(file_dir=file_dir, translator=translator, source_lang=source_lang, target_lang=target_lang)
