@@ -41,7 +41,7 @@ class TranslateSubtitle():
 
     def write_file(self, file_name):
         fn = self.format_file_name(file_name)
-        fw = open(fn, 'w')
+        fw = open(fn, 'w', encoding="utf-8")
         return fw
 
     def format_file_name(self, file_name):
