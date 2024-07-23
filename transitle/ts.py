@@ -126,7 +126,7 @@ class TranslateSubtitle():
                 
         number_of_translatable_content = len(content_list)
 
-        for c in range(number_of_translatable_content):
+        for c in range(number_of_translatable_content + 1):
             lines = []
             # some SRTs such as created by whisper doesn't have \r\n but some other have it
             if "\r\n" in content_list[c]:
