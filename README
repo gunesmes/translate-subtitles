@@ -17,8 +17,9 @@ Transitle also has support for using AI-based translator such as:
 
 Install the package
 
-      pip install transitle
-
+```shell
+pip install transitle
+```
 
 <!---
 ![Subtitle Demo Gif](img/tty.gif)
