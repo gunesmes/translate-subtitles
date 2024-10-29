@@ -15,13 +15,14 @@ Transitle also has support for using AI-based translator such as:
  - [qcri](https://mt.qcri.org/api/)
 
 
-``pip install transitle``
+Install the package
 
-.. raw:: html
+      pip install transitle
 
-   <!---
-   ![Subtitle Demo Gif](img/tty.gif)
-   --->
+
+<!---
+![Subtitle Demo Gif](img/tty.gif)
+--->
 
 To run the translater
 =====================
@@ -52,78 +53,75 @@ Alternative translators:
 
 Run as a CLI tooling
 --------------------
+      pip install transitle
+      ts ~/Downloads/subtitles google en tr
+      
+      - - - - - - - - Translating: sample.srt - - - - - - - -
+      1
+      00:00:09,750 --> 00:00:10,666
+      <i>São Paulo,</i>
 
-.. code:: shell
-
-   ➜  ~ pip install transitle
-   ➜  ~ ts ~/Downloads/subtitles google en tr
-
-    - - - - - - - - Translating: sample.srt - - - - - - - -
-   1
-   00:00:09,750 --> 00:00:10,666
-   <i>São Paulo,</i>
-
-   2
-   00:00:10,750 --> 00:00:13,166
-   <i>neredeyse 13 milyon kişi.</i>
-   
+      2
+      00:00:10,750 --> 00:00:13,166
+      <i>neredeyse 13 milyon kişi.</i>
+      
 Use as a library
 ----------------
 
-.. code:: shell
+* Translate subtitles in a path
 
-   # translate subtitles in a path
-   >>> from transitle import ts
-   >>> ts('/Users/mesutgunes/Downloads/subtitles', 'google', 'en', 'tr')
+      >>> from transitle import ts
+      >>> ts('/Users/mesutgunes/Downloads/subtitles', 'google', 'en', 'tr')
 
-    - - - - - - - - Translating: sample.srt - - - - - - - -
-   1
-   00:00:09,750 --> 00:00:10,666
-   <i>São Paulo,</i>
+      - - - - - - - - Translating: sample.srt - - - - - - - -
+      1
+      00:00:09,750 --> 00:00:10,666
+      <i>São Paulo,</i>
 
-   2
-   00:00:10,750 --> 00:00:13,166
-   <i>neredeyse 13 milyon kişi.</i>
+      2
+      00:00:10,750 --> 00:00:13,166
+      <i>neredeyse 13 milyon kişi.</i>
 
-   3
-   00:00:13,250 --> 00:00:16,583
-   <i>Hikayemin bu kısmı burada başladı.
-   sonbaharda.</i>
+      3
+      00:00:13,250 --> 00:00:16,583
+      <i>Hikayemin bu kısmı burada başladı.
+      sonbaharda.</i>
 
-   # translate a subtitle
-   >>> from translate_subtitles import TranslateSubtitle
-   >>> tr = TranslateSubtitle()
-   >>> tr.subtitle_translator('/Users/mesutgunes/Downloads/subtitles/sample.srt', 'google', 'en', 'tr')
 
-    - - - - - - - - Translating: sample.srt - - - - - - - -
-   1
-   00:00:09,750 --> 00:00:10,666
-   <i>São Paulo,</i>
 
-   2
-   00:00:10,750 --> 00:00:13,166
-   <i>neredeyse 13 milyon kişi.</i>
+* Translate a subtitle
+
+      >>> from translate_subtitles import TranslateSubtitle
+      >>> tr = TranslateSubtitle()
+      >>> tr.subtitle_translator('/Users/mesutgunes/Downloads/subtitles/sample.srt', 'google', 'en', 'tr')
+
+      - - - - - - - - Translating: sample.srt - - - - - - - -
+      1
+      00:00:09,750 --> 00:00:10,666
+      <i>São Paulo,</i>
+
+      2
+      00:00:10,750 --> 00:00:13,166
+      <i>neredeyse 13 milyon kişi.</i>
 
 Local Development
 =================
 
 Make sure you have Python 2.7 or above installed Check Python:
 
-.. code:: shell
-
-   python --version
+      python --version
 
 Clone the project:
 
-.. code:: shell
+      git clone https://github.com/gunesmes/subtitle_translator.git
 
-   >>> git clone https://github.com/gunesmes/subtitle_translator.git
+Edit code and install it
+      
+      pip3 install .  
 
-   # edit code and install it
-   >>> pip3 install .  
+Use it as normal
 
-   # use it as normal
-   >>> ts('/Users/mesutgunes/Downloads/subtitles', 'google', 'en', 'tr') 
+      ts('/Users/mesutgunes/Downloads/subtitles', 'google', 'en', 'tr') 
 
 -  Don't wory about source language, translater can understand it. (not
    released)
